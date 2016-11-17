@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 00:18:49 +0000 2016",
+		"id": 799044082085625900,
+		"id_str": "799044082085625856",
+		"text": "RT @james3neal: ICYMI: I really encourage all librarians to read this: \"Public In/Formation\" by @shannonmattern https://t.co/jGCcJvtXYs htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "james3neal",
+					"name": "James Neal",
+					"id": 8039622,
+					"id_str": "8039622",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "shannonmattern",
+					"name": "Shannon Mattern",
+					"id": 357916553,
+					"id_str": "357916553",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jGCcJvtXYs",
+					"expanded_url": "https://placesjournal.org/article/public-information/#.WCzmRkEJGHt.twitter",
+					"display_url": "placesjournal.org/article/public…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555,
+			"friends_count": 691,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 966,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 23:08:42 +0000 2016",
+			"id": 799026437072310300,
+			"id_str": "799026437072310273",
+			"text": "ICYMI: I really encourage all librarians to read this: \"Public In/Formation\" by @shannonmattern… https://t.co/bcSmWWYeXv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shannonmattern",
+						"name": "Shannon Mattern",
+						"id": 357916553,
+						"id_str": "357916553",
+						"indices": [
+							80,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bcSmWWYeXv",
+						"expanded_url": "https://twitter.com/i/web/status/799026437072310273",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8039622,
+				"id_str": "8039622",
+				"name": "James Neal",
+				"screen_name": "james3neal",
+				"location": "Greenbelt, MD - Columbia, SC",
+				"description": "MLS @I_UMD | BA @Morehouse | Program Officer  @US_IMLS: Access/Equity - Public Libraries - Info Policy (Views are my own)",
+				"url": "https://t.co/493YJdINNy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/493YJdINNy",
+								"expanded_url": "http://james3neal.tumblr.com/",
+								"display_url": "james3neal.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8170,
+				"friends_count": 8973,
+				"listed_count": 680,
+				"created_at": "Tue Aug 07 21:57:03 +0000 2007",
+				"favourites_count": 61229,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60376,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/215054532/1969.47.24_1a.jpg.scaled1000.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/215054532/1969.47.24_1a.jpg.scaled1000.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128803537/JPNIII_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128803537/JPNIII_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8039622/1398392088",
+				"profile_link_color": "23B316",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 15 17:39:21 +0000 2016",
 		"id": 798581167347892200,
 		"id_str": "798581167347892224",
