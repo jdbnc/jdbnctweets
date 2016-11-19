@@ -1,6 +1,680 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 19 01:45:27 +0000 2016",
+		"id": 799790659037237200,
+		"id_str": "799790659037237248",
+		"text": "RT @PicardTips: Picard strategy tip: When an egotistical, malevolent person tells you their dangerous intent, believe them.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PicardTips",
+					"name": "Picard Tips",
+					"id": 1184647243,
+					"id_str": "1184647243",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 694,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 970,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 19 01:24:49 +0000 2016",
+			"id": 799785467684134900,
+			"id_str": "799785467684134912",
+			"text": "Picard strategy tip: When an egotistical, malevolent person tells you their dangerous intent, believe them.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1184647243,
+				"id_str": "1184647243",
+				"name": "Picard Tips",
+				"screen_name": "PicardTips",
+				"location": "Alpha Quadrant",
+				"description": "Wishing for a thing does not make it so. (By @JoeSondow) earlgrey@picardtips.com",
+				"url": "https://t.co/I8qlXalCSp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I8qlXalCSp",
+								"expanded_url": "http://patreon.com/JoeSondow",
+								"display_url": "patreon.com/JoeSondow",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75731,
+				"friends_count": 2,
+				"listed_count": 1171,
+				"created_at": "Sat Feb 16 04:31:23 +0000 2013",
+				"favourites_count": 3598,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 802,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/846611195/714cf77e2566d181042cbb6ed1a36033.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/846611195/714cf77e2566d181042cbb6ed1a36033.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/416337864809402368/iSHIA4Zt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/416337864809402368/iSHIA4Zt_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1184647243/1398229393",
+				"profile_link_color": "2366D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 453,
+			"favorite_count": 570,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 18 05:16:44 +0000 2016",
+		"id": 799481445664362500,
+		"id_str": "799481445664362496",
+		"text": "RT @pptsapper: In case y'all missed it, the National Archives has been trolling 2016 politics hard this week. https://t.co/SYIMVAFTsG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptsapper",
+					"name": "Angry Staff Officer",
+					"id": 382810104,
+					"id_str": "382810104",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 799362464986976300,
+					"id_str": "799362464986976256",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+					"url": "https://t.co/SYIMVAFTsG",
+					"display_url": "pic.twitter.com/SYIMVAFTsG",
+					"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 492,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 492,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799362919372877800,
+					"source_status_id_str": "799362919372877824",
+					"source_user_id": 382810104,
+					"source_user_id_str": "382810104"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 799362464986976300,
+					"id_str": "799362464986976256",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+					"url": "https://t.co/SYIMVAFTsG",
+					"display_url": "pic.twitter.com/SYIMVAFTsG",
+					"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 492,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 492,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799362919372877800,
+					"source_status_id_str": "799362919372877824",
+					"source_user_id": 382810104,
+					"source_user_id_str": "382810104"
+				},
+				{
+					"id": 799362737050501100,
+					"id_str": "799362737050501120",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/CxfoLJSUQAAq2wE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxfoLJSUQAAq2wE.jpg",
+					"url": "https://t.co/SYIMVAFTsG",
+					"display_url": "pic.twitter.com/SYIMVAFTsG",
+					"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 596,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 481,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 481,
+							"h": 596,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799362919372877800,
+					"source_status_id_str": "799362919372877824",
+					"source_user_id": 382810104,
+					"source_user_id_str": "382810104"
+				},
+				{
+					"id": 799362897159733200,
+					"id_str": "799362897159733248",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/CxfoUdvVQAA9ESi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxfoUdvVQAA9ESi.jpg",
+					"url": "https://t.co/SYIMVAFTsG",
+					"display_url": "pic.twitter.com/SYIMVAFTsG",
+					"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 303,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 486,
+							"h": 303,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799362919372877800,
+					"source_status_id_str": "799362919372877824",
+					"source_user_id": 382810104,
+					"source_user_id_str": "382810104"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 694,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 970,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2790,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 21:25:46 +0000 2016",
+			"id": 799362919372877800,
+			"id_str": "799362919372877824",
+			"text": "In case y'all missed it, the National Archives has been trolling 2016 politics hard this week. https://t.co/SYIMVAFTsG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 799362464986976300,
+						"id_str": "799362464986976256",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+						"url": "https://t.co/SYIMVAFTsG",
+						"display_url": "pic.twitter.com/SYIMVAFTsG",
+						"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 492,
+								"h": 590,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 492,
+								"h": 590,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 492,
+								"h": 590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799362464986976300,
+						"id_str": "799362464986976256",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cxfn7TxUUAAjuKP.jpg",
+						"url": "https://t.co/SYIMVAFTsG",
+						"display_url": "pic.twitter.com/SYIMVAFTsG",
+						"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 492,
+								"h": 590,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 492,
+								"h": 590,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 492,
+								"h": 590,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 799362737050501100,
+						"id_str": "799362737050501120",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/CxfoLJSUQAAq2wE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxfoLJSUQAAq2wE.jpg",
+						"url": "https://t.co/SYIMVAFTsG",
+						"display_url": "pic.twitter.com/SYIMVAFTsG",
+						"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 596,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 481,
+								"h": 596,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 481,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 799362897159733200,
+						"id_str": "799362897159733248",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/CxfoUdvVQAA9ESi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxfoUdvVQAA9ESi.jpg",
+						"url": "https://t.co/SYIMVAFTsG",
+						"display_url": "pic.twitter.com/SYIMVAFTsG",
+						"expanded_url": "http://twitter.com/pptsapper/status/799362919372877824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 486,
+								"h": 303,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 486,
+								"h": 303,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 486,
+								"h": 303,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 382810104,
+				"id_str": "382810104",
+				"name": "Angry Staff Officer",
+				"screen_name": "pptsapper",
+				"location": "The Edge of Empire",
+				"description": "Historian, Army officer, transplanted Buckeye, purveyor of Drunj History. Belongs to @ladyandalawyer. My views do not reflect or represent the DoD's.",
+				"url": "https://t.co/Hih5hjJImQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Hih5hjJImQ",
+								"expanded_url": "http://angrystaffofficer.com/",
+								"display_url": "angrystaffofficer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7855,
+				"friends_count": 1397,
+				"listed_count": 218,
+				"created_at": "Fri Sep 30 18:37:50 +0000 2011",
+				"favourites_count": 112258,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 56010,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589035455619829761/J_nAUkKb.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589035455619829761/J_nAUkKb.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450009196432748544/DQezkjIM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450009196432748544/DQezkjIM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/382810104/1407337312",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 715,
+			"favorite_count": 689,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 715,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 17 00:18:49 +0000 2016",
 		"id": 799044082085625900,
 		"id_str": "799044082085625856",
