@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 23 18:13:46 +0000 2016",
+		"id": 801488930768113700,
+		"id_str": "801488930768113664",
+		"text": "@WorldCatLady embarrassed to admit how hard I giggled at this so I won’t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WorldCatLady",
+					"name": "sarah v melton",
+					"id": 25760074,
+					"id_str": "25760074",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 801487500523016200,
+		"in_reply_to_status_id_str": "801487500523016192",
+		"in_reply_to_user_id": 25760074,
+		"in_reply_to_user_id_str": "25760074",
+		"in_reply_to_screen_name": "WorldCatLady",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 696,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 982,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 23 15:44:58 +0000 2016",
+		"id": 801451482147147800,
+		"id_str": "801451482147147776",
+		"text": "RT @BerkshireEagle: . @WilliamsCollege graduate supporting protesters at #StandingRock suffers a severe injury Sunday https://t.co/Tv8nxfyb…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StandingRock",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BerkshireEagle",
+					"name": "Berkshire Eagle",
+					"id": 24745038,
+					"id_str": "24745038",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "WilliamsCollege",
+					"name": "Williams College",
+					"id": 16311710,
+					"id_str": "16311710",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 696,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 982,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 23 15:00:39 +0000 2016",
+			"id": 801440329786396700,
+			"id_str": "801440329786396672",
+			"text": ". @WilliamsCollege graduate supporting protesters at #StandingRock suffers a severe injury Sunday https://t.co/Tv8nxfyb2v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StandingRock",
+						"indices": [
+							53,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WilliamsCollege",
+						"name": "Williams College",
+						"id": 16311710,
+						"id_str": "16311710",
+						"indices": [
+							2,
+							18
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Tv8nxfyb2v",
+						"expanded_url": "http://ow.ly/OhAB306s8GR",
+						"display_url": "ow.ly/OhAB306s8GR",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24745038,
+				"id_str": "24745038",
+				"name": "Berkshire Eagle",
+				"screen_name": "BerkshireEagle",
+				"location": "Pittsfield, Massachusetts",
+				"description": "The Berkshire Eagle — Berkshire County's leading and most trusted digital and print news source. Published in Pittsfield, Mass.",
+				"url": "http://t.co/85dKeRu5aP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/85dKeRu5aP",
+								"expanded_url": "http://www.berkshireeagle.com",
+								"display_url": "berkshireeagle.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14364,
+				"friends_count": 1939,
+				"listed_count": 296,
+				"created_at": "Mon Mar 16 18:47:56 +0000 2009",
+				"favourites_count": 219,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25175,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/98319999/EAGLEonly_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/98319999/EAGLEonly_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24745038/1448468684",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 23 14:31:29 +0000 2016",
+		"id": 801432992048615400,
+		"id_str": "801432992048615424",
+		"text": "RT @wcaleb: Mood. https://t.co/gD9OX0aGoq https://t.co/pSWnb4KdLd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wcaleb",
+					"name": "Caleb McDaniel",
+					"id": 80871603,
+					"id_str": "80871603",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gD9OX0aGoq",
+					"expanded_url": "http://gph.is/2bEdCwJ",
+					"display_url": "gph.is/2bEdCwJ",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 801432616994046000,
+					"id_str": "801432616994045952",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+					"url": "https://t.co/pSWnb4KdLd",
+					"display_url": "pic.twitter.com/pSWnb4KdLd",
+					"expanded_url": "https://twitter.com/wcaleb/status/801432619825168384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 801432619825168400,
+					"source_status_id_str": "801432619825168384",
+					"source_user_id": 80871603,
+					"source_user_id_str": "80871603"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 801432616994046000,
+					"id_str": "801432616994045952",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+					"url": "https://t.co/pSWnb4KdLd",
+					"display_url": "pic.twitter.com/pSWnb4KdLd",
+					"expanded_url": "https://twitter.com/wcaleb/status/801432619825168384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 801432619825168400,
+					"source_status_id_str": "801432619825168384",
+					"source_user_id": 80871603,
+					"source_user_id_str": "80871603",
+					"video_info": {
+						"aspect_ratio": [
+							225,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/Cx9CuA9XgAAQ3sW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 696,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 982,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 23 14:30:01 +0000 2016",
+			"id": 801432619825168400,
+			"id_str": "801432619825168384",
+			"text": "Mood. https://t.co/gD9OX0aGoq https://t.co/pSWnb4KdLd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gD9OX0aGoq",
+						"expanded_url": "http://gph.is/2bEdCwJ",
+						"display_url": "gph.is/2bEdCwJ",
+						"indices": [
+							6,
+							29
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 801432616994046000,
+						"id_str": "801432616994045952",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+						"url": "https://t.co/pSWnb4KdLd",
+						"display_url": "pic.twitter.com/pSWnb4KdLd",
+						"expanded_url": "https://twitter.com/wcaleb/status/801432619825168384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 450,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 801432616994046000,
+						"id_str": "801432616994045952",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Cx9CuA9XgAAQ3sW.jpg",
+						"url": "https://t.co/pSWnb4KdLd",
+						"display_url": "pic.twitter.com/pSWnb4KdLd",
+						"expanded_url": "https://twitter.com/wcaleb/status/801432619825168384/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 255,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 450,
+								"h": 338,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 338,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								225,
+								169
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/Cx9CuA9XgAAQ3sW.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://giphy.com\" rel=\"nofollow\">Giphy Share</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80871603,
+				"id_str": "80871603",
+				"name": "Caleb McDaniel",
+				"screen_name": "wcaleb",
+				"location": "Houston, TX",
+				"description": "19c American historian at Rice University. Concerned citizen. Tweets represent my views only.",
+				"url": "https://t.co/m7SajHbj23",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m7SajHbj23",
+								"expanded_url": "http://wcm1.web.rice.edu",
+								"display_url": "wcm1.web.rice.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4075,
+				"friends_count": 814,
+				"listed_count": 224,
+				"created_at": "Thu Oct 08 15:22:58 +0000 2009",
+				"favourites_count": 5218,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16049,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/548882528/background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/548882528/background.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539530254197329921/idQQjuzp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539530254197329921/idQQjuzp_normal.jpeg",
+				"profile_link_color": "AA0000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 18,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 22 18:02:43 +0000 2016",
 		"id": 801123760938123300,
 		"id_str": "801123760938123266",
