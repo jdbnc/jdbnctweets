@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 13:45:30 +0000 2016",
+		"id": 802146194311024600,
+		"id_str": "802146194311024640",
+		"text": "RT @sunny_hundal: The Scots warning for Americans: beware of Donald Trump's claims and promises https://t.co/IGVz17CMeO https://t.co/inFeGd…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sunny_hundal",
+					"name": "Sunny Hundal",
+					"id": 22021978,
+					"id_str": "22021978",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IGVz17CMeO",
+					"expanded_url": "http://nyti.ms/2fYGljw",
+					"display_url": "nyti.ms/2fYGljw",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist at @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 696,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 986,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 25 11:29:35 +0000 2016",
+			"id": 802111987874496500,
+			"id_str": "802111987874496512",
+			"text": "The Scots warning for Americans: beware of Donald Trump's claims and promises https://t.co/IGVz17CMeO https://t.co/inFeGdBhER",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IGVz17CMeO",
+						"expanded_url": "http://nyti.ms/2fYGljw",
+						"display_url": "nyti.ms/2fYGljw",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802111976709226500,
+						"id_str": "802111976709226496",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CyGsl9HXAAA45M4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyGsl9HXAAA45M4.jpg",
+						"url": "https://t.co/inFeGdBhER",
+						"display_url": "pic.twitter.com/inFeGdBhER",
+						"expanded_url": "https://twitter.com/sunny_hundal/status/802111987874496512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 968,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1050,
+								"h": 1301,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802111976709226500,
+						"id_str": "802111976709226496",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CyGsl9HXAAA45M4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyGsl9HXAAA45M4.jpg",
+						"url": "https://t.co/inFeGdBhER",
+						"display_url": "pic.twitter.com/inFeGdBhER",
+						"expanded_url": "https://twitter.com/sunny_hundal/status/802111987874496512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 968,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1050,
+								"h": 1301,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22021978,
+				"id_str": "22021978",
+				"name": "Sunny Hundal",
+				"screen_name": "sunny_hundal",
+				"location": "South London",
+				"description": "Journalist, commentator. Editor: @psbook. Columnist at Hindustan Times @htTweets. Mostly tweet on current affairs, identity, environment, feminism.",
+				"url": "http://t.co/Mn3R16xmvn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Mn3R16xmvn",
+								"expanded_url": "http://sunnyhundal.org",
+								"display_url": "sunnyhundal.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65268,
+				"friends_count": 1091,
+				"listed_count": 2088,
+				"created_at": "Thu Feb 26 15:39:06 +0000 2009",
+				"favourites_count": 106,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 190261,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684240020908183552/omShvcKt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684240020908183552/omShvcKt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22021978/1425440709",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 722,
+			"favorite_count": 506,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 722,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 23 18:13:46 +0000 2016",
 		"id": 801488930768113700,
 		"id_str": "801488930768113664",
