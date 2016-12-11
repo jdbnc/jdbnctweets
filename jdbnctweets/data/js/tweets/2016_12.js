@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 03:13:52 +0000 2016",
+		"id": 807785445459431400,
+		"id_str": "807785445459431424",
+		"text": "RT @GeorgeTakei: https://t.co/iC6nvEApg7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeorgeTakei",
+					"name": "George Takei",
+					"id": 237845487,
+					"id_str": "237845487",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 807642308908752900,
+					"id_str": "807642308908752896",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+					"url": "https://t.co/iC6nvEApg7",
+					"display_url": "pic.twitter.com/iC6nvEApg7",
+					"expanded_url": "https://twitter.com/GeorgeTakei/status/807642320464183296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 807642320464183300,
+					"source_status_id_str": "807642320464183296",
+					"source_user_id": 237845487,
+					"source_user_id_str": "237845487"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 807642308908752900,
+					"id_str": "807642308908752896",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+					"url": "https://t.co/iC6nvEApg7",
+					"display_url": "pic.twitter.com/iC6nvEApg7",
+					"expanded_url": "https://twitter.com/GeorgeTakei/status/807642320464183296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 807642320464183300,
+					"source_status_id_str": "807642320464183296",
+					"source_user_id": 237845487,
+					"source_user_id_str": "237845487"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 702,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1013,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1473125136",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 10 17:45:09 +0000 2016",
+			"id": 807642320464183300,
+			"id_str": "807642320464183296",
+			"text": "https://t.co/iC6nvEApg7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 807642308908752900,
+						"id_str": "807642308908752896",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+						"url": "https://t.co/iC6nvEApg7",
+						"display_url": "pic.twitter.com/iC6nvEApg7",
+						"expanded_url": "https://twitter.com/GeorgeTakei/status/807642320464183296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 807642308908752900,
+						"id_str": "807642308908752896",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzVSZqAVIAATKr2.jpg",
+						"url": "https://t.co/iC6nvEApg7",
+						"display_url": "pic.twitter.com/iC6nvEApg7",
+						"expanded_url": "https://twitter.com/GeorgeTakei/status/807642320464183296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237845487,
+				"id_str": "237845487",
+				"name": "George Takei",
+				"screen_name": "GeorgeTakei",
+				"location": "Broadway - New York, NY",
+				"description": "Some know me as Mr. Sulu from Star Trek but I hope all know me as a believer in, and a fighter for, the equality and dignity of all human beings.",
+				"url": "https://t.co/ug8lJnZ3cv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ug8lJnZ3cv",
+								"expanded_url": "http://ohmyyy.gt/GeorgeTakei",
+								"display_url": "ohmyyy.gt/GeorgeTakei",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1963784,
+				"friends_count": 501,
+				"listed_count": 20811,
+				"created_at": "Thu Jan 13 19:33:56 +0000 2011",
+				"favourites_count": 1328,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24465,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479993169363218432/YRp7xuMf.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479993169363218432/YRp7xuMf.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/700355030117937152/3uW9IKHD_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/700355030117937152/3uW9IKHD_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237845487/1474948080",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3245,
+			"favorite_count": 5726,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3245,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Dec 08 18:58:07 +0000 2016",
 		"id": 806935907983097900,
 		"id_str": "806935907983097856",
