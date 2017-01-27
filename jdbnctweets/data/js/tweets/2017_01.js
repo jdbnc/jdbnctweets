@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 20:07:45 +0000 2017",
+		"id": 824710438172631000,
+		"id_str": "824710438172631041",
+		"text": "RT @GillianA: Science matters. #tbt #factsmatter https://t.co/jTgVo0QGYY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tbt",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "factsmatter",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GillianA",
+					"name": "Gillian Anderson",
+					"id": 625022363,
+					"id_str": "625022363",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 824704781730148400,
+					"id_str": "824704781730148353",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+					"url": "https://t.co/jTgVo0QGYY",
+					"display_url": "pic.twitter.com/jTgVo0QGYY",
+					"expanded_url": "http://twitter.com/GillianA/status/824704789896425472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 946,
+							"h": 526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824704789896425500,
+					"source_status_id_str": "824704789896425472",
+					"source_user_id": 625022363,
+					"source_user_id_str": "625022363"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824704781730148400,
+					"id_str": "824704781730148353",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+					"url": "https://t.co/jTgVo0QGYY",
+					"display_url": "pic.twitter.com/jTgVo0QGYY",
+					"expanded_url": "http://twitter.com/GillianA/status/824704789896425472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 946,
+							"h": 526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 946,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824704789896425500,
+					"source_status_id_str": "824704789896425472",
+					"source_user_id": 625022363,
+					"source_user_id_str": "625022363"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 704,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1047,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 26 19:45:18 +0000 2017",
+			"id": 824704789896425500,
+			"id_str": "824704789896425472",
+			"text": "Science matters. #tbt #factsmatter https://t.co/jTgVo0QGYY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tbt",
+						"indices": [
+							17,
+							21
+						]
+					},
+					{
+						"text": "factsmatter",
+						"indices": [
+							22,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824704781730148400,
+						"id_str": "824704781730148353",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+						"url": "https://t.co/jTgVo0QGYY",
+						"display_url": "pic.twitter.com/jTgVo0QGYY",
+						"expanded_url": "http://twitter.com/GillianA/status/824704789896425472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 946,
+								"h": 526,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 946,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824704781730148400,
+						"id_str": "824704781730148353",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3HwoSeXcAEzX79.jpg",
+						"url": "https://t.co/jTgVo0QGYY",
+						"display_url": "pic.twitter.com/jTgVo0QGYY",
+						"expanded_url": "http://twitter.com/GillianA/status/824704789896425472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 946,
+								"h": 526,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 946,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 625022363,
+				"id_str": "625022363",
+				"name": "Gillian Anderson",
+				"screen_name": "GillianA",
+				"location": "London",
+				"description": "Mum, Actress, Activist, Writer, Producer, Director, Dark Chocolate Lover. #TaughtnotTrafficked",
+				"url": "https://t.co/i19VT3MJAb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i19VT3MJAb",
+								"expanded_url": "http://amzn.to/2iyj4rp",
+								"display_url": "amzn.to/2iyj4rp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510945,
+				"friends_count": 123,
+				"listed_count": 4325,
+				"created_at": "Mon Jul 02 21:42:06 +0000 2012",
+				"favourites_count": 129,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1251,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "76797A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780051437720133634/3pAYqPaX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780051437720133634/3pAYqPaX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/625022363/1479227027",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4753,
+			"favorite_count": 10044,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4753,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
 		"created_at": "Tue Jan 24 15:41:52 +0000 2017",
 		"id": 823918749107376100,
 		"id_str": "823918749107376128",
