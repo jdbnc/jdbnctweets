@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 31 00:22:16 +0000 2017",
+		"id": 826224042856296400,
+		"id_str": "826224042856296448",
+		"text": "@sally_j eep this quote is actually fake",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sally_j",
+					"name": "Sally J.",
+					"id": 17633646,
+					"id_str": "17633646",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 826206255056355300,
+		"in_reply_to_status_id_str": "826206255056355329",
+		"in_reply_to_user_id": 17633646,
+		"in_reply_to_user_id_str": "17633646",
+		"in_reply_to_screen_name": "sally_j",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 707,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1063,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 30 20:43:10 +0000 2017",
+		"id": 826168900547182600,
+		"id_str": "826168900547182593",
+		"text": "RT @archivesgig: Athens, GA: Processing &amp; Digital Archivist, University of Georgia https://t.co/9RsROOPTUc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "archivesgig",
+					"name": "Archives Gig",
+					"id": 142336259,
+					"id_str": "142336259",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9RsROOPTUc",
+					"expanded_url": "https://archivesgig.wordpress.com/2017/01/30/athens-ga-processing-digital-archivist-university-of-georgia",
+					"display_url": "archivesgig.wordpress.com/2017/01/30/ath…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 707,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1063,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 30 20:42:34 +0000 2017",
+			"id": 826168751620030500,
+			"id_str": "826168751620030464",
+			"text": "Athens, GA: Processing &amp; Digital Archivist, University of Georgia https://t.co/9RsROOPTUc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9RsROOPTUc",
+						"expanded_url": "https://archivesgig.wordpress.com/2017/01/30/athens-ga-processing-digital-archivist-university-of-georgia",
+						"display_url": "archivesgig.wordpress.com/2017/01/30/ath…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142336259,
+				"id_str": "142336259",
+				"name": "Archives Gig",
+				"screen_name": "archivesgig",
+				"location": "Madison, Wisconsin",
+				"description": "This is the Twitter feed for Archives Gig, administered by Meredith Lowe.  Personal Twitter account is @meredithclowe.",
+				"url": "http://t.co/Vh1AO33cNt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Vh1AO33cNt",
+								"expanded_url": "http://archivesgig.wordpress.com",
+								"display_url": "archivesgig.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3352,
+				"friends_count": 2331,
+				"listed_count": 167,
+				"created_at": "Mon May 10 16:19:53 +0000 2010",
+				"favourites_count": 108,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9149,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142336259/1480959578",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 30 15:01:48 +0000 2017",
+		"id": 826082994544898000,
+		"id_str": "826082994544898048",
+		"text": "From the Porches of the Fifth District | @BitterSouth | https://t.co/d0Aj9TibWT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BitterSouth",
+					"name": "Bitter Southerner",
+					"id": 519866130,
+					"id_str": "519866130",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d0Aj9TibWT",
+					"expanded_url": "http://bittersoutherner.com/from-the-front-porches-of-the-fifth-district-atlanta",
+					"display_url": "bittersoutherner.com/from-the-front…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 707,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1063,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2869,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 29 17:41:08 +0000 2017",
 		"id": 825760703839608800,
 		"id_str": "825760703839608832",
