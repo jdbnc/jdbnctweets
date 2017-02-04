@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 16:55:47 +0000 2017",
+		"id": 827561231175340000,
+		"id_str": "827561231175340032",
+		"text": "RT @StateArchivists: Brenda Banks, of @GeorgiaArchives, served as an exemplary mentor and outstanding leader for many of us in state and te…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StateArchivists",
+					"name": "CoSA",
+					"id": 2411453256,
+					"id_str": "2411453256",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "GeorgiaArchives",
+					"name": "Georgia Archives",
+					"id": 2416255819,
+					"id_str": "2416255819",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 708,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1065,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 03 16:55:06 +0000 2017",
+			"id": 827561059145904100,
+			"id_str": "827561059145904128",
+			"text": "Brenda Banks, of @GeorgiaArchives, served as an exemplary mentor and outstanding leader for many of us in state and… https://t.co/QtOOIwU8gk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GeorgiaArchives",
+						"name": "Georgia Archives",
+						"id": 2416255819,
+						"id_str": "2416255819",
+						"indices": [
+							17,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QtOOIwU8gk",
+						"expanded_url": "https://twitter.com/i/web/status/827561059145904128",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2411453256,
+				"id_str": "2411453256",
+				"name": "CoSA",
+				"screen_name": "StateArchivists",
+				"location": "",
+				"description": "A national nonprofit organization facilitating networking and project collaboration among the directors and staff of state and territorial archival agencies.",
+				"url": "http://t.co/sgiTHAvSrw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/sgiTHAvSrw",
+								"expanded_url": "http://www.statearchivists.org",
+								"display_url": "statearchivists.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 685,
+				"friends_count": 222,
+				"listed_count": 67,
+				"created_at": "Tue Mar 25 19:46:06 +0000 2014",
+				"favourites_count": 15,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2538,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/448869060575387648/Q8wfBUL3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/448869060575387648/Q8wfBUL3_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 826938440507875300,
+			"quoted_status_id_str": "826938440507875329",
+			"quoted_status": {
+				"created_at": "Wed Feb 01 23:41:02 +0000 2017",
+				"id": 826938440507875300,
+				"id_str": "826938440507875329",
+				"text": "Our latest Archiving in Color post: A beautiful remembrance of past @archivists_org president Brenda Banks. https://t.co/L4nJ9DrkWj",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "archivists_org",
+							"name": "Soc Amer Archivists",
+							"id": 44433400,
+							"id_str": "44433400",
+							"indices": [
+								68,
+								83
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/L4nJ9DrkWj",
+							"expanded_url": "https://archivingincolor.wordpress.com/2017/02/01/brenda-banks/",
+							"display_url": "archivingincolor.wordpress.com/2017/02/01/bre…",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 400253406,
+					"id_str": "400253406",
+					"name": "SAA AAC Section",
+					"screen_name": "aacr_roundtable",
+					"location": "",
+					"description": "The Archivists and Archives of Color Section is an interest group within the Society of American Archivists.",
+					"url": "http://t.co/JEZ9XmkOvK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/JEZ9XmkOvK",
+									"expanded_url": "http://bit.ly/saa-aac",
+									"display_url": "bit.ly/saa-aac",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 989,
+					"friends_count": 595,
+					"listed_count": 50,
+					"created_at": "Fri Oct 28 18:50:03 +0000 2011",
+					"favourites_count": 2557,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3372,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "003768",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516016002/aacr_twitter-background.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516016002/aacr_twitter-background.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/768306393325580289/K8cgtB2I_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/768306393325580289/K8cgtB2I_normal.jpg",
+					"profile_link_color": "4D7496",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10,
+				"favorite_count": 13,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 826938440507875300,
+		"quoted_status_id_str": "826938440507875329",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 03 01:07:15 +0000 2017",
 		"id": 827322524413337600,
 		"id_str": "827322524413337601",
