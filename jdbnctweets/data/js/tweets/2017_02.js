@@ -1,6 +1,691 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 12 00:29:16 +0000 2017",
+		"id": 830574458138218500,
+		"id_str": "830574458138218497",
+		"text": "RT @ProfCAnderson: Comey's FBI??  The one that had the former MI-6's agent's dossier in the summer &amp; instead focused on a non-existent emai…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfCAnderson",
+					"name": "Carol Anderson",
+					"id": 2497449176,
+					"id_str": "2497449176",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 714,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1100,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2911,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 20:44:11 +0000 2017",
+			"id": 830517813999722500,
+			"id_str": "830517813999722497",
+			"text": "Comey's FBI??  The one that had the former MI-6's agent's dossier in the summer &amp; instead focused on a non-existent… https://t.co/6pYTOwJHay",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6pYTOwJHay",
+						"expanded_url": "https://twitter.com/i/web/status/830517813999722497",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2497449176,
+				"id_str": "2497449176",
+				"name": "Carol Anderson",
+				"screen_name": "ProfCAnderson",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2911,
+				"friends_count": 258,
+				"listed_count": 94,
+				"created_at": "Fri May 16 00:49:43 +0000 2014",
+				"favourites_count": 548,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14310,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741861743132061696/Qg47wo1Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741861743132061696/Qg47wo1Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2497449176/1479001527",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 830511679016419300,
+			"quoted_status_id_str": "830511679016419328",
+			"quoted_status": {
+				"created_at": "Sat Feb 11 20:19:49 +0000 2017",
+				"id": 830511679016419300,
+				"id_str": "830511679016419328",
+				"text": "Once again, I'm calling on @FBI to investigate the financial, political and personal ties between @POTUS and Russia. https://t.co/gflLx8W7DG",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "FBI",
+							"name": "FBI",
+							"id": 17629860,
+							"id_str": "17629860",
+							"indices": [
+								27,
+								31
+							]
+						},
+						{
+							"screen_name": "POTUS",
+							"name": "President Trump",
+							"id": 822215679726100500,
+							"id_str": "822215679726100480",
+							"indices": [
+								98,
+								104
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/gflLx8W7DG",
+							"expanded_url": "http://goo.gl/4KdqJu",
+							"display_url": "goo.gl/4KdqJu",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15764644,
+					"id_str": "15764644",
+					"name": "Nancy Pelosi",
+					"screen_name": "NancyPelosi",
+					"location": "San Francisco",
+					"description": "Democratic Leader, focused on strengthening America's middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.",
+					"url": "http://t.co/wt2ed3XGGr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/wt2ed3XGGr",
+									"expanded_url": "http://www.democraticleader.gov/",
+									"display_url": "democraticleader.gov",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1010820,
+					"friends_count": 319,
+					"listed_count": 11751,
+					"created_at": "Thu Aug 07 15:35:02 +0000 2008",
+					"favourites_count": 10,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 4576,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "385BA3",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453246582251466753/t6X34W5W.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453246582251466753/t6X34W5W.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/571313158510223360/wnSl3yXF_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/571313158510223360/wnSl3yXF_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15764644/1403565528",
+					"profile_link_color": "4B12E6",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FCFCFC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4670,
+				"favorite_count": 9528,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 22,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 830511679016419300,
+		"quoted_status_id_str": "830511679016419328",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 12 00:27:46 +0000 2017",
+		"id": 830574080084570100,
+		"id_str": "830574080084570112",
+		"text": "RT @billyeichner: This guy is such a lying piece of shit my god https://t.co/RtFLPemavi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billyeichner",
+					"name": "billy eichner",
+					"id": 74669397,
+					"id_str": "74669397",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RtFLPemavi",
+					"expanded_url": "https://twitter.com/tpm/status/830436907356135424",
+					"display_url": "twitter.com/tpm/status/830…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 714,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1100,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2911,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 11 20:50:42 +0000 2017",
+			"id": 830519451485364200,
+			"id_str": "830519451485364224",
+			"text": "This guy is such a lying piece of shit my god https://t.co/RtFLPemavi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RtFLPemavi",
+						"expanded_url": "https://twitter.com/tpm/status/830436907356135424",
+						"display_url": "twitter.com/tpm/status/830…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74669397,
+				"id_str": "74669397",
+				"name": "billy eichner",
+				"screen_name": "billyeichner",
+				"location": "TRU TV/TBS, Hulu, FUNNY OR DIE",
+				"description": "Emmy nom'd host of BILLY ON THE STREET! New season TUESDAYS 10:30/930c on @trutv! DIFFICULT PEOPLE S2 now on @HULU! BOTS on @Hulu too! billyeichner on Insta",
+				"url": "https://t.co/MI6HlzJhEj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MI6HlzJhEj",
+								"expanded_url": "http://youtube.com/billyonthestreettv",
+								"display_url": "youtube.com/billyonthestre…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 828171,
+				"friends_count": 2013,
+				"listed_count": 3240,
+				"created_at": "Wed Sep 16 06:33:53 +0000 2009",
+				"favourites_count": 35684,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/606538242859630592/HY_Mc_Cm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/606538242859630592/HY_Mc_Cm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/654778650445807616/Ke8beiVC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/654778650445807616/Ke8beiVC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74669397/1477541875",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 830436907356135400,
+			"quoted_status_id_str": "830436907356135424",
+			"quoted_status": {
+				"created_at": "Sat Feb 11 15:22:42 +0000 2017",
+				"id": 830436907356135400,
+				"id_str": "830436907356135424",
+				"text": "Chaffetz said he believes town hall protestors were paid, not from Utah https://t.co/WTC9YQscx2 https://t.co/crHRGzJx8d",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/WTC9YQscx2",
+							"expanded_url": "http://bit.ly/2l0w5dz",
+							"display_url": "bit.ly/2l0w5dz",
+							"indices": [
+								72,
+								95
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 830436905024118800,
+							"id_str": "830436905024118788",
+							"indices": [
+								96,
+								119
+							],
+							"media_url": "http://pbs.twimg.com/media/C4ZN9xxWYAQYSCM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4ZN9xxWYAQYSCM.jpg",
+							"url": "https://t.co/crHRGzJx8d",
+							"display_url": "pic.twitter.com/crHRGzJx8d",
+							"expanded_url": "https://twitter.com/TPM/status/830436907356135424/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 800,
+									"h": 600,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 800,
+									"h": 600,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 830436905024118800,
+							"id_str": "830436905024118788",
+							"indices": [
+								96,
+								119
+							],
+							"media_url": "http://pbs.twimg.com/media/C4ZN9xxWYAQYSCM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4ZN9xxWYAQYSCM.jpg",
+							"url": "https://t.co/crHRGzJx8d",
+							"display_url": "pic.twitter.com/crHRGzJx8d",
+							"expanded_url": "https://twitter.com/TPM/status/830436907356135424/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 800,
+									"h": 600,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 800,
+									"h": 600,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14717197,
+					"id_str": "14717197",
+					"name": "Talking Points Memo",
+					"screen_name": "TPM",
+					"location": "NY & DC",
+					"description": "Breaking news and analysis from the TPM team. \"Oh, well, now there's a reliable source.\" —Rep. Tom Price (R-GA)",
+					"url": "http://t.co/ZyHPG61Yqv",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ZyHPG61Yqv",
+									"expanded_url": "http://www.talkingpointsmemo.com/",
+									"display_url": "talkingpointsmemo.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 245097,
+					"friends_count": 571,
+					"listed_count": 9193,
+					"created_at": "Fri May 09 19:46:43 +0000 2008",
+					"favourites_count": 120,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 107499,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9F0A0E",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/472039922929369090/1GIGWESD_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/472039922929369090/1GIGWESD_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14717197/1440009673",
+					"profile_link_color": "9F0A0E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "D6D6D6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 592,
+				"favorite_count": 613,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 745,
+			"favorite_count": 4424,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 830436907356135400,
+		"quoted_status_id_str": "830436907356135424",
+		"retweet_count": 745,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 09 23:12:47 +0000 2017",
 		"id": 829830433777053700,
 		"id_str": "829830433777053696",
