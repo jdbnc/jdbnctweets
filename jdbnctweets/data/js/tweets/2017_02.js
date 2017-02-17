@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Thu Feb 16 21:50:20 +0000 2017",
+		"id": 832346398251216900,
+		"id_str": "832346398251216896",
+		"text": "Ugh https://t.co/kfxONvDNUL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kfxONvDNUL",
+					"expanded_url": "https://twitter.com/jacobsberg/status/832345919911817217",
+					"display_url": "twitter.com/jacobsberg/sta…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 568,
+			"friends_count": 716,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1104,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2918,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 832345919911817200,
+		"quoted_status_id_str": "832345919911817217",
+		"quoted_status": {
+			"created_at": "Thu Feb 16 21:48:26 +0000 2017",
+			"id": 832345919911817200,
+			"id_str": "832345919911817217",
+			"text": "Civil rights groups, funded by telecoms, back Donald Trump’s plan to kill net neutrality https://t.co/CsqS0BovdX by @lhfang",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lhfang",
+						"name": "Lee Fang",
+						"id": 7900962,
+						"id_str": "7900962",
+						"indices": [
+							116,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CsqS0BovdX",
+						"expanded_url": "https://interc.pt/2lJmo0O",
+						"display_url": "interc.pt/2lJmo0O",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117450420,
+				"id_str": "117450420",
+				"name": "Kakistocracy Man",
+				"screen_name": "jacobsberg",
+				"location": "inside the Death Star ",
+				"description": "Librarian. @DCBeer writer. @OneHitters softball player. Recovering Political Scientist. Snark in the face of hopelessness. He/Him/His.",
+				"url": "https://t.co/KuiEKXVU1Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KuiEKXVU1Q",
+								"expanded_url": "http://beerbrarian.blogspot.com/",
+								"display_url": "beerbrarian.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3961,
+				"friends_count": 1384,
+				"listed_count": 362,
+				"created_at": "Thu Feb 25 16:11:48 +0000 2010",
+				"favourites_count": 1219,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86976,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/518771169063731201/hgTpLFb-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/518771169063731201/hgTpLFb-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117450420/1404324259",
+				"profile_link_color": "2C53F2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Feb 14 20:39:29 +0000 2017",
 		"id": 831603794161070100,
 		"id_str": "831603794161070082",
