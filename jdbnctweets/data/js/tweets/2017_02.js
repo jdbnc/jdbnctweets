@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 00:14:44 +0000 2017",
+		"id": 835644230685114400,
+		"id_str": "835644230685114368",
+		"text": "@laborlobbyist (I agree with you but I gotta troll ya 😘)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laborlobbyist",
+					"name": "Karl U. Stark",
+					"id": 61275853,
+					"id_str": "61275853",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 835643996735168500,
+		"in_reply_to_status_id_str": "835643996735168514",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 717,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1124,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 26 00:13:48 +0000 2017",
+		"id": 835643996735168500,
+		"id_str": "835643996735168514",
+		"text": "@laborlobbyist cute backtracking",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laborlobbyist",
+					"name": "Karl U. Stark",
+					"id": 61275853,
+					"id_str": "61275853",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 835615105370980400,
+		"in_reply_to_status_id_str": "835615105370980352",
+		"in_reply_to_user_id": 61275853,
+		"in_reply_to_user_id_str": "61275853",
+		"in_reply_to_screen_name": "laborlobbyist",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 717,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1124,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 26 00:10:39 +0000 2017",
+		"id": 835643201880997900,
+		"id_str": "835643201880997893",
+		"text": "RT @DrPizza: Bernie Sanders always seems to understand political reality better than a certain cult of personality subset of his fans. http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrPizza",
+					"name": "Pᴜᴍᴘᴋɪɴ Fʀɪɢʜᴛ",
+					"id": 11375732,
+					"id_str": "11375732",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 717,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1124,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2942,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 25 21:20:59 +0000 2017",
+			"id": 835600502670917600,
+			"id_str": "835600502670917636",
+			"text": "Bernie Sanders always seems to understand political reality better than a certain cult of personality subset of his… https://t.co/ewhdict6H1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ewhdict6H1",
+						"expanded_url": "https://twitter.com/i/web/status/835600502670917636",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11375732,
+				"id_str": "11375732",
+				"name": "Pᴜᴍᴘᴋɪɴ Fʀɪɢʜᴛ",
+				"screen_name": "DrPizza",
+				"location": "Brooklyn, NY || Airstrip One",
+				"description": "༼ つ ◕_◕ ༽つ Ars Technica Technology Editor. I tweet on no-one's behalf but my own. Retweets are endorsements unless ironic. Londoner and European in New York.",
+				"url": "https://t.co/nyOtsnBepg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyOtsnBepg",
+								"expanded_url": "http://arstechnica.com/author/peter-bright/",
+								"display_url": "arstechnica.com/author/peter-b…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16783,
+				"friends_count": 1906,
+				"listed_count": 956,
+				"created_at": "Thu Dec 20 16:00:53 +0000 2007",
+				"favourites_count": 1,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 151527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804534847087738880/RsTLg9Wk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804534847087738880/RsTLg9Wk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11375732/1414860144",
+				"profile_link_color": "FF0055",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 835589406820036600,
+			"quoted_status_id_str": "835589406820036608",
+			"quoted_status": {
+				"created_at": "Sat Feb 25 20:36:53 +0000 2017",
+				"id": 835589406820036600,
+				"id_str": "835589406820036608",
+				"text": "I congratulate Tom Perez on his election as chairman of the Democratic National Committee and look forward to working with him.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 216776631,
+					"id_str": "216776631",
+					"name": "Bernie Sanders",
+					"screen_name": "BernieSanders",
+					"location": "Vermont",
+					"description": "The political revolution is just beginning. Tweets by staff.",
+					"url": "https://t.co/jpg8Sp1GhR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/jpg8Sp1GhR",
+									"expanded_url": "https://BernieSanders.com",
+									"display_url": "BernieSanders.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5674940,
+					"friends_count": 1520,
+					"listed_count": 14152,
+					"created_at": "Wed Nov 17 17:53:52 +0000 2010",
+					"favourites_count": 973,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10347,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EA5047",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576114811475341312/Q2-L3Yol.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576114811475341312/Q2-L3Yol.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/794596124686487552/kqpbolIc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/794596124686487552/kqpbolIc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/216776631/1486492042",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "050005",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3312,
+				"favorite_count": 17136,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 835589406820036600,
+		"quoted_status_id_str": "835589406820036608",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 24 20:45:43 +0000 2017",
 		"id": 835229240685703200,
 		"id_str": "835229240685703170",
