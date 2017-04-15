@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 22:45:21 +0000 2017",
+		"id": 853016354550624300,
+		"id_str": "853016354550624261",
+		"text": "RT @AtlantaMarch: Who's ready for a protest?  #DisArmHate https://t.co/2szRBulLfJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DisArmHate",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AtlantaMarch",
+					"name": "GAFSJ",
+					"id": 798262680184295400,
+					"id_str": "798262680184295424",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2szRBulLfJ",
+					"expanded_url": "https://twitter.com/nra/status/852993382616117248",
+					"display_url": "twitter.com/nra/status/852…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 723,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1177,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 14 22:43:27 +0000 2017",
+			"id": 853015873103159300,
+			"id_str": "853015873103159296",
+			"text": "Who's ready for a protest?  #DisArmHate https://t.co/2szRBulLfJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DisArmHate",
+						"indices": [
+							28,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2szRBulLfJ",
+						"expanded_url": "https://twitter.com/nra/status/852993382616117248",
+						"display_url": "twitter.com/nra/status/852…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798262680184295400,
+				"id_str": "798262680184295424",
+				"name": "GAFSJ",
+				"screen_name": "AtlantaMarch",
+				"location": "Atlanta, GA",
+				"description": "The Georgia Alliance for Social Justice formerly the #AtlantaMarch for Social Justice & Women. 65k Strong from March to Movement. #NotoneStepBack",
+				"url": "https://t.co/F84T68KIUL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F84T68KIUL",
+								"expanded_url": "http://www.atlantamarch.com",
+								"display_url": "atlantamarch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2876,
+				"friends_count": 1297,
+				"listed_count": 40,
+				"created_at": "Mon Nov 14 20:33:48 +0000 2016",
+				"favourites_count": 2243,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1703,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845414416715825152/DEHuU-yn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845414416715825152/DEHuU-yn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798262680184295424/1485115948",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 852993382616117200,
+			"quoted_status_id_str": "852993382616117248",
+			"quoted_status": {
+				"created_at": "Fri Apr 14 21:14:04 +0000 2017",
+				"id": 852993382616117200,
+				"id_str": "852993382616117248",
+				"text": "BREAKING: Pres. @realDonaldTrump is speaking at the NRA-ILA Leadership Forum on April 28! #2A #NRAAM2017 #MAGA… https://t.co/M849IHshiV",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "2A",
+							"indices": [
+								90,
+								93
+							]
+						},
+						{
+							"text": "NRAAM2017",
+							"indices": [
+								94,
+								104
+							]
+						},
+						{
+							"text": "MAGA",
+							"indices": [
+								105,
+								110
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "realDonaldTrump",
+							"name": "Donald J. Trump",
+							"id": 25073877,
+							"id_str": "25073877",
+							"indices": [
+								16,
+								32
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/M849IHshiV",
+							"expanded_url": "https://twitter.com/i/web/status/852993382616117248",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 21829541,
+					"id_str": "21829541",
+					"name": "NRA",
+					"screen_name": "NRA",
+					"location": "Fairfax, VA",
+					"description": "National Rifle Association of America #NRA",
+					"url": "http://t.co/lVnmXaSUHM",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/lVnmXaSUHM",
+									"expanded_url": "http://www.nra.org",
+									"display_url": "nra.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 438265,
+					"friends_count": 513,
+					"listed_count": 3530,
+					"created_at": "Wed Feb 25 03:07:33 +0000 2009",
+					"favourites_count": 157,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12473,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "CC0000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540228200589053952/alfGwh4b.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540228200589053952/alfGwh4b.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/540258795062972416/sK2RI_B2_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/540258795062972416/sK2RI_B2_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/21829541/1417637443",
+					"profile_link_color": "279CFC",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F5F5F5",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 252,
+				"favorite_count": 598,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 13,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 852993382616117200,
+		"quoted_status_id_str": "852993382616117248",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 14 22:34:10 +0000 2017",
+		"id": 853013540579545100,
+		"id_str": "853013540579545089",
+		"text": "RT @rusty_staples: .@USNatArchives successfully challenged Bush admin attempt to keep Reagan papers secret. @Concerned_Arch, we're up. http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rusty_staples",
+					"name": "Rusty",
+					"id": 48482253,
+					"id_str": "48482253",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "USNatArchives",
+					"name": "US National Archives",
+					"id": 101802390,
+					"id_str": "101802390",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "Concerned_Arch",
+					"name": "CAA/@feministlib",
+					"id": 826219600341762000,
+					"id_str": "826219600341762049",
+					"indices": [
+						108,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 723,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1177,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 14 17:49:59 +0000 2017",
+			"id": 852942021551468500,
+			"id_str": "852942021551468544",
+			"text": ".@USNatArchives successfully challenged Bush admin attempt to keep Reagan papers secret. @Concerned_Arch, we're up. https://t.co/VZaUdeZpjH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "USNatArchives",
+						"name": "US National Archives",
+						"id": 101802390,
+						"id_str": "101802390",
+						"indices": [
+							1,
+							15
+						]
+					},
+					{
+						"screen_name": "Concerned_Arch",
+						"name": "CAA/@feministlib",
+						"id": 826219600341762000,
+						"id_str": "826219600341762049",
+						"indices": [
+							89,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VZaUdeZpjH",
+						"expanded_url": "https://twitter.com/BraddJaffy/status/852930616203063301",
+						"display_url": "twitter.com/BraddJaffy/sta…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48482253,
+				"id_str": "48482253",
+				"name": "Rusty",
+				"screen_name": "rusty_staples",
+				"location": "SF by way of LNK",
+				"description": "I nerd out about archives & libraries, SF politics & history, cats, and my kid. ▫️ 🚫 #thatdarnlist ▫️ ✊ @theleaguesf",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 633,
+				"friends_count": 520,
+				"listed_count": 58,
+				"created_at": "Thu Jun 18 20:41:25 +0000 2009",
+				"favourites_count": 15732,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31287,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690447437/0fa51ecf33fdeef85b2dd6f495f9c373.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690447437/0fa51ecf33fdeef85b2dd6f495f9c373.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814930452364595201/PXSZ2oVf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814930452364595201/PXSZ2oVf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48482253/1486874993",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFF200",
+				"profile_text_color": "FF385F",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 852930616203063300,
+			"quoted_status_id_str": "852930616203063301",
+			"quoted_status": {
+				"created_at": "Fri Apr 14 17:04:40 +0000 2017",
+				"id": 852930616203063300,
+				"id_str": "852930616203063301",
+				"text": "White House will not release its visitor logs; will be kept secret for at least 5 years after Trump leaves office https://t.co/PwjvuVpqZe",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/PwjvuVpqZe",
+							"expanded_url": "http://ti.me/2ouBDfH",
+							"display_url": "ti.me/2ouBDfH",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 299802277,
+					"id_str": "299802277",
+					"name": "Bradd Jaffy",
+					"screen_name": "BraddJaffy",
+					"location": "New York",
+					"description": "NBC News • Senior news editor and writer, NBC Nightly News. The more em dashes — the merrier.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 152459,
+					"friends_count": 1272,
+					"listed_count": 3116,
+					"created_at": "Mon May 16 18:07:07 +0000 2011",
+					"favourites_count": 6144,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 22594,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/842893382955491332/GangpxUe_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/842893382955491332/GangpxUe_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/299802277/1453305171",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2277,
+				"favorite_count": 1433,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 852930616203063300,
+		"quoted_status_id_str": "852930616203063301",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 13 14:30:16 +0000 2017",
 		"id": 852529371722264600,
 		"id_str": "852529371722264578",
