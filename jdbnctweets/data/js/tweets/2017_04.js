@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 12:27:49 +0000 2017",
+		"id": 854310495410683900,
+		"id_str": "854310495410683904",
+		"text": "RT @atlurbanist: Fed funding for MARTA-rail expansion on Clifton Corridor, I-20, Ga. 400, and Clayton County are all affected by this budge…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atlurbanist",
+					"name": "Darin [ATL Urbanist]",
+					"id": 234775340,
+					"id_str": "234775340",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 723,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 12:15:51 +0000 2017",
+			"id": 854307484852527100,
+			"id_str": "854307484852527104",
+			"text": "Fed funding for MARTA-rail expansion on Clifton Corridor, I-20, Ga. 400, and Clayton County are all affected by thi… https://t.co/QurWfbtnWh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QurWfbtnWh",
+						"expanded_url": "https://twitter.com/i/web/status/854307484852527104",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234775340,
+				"id_str": "234775340",
+				"name": "Darin [ATL Urbanist]",
+				"screen_name": "atlurbanist",
+				"location": "Atlanta",
+				"description": "I'm Darin -- I live in Downtown Atlanta with my family. I have fun exploring the city and writing about livability and good urbanism in Atlanta and beyond.",
+				"url": "https://t.co/aIIsP7Lxgv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aIIsP7Lxgv",
+								"expanded_url": "http://threadatl.org",
+								"display_url": "threadatl.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3033,
+				"friends_count": 155,
+				"listed_count": 160,
+				"created_at": "Thu Jan 06 14:54:35 +0000 2011",
+				"favourites_count": 8835,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7736,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/617099099830124547/IzZsrliG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/617099099830124547/IzZsrliG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234775340/1440387958",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8173485c72e78ca5",
+				"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+				"place_type": "city",
+				"name": "Atlanta",
+				"full_name": "Atlanta, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.576827,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.8868859
+							],
+							[
+								-84.576827,
+								33.8868859
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 854284723983716400,
+			"quoted_status_id_str": "854284723983716353",
+			"quoted_status": {
+				"created_at": "Tue Apr 18 10:45:24 +0000 2017",
+				"id": 854284723983716400,
+				"id_str": "854284723983716353",
+				"text": "Trump budget puts fed funding for MARTA expansion, a Cobb BRT line, streetcar expansion &amp; Beltline rail in jeopardy https://t.co/PLzzOTbzK1",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/PLzzOTbzK1",
+							"expanded_url": "http://www.ajc.com/news/local/will-trump-budget-scuttle-atlanta-transit-projects/QQwUirJp1zwn3hUq9wCiBL/",
+							"display_url": "ajc.com/news/local/wil…",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 234775340,
+					"id_str": "234775340",
+					"name": "Darin [ATL Urbanist]",
+					"screen_name": "atlurbanist",
+					"location": "Atlanta",
+					"description": "I'm Darin -- I live in Downtown Atlanta with my family. I have fun exploring the city and writing about livability and good urbanism in Atlanta and beyond.",
+					"url": "https://t.co/aIIsP7Lxgv",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/aIIsP7Lxgv",
+									"expanded_url": "http://threadatl.org",
+									"display_url": "threadatl.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3033,
+					"friends_count": 155,
+					"listed_count": 160,
+					"created_at": "Thu Jan 06 14:54:35 +0000 2011",
+					"favourites_count": 8835,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 7736,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/617099099830124547/IzZsrliG_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/617099099830124547/IzZsrliG_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/234775340/1440387958",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "8173485c72e78ca5",
+					"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+					"place_type": "city",
+					"name": "Atlanta",
+					"full_name": "Atlanta, GA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-84.576827,
+									33.6475029
+								],
+								[
+									-84.289385,
+									33.6475029
+								],
+								[
+									-84.289385,
+									33.8868859
+								],
+								[
+									-84.576827,
+									33.8868859
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 854284723983716400,
+		"quoted_status_id_str": "854284723983716353",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 12:22:53 +0000 2017",
+		"id": 854309253653426200,
+		"id_str": "854309253653426176",
+		"text": "Nothing like starting 25+ hours of flying with a baby in the face during boarding https://t.co/T8qa2kCXrh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 854309230865559600,
+					"id_str": "854309230865559552",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C9sduBoUMAANG3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9sduBoUMAANG3m.jpg",
+					"url": "https://t.co/T8qa2kCXrh",
+					"display_url": "pic.twitter.com/T8qa2kCXrh",
+					"expanded_url": "https://twitter.com/jdbence/status/854309253653426176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854309230865559600,
+					"id_str": "854309230865559552",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/C9sduBoUMAANG3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9sduBoUMAANG3m.jpg",
+					"url": "https://t.co/T8qa2kCXrh",
+					"display_url": "pic.twitter.com/T8qa2kCXrh",
+					"expanded_url": "https://twitter.com/jdbence/status/854309253653426176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist for @EmoryUniversity in @EmoryRoseMARBL, tweeting abt archives, libraries, history, Atlanta, GA + some inane prattlings.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 723,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 16 01:22:05 +0000 2017",
 		"id": 853418182798745600,
 		"id_str": "853418182798745601",
