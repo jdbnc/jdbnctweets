@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 02:18:46 +0000 2017",
+		"id": 896556603155107800,
+		"id_str": "896556603155107841",
+		"text": "RT @WalidahImarisha: You can listen to my keynote to Society American Archivists conf- time travel archives &amp; racial justice\n#saa17 #saa\nht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "saa17",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "saa",
+					"indices": [
+						136,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WalidahImarisha",
+					"name": "Walidah Imarisha",
+					"id": 1270721138,
+					"id_str": "1270721138",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 749,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1375,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 21:58:01 +0000 2017",
+			"id": 896128595403329500,
+			"id_str": "896128595403329536",
+			"text": "You can listen to my keynote to Society American Archivists conf- time travel archives &amp; racial justice\n#saa17 #saa\nhttps://t.co/yXYHBKB3uy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "saa17",
+						"indices": [
+							108,
+							114
+						]
+					},
+					{
+						"text": "saa",
+						"indices": [
+							115,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yXYHBKB3uy",
+						"expanded_url": "https://www.pathlms.com/saa/courses/5062/audio_presentations/79197",
+						"display_url": "pathlms.com/saa/courses/50…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1270721138,
+				"id_str": "1270721138",
+				"name": "Walidah Imarisha",
+				"screen_name": "WalidahImarisha",
+				"location": "",
+				"description": "Writer, educator, poet, public scholar. Co-editor Octavia's Brood: Sci Fi Stories from Social Justice Movements. Author Angels w Dirty Faces, & Scars/Stars.",
+				"url": "http://t.co/btlYrexfaT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/btlYrexfaT",
+								"expanded_url": "http://www.walidah.com",
+								"display_url": "walidah.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4699,
+				"friends_count": 562,
+				"listed_count": 191,
+				"created_at": "Fri Mar 15 21:12:19 +0000 2013",
+				"favourites_count": 7145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6008,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000172478496/YNPWmlmO.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000172478496/YNPWmlmO.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459739752644616192/HFnBbdAu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459739752644616192/HFnBbdAu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1270721138/1454823140",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 02:14:39 +0000 2017",
+		"id": 896555567136813000,
+		"id_str": "896555567136813056",
+		"text": "RT @sally_j: I do. I remember. https://t.co/y896z4mWSF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sally_j",
+					"name": "Sally J.",
+					"id": 17633646,
+					"id_str": "17633646",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y896z4mWSF",
+					"expanded_url": "https://twitter.com/BreeNewsome/status/896375392663195650",
+					"display_url": "twitter.com/BreeNewsome/st…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 749,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1375,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3101,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 02:13:05 +0000 2017",
+			"id": 896555173941784600,
+			"id_str": "896555173941784576",
+			"text": "I do. I remember. https://t.co/y896z4mWSF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y896z4mWSF",
+						"expanded_url": "https://twitter.com/BreeNewsome/status/896375392663195650",
+						"display_url": "twitter.com/BreeNewsome/st…",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17633646,
+				"id_str": "17633646",
+				"name": "Sally J.",
+				"screen_name": "sally_j",
+				"location": "Fried Cheese n' Dark Beer, WI",
+				"description": "NOLITE TE BASTARDES CARBORUNDORUM\n.\nHeader Image by @MargaretAtwood, referencing The Handmaid's Tale //\nPinned tweet by https://t.co/u9gd8QD1E2",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u9gd8QD1E2",
+								"expanded_url": "http://thisishangingrockcomics.tumblr.com",
+								"display_url": "thisishangingrockcomics.tumblr.com",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1786,
+				"friends_count": 750,
+				"listed_count": 155,
+				"created_at": "Tue Nov 25 22:17:17 +0000 2008",
+				"favourites_count": 29170,
+				"utc_offset": -18000,
+				"time_zone": "America/Chicago",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20687,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180933201/igEt6Zaw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180933201/igEt6Zaw.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741645955921891329/XOeKDmvu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741645955921891329/XOeKDmvu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17633646/1479224619",
+				"profile_link_color": "CC794A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "510800",
+				"profile_text_color": "3D0702",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 896375392663195600,
+			"quoted_status_id_str": "896375392663195650",
+			"quoted_status": {
+				"created_at": "Sat Aug 12 14:18:42 +0000 2017",
+				"id": 896375392663195600,
+				"id_str": "896375392663195650",
+				"text": "Remember when media outlets kept describing white nationalists as \"dapper\" \"well-dressed\" \"clean shaven\" &amp; cast the… https://t.co/hduVqE44Xa",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/hduVqE44Xa",
+							"expanded_url": "https://twitter.com/i/web/status/896375392663195650",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 110326494,
+					"id_str": "110326494",
+					"name": "Bree Newsome",
+					"screen_name": "BreeNewsome",
+					"location": "North Carolina, USA",
+					"description": "artist - free black woman - we are more than conquerors through Christ who loves us",
+					"url": "https://t.co/fi49qIj7Bm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/fi49qIj7Bm",
+									"expanded_url": "http://www.breenewsome.com",
+									"display_url": "breenewsome.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 152500,
+					"friends_count": 1487,
+					"listed_count": 1774,
+					"created_at": "Mon Feb 01 04:33:43 +0000 2010",
+					"favourites_count": 14394,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 3539,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460186576497020929/3-K1HQud.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460186576497020929/3-K1HQud.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/839853329547055104/mtGH0Vbg_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/839853329547055104/mtGH0Vbg_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/110326494/1435808027",
+					"profile_link_color": "FF3300",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6164,
+				"favorite_count": 8938,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 896375392663195600,
+		"quoted_status_id_str": "896375392663195650",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 11 15:24:16 +0000 2017",
 		"id": 896029505869008900,
 		"id_str": "896029505869008897",
