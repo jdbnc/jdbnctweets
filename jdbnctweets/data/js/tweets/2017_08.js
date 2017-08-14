@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 18:06:08 +0000 2017",
+		"id": 896795016298999800,
+		"id_str": "896795016298999808",
+		"text": "RT @soledadobrien: In case you're wondering if President Trump inspires neo-nazis--this is from their publication The Daily Stormer: https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soledadobrien",
+					"name": "Soledad O'Brien",
+					"id": 26548315,
+					"id_str": "26548315",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 617,
+			"friends_count": 750,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1376,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3102,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 22:02:33 +0000 2017",
+			"id": 896492127911149600,
+			"id_str": "896492127911149568",
+			"text": "In case you're wondering if President Trump inspires neo-nazis--this is from their publication The Daily Stormer: https://t.co/cT4OZv7VMP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896492122114670600,
+						"id_str": "896492122114670592",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"url": "https://t.co/cT4OZv7VMP",
+						"display_url": "pic.twitter.com/cT4OZv7VMP",
+						"expanded_url": "https://twitter.com/soledadobrien/status/896492127911149568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896492122114670600,
+						"id_str": "896492122114670592",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"url": "https://t.co/cT4OZv7VMP",
+						"display_url": "pic.twitter.com/cT4OZv7VMP",
+						"expanded_url": "https://twitter.com/soledadobrien/status/896492127911149568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26548315,
+				"id_str": "26548315",
+				"name": "Soledad O'Brien",
+				"screen_name": "soledadobrien",
+				"location": " New York",
+				"description": "CEO StarfishMedia. Host: @MatterofFacttv this weekend! https://t.co/XSrdri9kN9 Producer of many things including 4 kids. I ❤️wine and horses.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XSrdri9kN9",
+								"expanded_url": "http://matteroffact.tv/on-tv/",
+								"display_url": "matteroffact.tv/on-tv/",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 695584,
+				"friends_count": 360913,
+				"listed_count": 8661,
+				"created_at": "Wed Mar 25 17:50:59 +0000 2009",
+				"favourites_count": 4423,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50033,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080E1C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155505432/Soledad_Cover_2.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155505432/Soledad_Cover_2.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807332626449068033/PZizLFnd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807332626449068033/PZizLFnd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26548315/1481318074",
+				"profile_link_color": "092B9C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D0DBDB",
+				"profile_text_color": "0A010A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81386,
+			"favorite_count": 80404,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 81386,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 13 02:18:46 +0000 2017",
 		"id": 896556603155107800,
 		"id_str": "896556603155107841",
