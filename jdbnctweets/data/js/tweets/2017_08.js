@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 17:24:15 +0000 2017",
+		"id": 898234029220261900,
+		"id_str": "898234029220261889",
+		"text": "RT @ATLStudies: Where do @EmoryRoseMARBL @AUCWoodruffLib @KSU_Archives @gsu_archives @ATLHistCenter @afpls &amp; @SpelmanArchives all come toge…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATLStudies",
+					"name": "Atlanta Studies",
+					"id": 2394933618,
+					"id_str": "2394933618",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "EmoryRoseMARBL",
+					"name": "Rose Library Emory",
+					"id": 2979785051,
+					"id_str": "2979785051",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "AUCWoodruffLib",
+					"name": "AUC Woodruff Library",
+					"id": 554693696,
+					"id_str": "554693696",
+					"indices": [
+						41,
+						56
+					]
+				},
+				{
+					"screen_name": "KSU_Archives",
+					"name": "KSU Archives",
+					"id": 62576079,
+					"id_str": "62576079",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "gsu_archives",
+					"name": "GSU Library Archives",
+					"id": 3365428269,
+					"id_str": "3365428269",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "ATLHistCenter",
+					"name": "Atl History Center",
+					"id": 18726631,
+					"id_str": "18726631",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"screen_name": "afpls",
+					"name": "Atl-Fulton Library",
+					"id": 743137296,
+					"id_str": "743137296",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"screen_name": "SpelmanArchives",
+					"name": "Spelman Archives",
+					"id": 832264904757362700,
+					"id_str": "832264904757362688",
+					"indices": [
+						113,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 752,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 17:13:23 +0000 2017",
+			"id": 898231295138041900,
+			"id_str": "898231295138041856",
+			"text": "Where do @EmoryRoseMARBL @AUCWoodruffLib @KSU_Archives @gsu_archives @ATLHistCenter @afpls &amp; @SpelmanArchives all c… https://t.co/41Vfg2aJPk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmoryRoseMARBL",
+						"name": "Rose Library Emory",
+						"id": 2979785051,
+						"id_str": "2979785051",
+						"indices": [
+							9,
+							24
+						]
+					},
+					{
+						"screen_name": "AUCWoodruffLib",
+						"name": "AUC Woodruff Library",
+						"id": 554693696,
+						"id_str": "554693696",
+						"indices": [
+							25,
+							40
+						]
+					},
+					{
+						"screen_name": "KSU_Archives",
+						"name": "KSU Archives",
+						"id": 62576079,
+						"id_str": "62576079",
+						"indices": [
+							41,
+							54
+						]
+					},
+					{
+						"screen_name": "gsu_archives",
+						"name": "GSU Library Archives",
+						"id": 3365428269,
+						"id_str": "3365428269",
+						"indices": [
+							55,
+							68
+						]
+					},
+					{
+						"screen_name": "ATLHistCenter",
+						"name": "Atl History Center",
+						"id": 18726631,
+						"id_str": "18726631",
+						"indices": [
+							69,
+							83
+						]
+					},
+					{
+						"screen_name": "afpls",
+						"name": "Atl-Fulton Library",
+						"id": 743137296,
+						"id_str": "743137296",
+						"indices": [
+							84,
+							90
+						]
+					},
+					{
+						"screen_name": "SpelmanArchives",
+						"name": "Spelman Archives",
+						"id": 832264904757362700,
+						"id_str": "832264904757362688",
+						"indices": [
+							97,
+							113
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/41Vfg2aJPk",
+						"expanded_url": "https://twitter.com/i/web/status/898231295138041856",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2394933618,
+				"id_str": "2394933618",
+				"name": "Atlanta Studies",
+				"screen_name": "ATLStudies",
+				"location": "ATL ",
+				"description": "A scholarly magazine/blog/gathering place for scholars, students, organizers, you. All Atlanta, all the time. Tweets by @adampnewman89 #ATLstudies",
+				"url": "http://t.co/cJUhlkDdi9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cJUhlkDdi9",
+								"expanded_url": "http://atlantastudies.org",
+								"display_url": "atlantastudies.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1057,
+				"friends_count": 501,
+				"listed_count": 49,
+				"created_at": "Mon Mar 17 19:02:14 +0000 2014",
+				"favourites_count": 1353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2701,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/567321707388481536/zED4ZeS0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/567321707388481536/zED4ZeS0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2394933618/1491188458",
+				"profile_link_color": "00B3AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 898228333867151400,
+			"quoted_status_id_str": "898228333867151361",
+			"quoted_status": {
+				"created_at": "Thu Aug 17 17:01:37 +0000 2017",
+				"id": 898228333867151400,
+				"id_str": "898228333867151361",
+				"text": "Just published: Learn about the exciting work of the new Atlanta Black Archives Alliance https://t.co/T9VPmE4GyR",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/T9VPmE4GyR",
+							"expanded_url": "https://www.atlantastudies.org/2017/08/17/courtney-chartier-introducing-the-atlanta-black-archives-alliance/",
+							"display_url": "atlantastudies.org/2017/08/17/cou…",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2394933618,
+					"id_str": "2394933618",
+					"name": "Atlanta Studies",
+					"screen_name": "ATLStudies",
+					"location": "ATL ",
+					"description": "A scholarly magazine/blog/gathering place for scholars, students, organizers, you. All Atlanta, all the time. Tweets by @adampnewman89 #ATLstudies",
+					"url": "http://t.co/cJUhlkDdi9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/cJUhlkDdi9",
+									"expanded_url": "http://atlantastudies.org",
+									"display_url": "atlantastudies.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1057,
+					"friends_count": 501,
+					"listed_count": 49,
+					"created_at": "Mon Mar 17 19:02:14 +0000 2014",
+					"favourites_count": 1353,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2701,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/567321707388481536/zED4ZeS0_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/567321707388481536/zED4ZeS0_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2394933618/1491188458",
+					"profile_link_color": "00B3AA",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 898228333867151400,
+		"quoted_status_id_str": "898228333867151361",
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 16:37:47 +0000 2017",
+		"id": 898222336272478200,
+		"id_str": "898222336272478212",
+		"text": "Verifying myself: I am jdbence on Keybase.io. Ar3ax4AcW-MWkR0VbFaihF6Ph6-Ip9N4tBPZ / https://t.co/AsBnvBbJVH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AsBnvBbJVH",
+					"expanded_url": "https://keybase.io/jdbence/sigs/Ar3ax4AcW-MWkR0VbFaihF6Ph6-Ip9N4tBPZ",
+					"display_url": "keybase.io/jdbence/sigs/A…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 752,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 17 15:39:24 +0000 2017",
+		"id": 898207640542695400,
+		"id_str": "898207640542695424",
+		"text": "@RhiannonGiddens me!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RhiannonGiddens",
+					"name": "Rhiannon Giddens",
+					"id": 2338302172,
+					"id_str": "2338302172",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 898206999996899300,
+		"in_reply_to_status_id_str": "898206999996899332",
+		"in_reply_to_user_id": 2338302172,
+		"in_reply_to_user_id_str": "2338302172",
+		"in_reply_to_screen_name": "RhiannonGiddens",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 752,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1408,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Aug 15 20:36:58 +0000 2017",
 		"id": 897557753379659800,
 		"id_str": "897557753379659776",
