@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 25 00:13:06 +0000 2017",
+		"id": 900873634281119700,
+		"id_str": "900873634281119744",
+		"text": "No, you're a purple pig-nose frog https://t.co/J4zKsFzQUC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J4zKsFzQUC",
+					"expanded_url": "http://news.nationalgeographic.com/2017/08/purple-frog-new-species-discovery-india-monsoon/#/1-frog-species.jpg",
+					"display_url": "news.nationalgeographic.com/2017/08/purple…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1437,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 20:29:40 +0000 2017",
+		"id": 900817407186530300,
+		"id_str": "900817407186530305",
+		"text": "It's a good day when @Boivin hits library twitter 😆 https://t.co/UpsFPT9uhV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Boivin",
+					"name": "Cáve Dwellers 🌹",
+					"id": 17880993,
+					"id_str": "17880993",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UpsFPT9uhV",
+					"expanded_url": "https://twitter.com/jacobsberg/status/900816532955172865",
+					"display_url": "twitter.com/jacobsberg/sta…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1437,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 900816532955172900,
+		"quoted_status_id_str": "900816532955172865",
+		"quoted_status": {
+			"created_at": "Thu Aug 24 20:26:12 +0000 2017",
+			"id": 900816532955172900,
+			"id_str": "900816532955172865",
+			"text": "Chaser: https://t.co/77uz7keMJa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/77uz7keMJa",
+						"expanded_url": "https://twitter.com/tomgara/status/900722477697052673",
+						"display_url": "twitter.com/tomgara/status…",
+						"indices": [
+							8,
+							31
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 900816419457257500,
+			"in_reply_to_status_id_str": "900816419457257472",
+			"in_reply_to_user_id": 117450420,
+			"in_reply_to_user_id_str": "117450420",
+			"in_reply_to_screen_name": "jacobsberg",
+			"user": {
+				"id": 117450420,
+				"id_str": "117450420",
+				"name": "Kakistocracy Man",
+				"screen_name": "jacobsberg",
+				"location": "inside the Death Star ",
+				"description": "Librarian. @DCBeer writer. @OneHitters softball player. Recovering Political Scientist. Snark in the face of hopelessness. He/Him/His.",
+				"url": "https://t.co/KuiEKXVU1Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KuiEKXVU1Q",
+								"expanded_url": "http://beerbrarian.blogspot.com/",
+								"display_url": "beerbrarian.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4249,
+				"friends_count": 1378,
+				"listed_count": 362,
+				"created_at": "Thu Feb 25 16:11:48 +0000 2010",
+				"favourites_count": 1830,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 98632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/518771169063731201/hgTpLFb-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/518771169063731201/hgTpLFb-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117450420/1404324259",
+				"profile_link_color": "2C53F2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 900722477697052700,
+			"quoted_status_id_str": "900722477697052673",
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 17:39:08 +0000 2017",
+		"id": 900774490854105100,
+		"id_str": "900774490854105090",
+		"text": "@SarahZuks I'm proud as a 09-adjacent 08er",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahZuks",
+					"name": "Sarah Zukowski",
+					"id": 27908572,
+					"id_str": "27908572",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 900772515215286300,
+		"in_reply_to_status_id_str": "900772515215286272",
+		"in_reply_to_user_id": 27908572,
+		"in_reply_to_user_id_str": "27908572",
+		"in_reply_to_screen_name": "SarahZuks",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1437,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 16:37:39 +0000 2017",
+		"id": 900759016086929400,
+		"id_str": "900759016086929408",
+		"text": "@joleighsephine “If you want to sing out, sing out!”",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joleighsephine",
+					"name": "Traci! Tracy! Tracé!",
+					"id": 157568694,
+					"id_str": "157568694",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 900758465743908900,
+		"in_reply_to_status_id_str": "900758465743908864",
+		"in_reply_to_user_id": 157568694,
+		"in_reply_to_user_id_str": "157568694",
+		"in_reply_to_screen_name": "joleighsephine",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1437,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 15:43:28 +0000 2017",
+		"id": 900745380836638700,
+		"id_str": "900745380836638722",
+		"text": "A I’m-sitting-outside-in-August-and-I’m-not-melting selfie https://t.co/o5uQ9y1V9X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 900745373953568800,
+					"id_str": "900745373953568768",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DIAXJS-UMAAGbru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIAXJS-UMAAGbru.jpg",
+					"url": "https://t.co/o5uQ9y1V9X",
+					"display_url": "pic.twitter.com/o5uQ9y1V9X",
+					"expanded_url": "https://twitter.com/jdbence/status/900745380836638722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900745373953568800,
+					"id_str": "900745373953568768",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/DIAXJS-UMAAGbru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIAXJS-UMAAGbru.jpg",
+					"url": "https://t.co/o5uQ9y1V9X",
+					"display_url": "pic.twitter.com/o5uQ9y1V9X",
+					"expanded_url": "https://twitter.com/jdbence/status/900745380836638722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1437,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715238199606571008/ax21TW4S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1485439135",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 24 00:07:19 +0000 2017",
 		"id": 900509789494661100,
 		"id_str": "900509789494661120",
