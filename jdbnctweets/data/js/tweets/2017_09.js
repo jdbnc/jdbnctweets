@@ -1,6 +1,104 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 06 18:27:59 +0000 2017",
+		"id": 905497826079244300,
+		"id_str": "905497826079244289",
+		"text": "@sendavidperdue @CobbChamber Those the same folks who built a private stadium with people's tax dollars?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sendavidperdue",
+					"name": "David Perdue",
+					"id": 2863210809,
+					"id_str": "2863210809",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "CobbChamber",
+					"name": "Cobb Chamber",
+					"id": 69091997,
+					"id_str": "69091997",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 905496083861823500,
+		"in_reply_to_status_id_str": "905496083861823488",
+		"in_reply_to_user_id": 2863210809,
+		"in_reply_to_user_id_str": "2863210809",
+		"in_reply_to_screen_name": "sendavidperdue",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 756,
+			"listed_count": 0,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1466,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1504318105",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 05 14:46:33 +0000 2017",
 		"id": 905079712434843600,
 		"id_str": "905079712434843648",
