@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 20 14:56:16 +0000 2017",
+		"id": 910517976918642700,
+		"id_str": "910517976918642688",
+		"text": "RT @marydudziak: .@EmoryRoseMARBL archivist @jdbence didn't lecture the class. Enabled them to learn together in groups. Great approach. @E…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marydudziak",
+					"name": "mary dudziak",
+					"id": 1426557763,
+					"id_str": "1426557763",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "EmoryRoseMARBL",
+					"name": "Rose Library Emory",
+					"id": 2979785051,
+					"id_str": "2979785051",
+					"indices": [
+						18,
+						33
+					]
+				},
+				{
+					"screen_name": "jdbence",
+					"name": "John Bence",
+					"id": 24188638,
+					"id_str": "24188638",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1538,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1504318105",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 20 14:49:32 +0000 2017",
+			"id": 910516279353774100,
+			"id_str": "910516279353774080",
+			"text": ".@EmoryRoseMARBL archivist @jdbence didn't lecture the class. Enabled them to learn together in groups. Great appro… https://t.co/ReOjRkAbBK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmoryRoseMARBL",
+						"name": "Rose Library Emory",
+						"id": 2979785051,
+						"id_str": "2979785051",
+						"indices": [
+							1,
+							16
+						]
+					},
+					{
+						"screen_name": "jdbence",
+						"name": "John Bence",
+						"id": 24188638,
+						"id_str": "24188638",
+						"indices": [
+							27,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ReOjRkAbBK",
+						"expanded_url": "https://twitter.com/i/web/status/910516279353774080",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1426557763,
+				"id_str": "1426557763",
+				"name": "mary dudziak",
+				"screen_name": "marydudziak",
+				"location": "",
+				"description": "2017 President of the Society for Historians of American Foreign Relations. Law prof & historian. Writing history of how US lost democratic limits on war powers",
+				"url": "https://t.co/wT8phV8hvq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wT8phV8hvq",
+								"expanded_url": "http://www.marydudziak.com/",
+								"display_url": "marydudziak.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3824,
+				"friends_count": 1923,
+				"listed_count": 136,
+				"created_at": "Mon May 13 22:46:10 +0000 2013",
+				"favourites_count": 9272,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12989,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815650795693731840/86D4017o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815650795693731840/86D4017o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1426557763/1434998574",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 19 20:43:57 +0000 2017",
 		"id": 910243084268654600,
 		"id_str": "910243084268654592",
