@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 21 16:01:49 +0000 2017",
+		"id": 910896861040562200,
+		"id_str": "910896861040562176",
+		"text": "RT @jasondashbailey: Your party is led by a fucking game show host, sit the fuck down https://t.co/4WLvCt26v4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasondashbailey",
+					"name": "Jason Bailey",
+					"id": 41009404,
+					"id_str": "41009404",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4WLvCt26v4",
+					"expanded_url": "https://twitter.com/nro/status/910692598062428160",
+					"display_url": "twitter.com/nro/status/910…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist @EmoryUniversity in @EmoryRoseMARBL, tweeting about archives, libraries, history, Atlanta, GA + some inane prattlings",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 624,
+			"friends_count": 756,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1541,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1504318105",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 21 11:54:03 +0000 2017",
+			"id": 910834507686846500,
+			"id_str": "910834507686846464",
+			"text": "Your party is led by a fucking game show host, sit the fuck down https://t.co/4WLvCt26v4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4WLvCt26v4",
+						"expanded_url": "https://twitter.com/nro/status/910692598062428160",
+						"display_url": "twitter.com/nro/status/910…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41009404,
+				"id_str": "41009404",
+				"name": "Jason Bailey",
+				"screen_name": "jasondashbailey",
+				"location": "New York, NY",
+				"description": "Film ed @flavorwire. Always doing aggressive weirdness. Books: PULP FICTION, Woody Allen, Richard Pryor (https://t.co/Hw8mEgiJQu)",
+				"url": "https://t.co/lahbBzQ2Dp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lahbBzQ2Dp",
+								"expanded_url": "http://flavorwire.com/author/jason605",
+								"display_url": "flavorwire.com/author/jason605",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Hw8mEgiJQu",
+								"expanded_url": "http://www.amazon.com/Jason-Bailey/e/B00E756M92",
+								"display_url": "amazon.com/Jason-Bailey/e…",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7198,
+				"friends_count": 3227,
+				"listed_count": 252,
+				"created_at": "Tue May 19 00:21:15 +0000 2009",
+				"favourites_count": 109663,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47184,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821740896874074116/7H0PgxbH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821740896874074116/7H0PgxbH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41009404/1504028111",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 910692598062428200,
+			"quoted_status_id_str": "910692598062428160",
+			"quoted_status": {
+				"created_at": "Thu Sep 21 02:30:09 +0000 2017",
+				"id": 910692598062428200,
+				"id_str": "910692598062428160",
+				"text": "Why won't @jimmykimmel leave policy talk to the health care experts? https://t.co/fOfmGUJXM7 via @theodorekupfer https://t.co/tQOWRcCW21",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "jimmykimmel",
+							"name": "Jimmy Kimmel",
+							"id": 26053643,
+							"id_str": "26053643",
+							"indices": [
+								10,
+								22
+							]
+						},
+						{
+							"screen_name": "theodorekupfer",
+							"name": "Theodore Kupfer",
+							"id": 75712280,
+							"id_str": "75712280",
+							"indices": [
+								97,
+								112
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/fOfmGUJXM7",
+							"expanded_url": "http://bit.ly/2yeIq0V",
+							"display_url": "bit.ly/2yeIq0V",
+							"indices": [
+								69,
+								92
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 910692595839438800,
+							"id_str": "910692595839438848",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DKNuF0KWkAAgxMH.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DKNuF0KWkAAgxMH.jpg",
+							"url": "https://t.co/tQOWRcCW21",
+							"display_url": "pic.twitter.com/tQOWRcCW21",
+							"expanded_url": "https://twitter.com/NRO/status/910692598062428160/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 700,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 397,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 700,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 910692595839438800,
+							"id_str": "910692595839438848",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DKNuF0KWkAAgxMH.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DKNuF0KWkAAgxMH.jpg",
+							"url": "https://t.co/tQOWRcCW21",
+							"display_url": "pic.twitter.com/tQOWRcCW21",
+							"expanded_url": "https://twitter.com/NRO/status/910692598062428160/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 700,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 397,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1200,
+									"h": 700,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19417492,
+					"id_str": "19417492",
+					"name": "National Review",
+					"screen_name": "NRO",
+					"location": "New York",
+					"description": "Standing athwart history, yelling Stop. A magazine founded by the late William F. Buckley Jr. Snapchat & Instagram: NationalReview",
+					"url": "https://t.co/s00ora6By7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/s00ora6By7",
+									"expanded_url": "http://www.NationalReview.com",
+									"display_url": "NationalReview.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 262151,
+					"friends_count": 1796,
+					"listed_count": 5662,
+					"created_at": "Fri Jan 23 22:20:49 +0000 2009",
+					"favourites_count": 663,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 61851,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182799447/70huUKs9.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182799447/70huUKs9.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/471722478822100992/slV_OilN_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/471722478822100992/slV_OilN_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19417492/1467935116",
+					"profile_link_color": "5785FA",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "77A3BA",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 166,
+				"favorite_count": 363,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5780,
+			"favorite_count": 19214,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 910692598062428200,
+		"quoted_status_id_str": "910692598062428160",
+		"retweet_count": 5780,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 20 14:56:16 +0000 2017",
 		"id": 910517976918642700,
 		"id_str": "910517976918642688",
