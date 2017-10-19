@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 18 17:11:04 +0000 2017",
+		"id": 920698758345756700,
+		"id_str": "920698758345756673",
+		"text": "Ugh, predictable nimbyism https://t.co/r1rRpPjb8b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r1rRpPjb8b",
+					"expanded_url": "https://twitter.com/CurbedAtlanta/status/920697725842321408",
+					"display_url": "twitter.com/CurbedAtlanta/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, libraries, history, Atlanta, GA, and more",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 758,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1602,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1504318105",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 920697725842321400,
+		"quoted_status_id_str": "920697725842321408",
+		"quoted_status": {
+			"created_at": "Wed Oct 18 17:06:58 +0000 2017",
+			"id": 920697725842321400,
+			"id_str": "920697725842321408",
+			"text": "At meeting, #Brookhaven #ATL voices crime fears about Peachtree Creek Greenway (an eventual #Beltline link) plans.… https://t.co/FWSlhrc9h4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Brookhaven",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"text": "ATL",
+						"indices": [
+							24,
+							28
+						]
+					},
+					{
+						"text": "Beltline",
+						"indices": [
+							92,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FWSlhrc9h4",
+						"expanded_url": "https://twitter.com/i/web/status/920697725842321408",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 305707787,
+				"id_str": "305707787",
+				"name": "Curbed Atlanta",
+				"screen_name": "CurbedAtlanta",
+				"location": "Atlanta, GA",
+				"description": "Every aspect of living in Atlanta, for people who care about their city, their streets, and their homes.",
+				"url": "http://t.co/rkBjCe1QX4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rkBjCe1QX4",
+								"expanded_url": "http://atlanta.curbed.com",
+								"display_url": "atlanta.curbed.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10855,
+				"friends_count": 594,
+				"listed_count": 306,
+				"created_at": "Thu May 26 17:28:14 +0000 2011",
+				"favourites_count": 472,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12962,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045056084/475798d731ac77faa9e220a470af2c73.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045056084/475798d731ac77faa9e220a470af2c73.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823568203616047104/QbLl7Q5L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823568203616047104/QbLl7Q5L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/305707787/1464031435",
+				"profile_link_color": "FF604A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 15 03:12:47 +0000 2017",
 		"id": 919400636180987900,
 		"id_str": "919400636180987904",
