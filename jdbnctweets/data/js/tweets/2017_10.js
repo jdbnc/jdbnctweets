@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 17:08:25 +0000 2017",
+		"id": 921422866830299100,
+		"id_str": "921422866830299143",
+		"text": "Come work with us and help us engage the communities we serve! https://t.co/s9cgInOqYB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s9cgInOqYB",
+					"expanded_url": "https://twitter.com/archivesgig/status/921413939367432193",
+					"display_url": "twitter.com/archivesgig/st…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, libraries, history, Atlanta, GA, and more",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 758,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1606,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903801276651188224/c3mpyWGZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1504318105",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 921413939367432200,
+		"quoted_status_id_str": "921413939367432193",
+		"quoted_status": {
+			"created_at": "Fri Oct 20 16:32:56 +0000 2017",
+			"id": 921413939367432200,
+			"id_str": "921413939367432193",
+			"text": "Atlanta, GA: Community Outreach Archivist, Emory University https://t.co/cnKXKCrVej",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cnKXKCrVej",
+						"expanded_url": "https://archivesgig.wordpress.com/2017/10/20/atlanta-ga-community-outreach-archivist-emory-university/",
+						"display_url": "archivesgig.wordpress.com/2017/10/20/atl…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142336259,
+				"id_str": "142336259",
+				"name": "Archives Gig",
+				"screen_name": "archivesgig",
+				"location": "Madison, Wisconsin",
+				"description": "This is the Twitter feed for Archives Gig, administered by Meredith Lowe.  Personal Twitter account is @meredithclowe.",
+				"url": "http://t.co/Vh1AO33cNt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Vh1AO33cNt",
+								"expanded_url": "http://archivesgig.wordpress.com",
+								"display_url": "archivesgig.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3702,
+				"friends_count": 2507,
+				"listed_count": 165,
+				"created_at": "Mon May 10 16:19:53 +0000 2010",
+				"favourites_count": 126,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10223,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142336259/1480959578",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 19 17:10:34 +0000 2017",
 		"id": 921061020923256800,
 		"id_str": "921061020923256832",
