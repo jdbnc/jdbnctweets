@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 23 15:52:21 +0000 2017",
+		"id": 922490887074209800,
+		"id_str": "922490887074209793",
+		"text": "RT @tttkay: \"if you don't have time to plan, you don't have time to do\" @CharlotteLNunes quoting UT Arlington document #m1e #dlfforum",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "m1e",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "dlfforum",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tttkay",
+					"name": "bibliotekah",
+					"id": 73315263,
+					"id_str": "73315263",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "CharlotteLNunes",
+					"name": "Charlotte Nunes",
+					"id": 2296670245,
+					"id_str": "2296670245",
+					"indices": [
+						72,
+						88
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, libraries, history, Atlanta, and a variety of inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 757,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1620,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 23 15:50:19 +0000 2017",
+			"id": 922490374718939100,
+			"id_str": "922490374718939138",
+			"text": "\"if you don't have time to plan, you don't have time to do\" @CharlotteLNunes quoting UT Arlington document #m1e #dlfforum",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "m1e",
+						"indices": [
+							107,
+							111
+						]
+					},
+					{
+						"text": "dlfforum",
+						"indices": [
+							112,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CharlotteLNunes",
+						"name": "Charlotte Nunes",
+						"id": 2296670245,
+						"id_str": "2296670245",
+						"indices": [
+							60,
+							76
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73315263,
+				"id_str": "73315263",
+				"name": "bibliotekah",
+				"screen_name": "tttkay",
+				"location": "LA all day",
+				"description": "Archivist/librarian working at intersections of digital scholarship + social justice | DJ #TheArchiveofFeelings 1st Saturdays 10a-12p on @dublab",
+				"url": "https://t.co/Pk5k4P6cxX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Pk5k4P6cxX",
+								"expanded_url": "http://dublab.com/t-kay",
+								"display_url": "dublab.com/t-kay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2131,
+				"friends_count": 821,
+				"listed_count": 140,
+				"created_at": "Fri Sep 11 05:12:45 +0000 2009",
+				"favourites_count": 221,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10580,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/35964438/archive-fever.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/35964438/archive-fever.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875807409066852353/ZV-jeez-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875807409066852353/ZV-jeez-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73315263/1398264316",
+				"profile_link_color": "EC73F0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "f6514a91adf25ce4",
+				"url": "https://api.twitter.com/1.1/geo/id/f6514a91adf25ce4.json",
+				"place_type": "city",
+				"name": "Ross Township",
+				"full_name": "Ross Township, PA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.0647047,
+								40.487357
+							],
+							[
+								-79.985516,
+								40.487357
+							],
+							[
+								-79.985516,
+								40.555021
+							],
+							[
+								-80.0647047,
+								40.555021
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 21 16:07:06 +0000 2017",
 		"id": 921769824782450700,
 		"id_str": "921769824782450688",
