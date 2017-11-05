@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 04 20:13:03 +0000 2017",
+		"id": 926905148458373100,
+		"id_str": "926905148458373120",
+		"text": "RT @AtlantaMarch: We demand Cobb Co vote until 8p like Fulton Co in SD6 special election #opentil8 #gapol https://t.co/59Kk0lcSBa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "opentil8",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "gapol",
+					"indices": [
+						99,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AtlantaMarch",
+					"name": "GAFSJ",
+					"id": 798262680184295400,
+					"id_str": "798262680184295424",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 926904301636804600,
+					"id_str": "926904301636804614",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+					"url": "https://t.co/59Kk0lcSBa",
+					"display_url": "pic.twitter.com/59Kk0lcSBa",
+					"expanded_url": "https://twitter.com/AtlantaMarch/status/926904307412275202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1089,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1089,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926904307412275200,
+					"source_status_id_str": "926904307412275202",
+					"source_user_id": 798262680184295400,
+					"source_user_id_str": "798262680184295424"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 926904301636804600,
+					"id_str": "926904301636804614",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+					"url": "https://t.co/59Kk0lcSBa",
+					"display_url": "pic.twitter.com/59Kk0lcSBa",
+					"expanded_url": "https://twitter.com/AtlantaMarch/status/926904307412275202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1089,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1089,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 926904307412275200,
+					"source_status_id_str": "926904307412275202",
+					"source_user_id": 798262680184295400,
+					"source_user_id_str": "798262680184295424"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 632,
+			"friends_count": 759,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1677,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3231,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 20:09:42 +0000 2017",
+			"id": 926904307412275200,
+			"id_str": "926904307412275202",
+			"text": "We demand Cobb Co vote until 8p like Fulton Co in SD6 special election #opentil8 #gapol https://t.co/59Kk0lcSBa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "opentil8",
+						"indices": [
+							71,
+							80
+						]
+					},
+					{
+						"text": "gapol",
+						"indices": [
+							81,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 926904301636804600,
+						"id_str": "926904301636804614",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+						"url": "https://t.co/59Kk0lcSBa",
+						"display_url": "pic.twitter.com/59Kk0lcSBa",
+						"expanded_url": "https://twitter.com/AtlantaMarch/status/926904307412275202/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1089,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1089,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 926904301636804600,
+						"id_str": "926904301636804614",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DN0GjSfX4AYMnKG.jpg",
+						"url": "https://t.co/59Kk0lcSBa",
+						"display_url": "pic.twitter.com/59Kk0lcSBa",
+						"expanded_url": "https://twitter.com/AtlantaMarch/status/926904307412275202/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1089,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1089,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798262680184295400,
+				"id_str": "798262680184295424",
+				"name": "GAFSJ",
+				"screen_name": "AtlantaMarch",
+				"location": "Atlanta, GA",
+				"description": "The Georgia Alliance for Social Justice the Georgia affiliate of Women’s March. 65k Strong from March to Movement. #NotoneStepBack",
+				"url": "https://t.co/F84T68KIUL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F84T68KIUL",
+								"expanded_url": "http://www.atlantamarch.com",
+								"display_url": "atlantamarch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4267,
+				"friends_count": 3568,
+				"listed_count": 51,
+				"created_at": "Mon Nov 14 20:33:48 +0000 2016",
+				"favourites_count": 3013,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2657,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858716595513954304/Xn3eH827_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858716595513954304/Xn3eH827_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798262680184295424/1500145307",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 03 02:19:02 +0000 2017",
 		"id": 926272477793222700,
 		"id_str": "926272477793222656",
