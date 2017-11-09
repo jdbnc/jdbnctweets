@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 08 03:40:26 +0000 2017",
+		"id": 928104899543556100,
+		"id_str": "928104899543556098",
+		"text": "RT @bluestein: Democrats appear to have picked up two long-held Republican seats in Georgia Legislature, winning in both Athens and Watkins…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluestein",
+					"name": "Greg Bluestein",
+					"id": 16563015,
+					"id_str": "16563015",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 759,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1696,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 08 02:38:47 +0000 2017",
+			"id": 928089385853243400,
+			"id_str": "928089385853243392",
+			"text": "Democrats appear to have picked up two long-held Republican seats in Georgia Legislature, winning in both Athens an… https://t.co/B48KFjO5so",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B48KFjO5so",
+						"expanded_url": "https://twitter.com/i/web/status/928089385853243392",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16563015,
+				"id_str": "16563015",
+				"name": "Greg Bluestein",
+				"screen_name": "bluestein",
+				"location": "ATL",
+				"description": "@AJC political reporter. Atlanta native working to tell my city's story. Also at @PoliticallyGa. gbluestein@ajc.com",
+				"url": "https://t.co/fj6eOUMd7A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fj6eOUMd7A",
+								"expanded_url": "http://on-ajc.com/1N1ZsPq",
+								"display_url": "on-ajc.com/1N1ZsPq",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15978,
+				"friends_count": 900,
+				"listed_count": 587,
+				"created_at": "Thu Oct 02 17:50:51 +0000 2008",
+				"favourites_count": 9205,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24655,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856710433100754949/u6qeh8sO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856710433100754949/u6qeh8sO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16563015/1482726357",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8173485c72e78ca5",
+				"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+				"place_type": "city",
+				"name": "Atlanta",
+				"full_name": "Atlanta, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.576827,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.8868859
+							],
+							[
+								-84.576827,
+								33.8868859
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 928086439543402500,
+			"quoted_status_id_str": "928086439543402498",
+			"quoted_status": {
+				"created_at": "Wed Nov 08 02:27:04 +0000 2017",
+				"id": 928086439543402500,
+				"id_str": "928086439543402498",
+				"text": "Dems Deborah Gonzalez and Jonathan Wallace pull off shocking upsets in right-leaning Athens House races: https://t.co/KCaClXDIL3 #gapol",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "gapol",
+							"indices": [
+								129,
+								135
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/KCaClXDIL3",
+							"expanded_url": "http://flagpole.com/news/in-the-loop/democrats-score-shocking-wins-in-athens-state-house-elections",
+							"display_url": "flagpole.com/news/in-the-lo…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 51155738,
+					"id_str": "51155738",
+					"name": "Blake Aued",
+					"screen_name": "BlakeAued",
+					"location": "Athens, Ga.",
+					"description": "News editor/political columnist at @FlagpoleMag. Also @WUGAFM's News Matters and @streetsblogSE. I have a license to news. #BlackBears4Lyfe",
+					"url": "https://t.co/kum7JVbyEJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/kum7JVbyEJ",
+									"expanded_url": "http://www.flagpole.com",
+									"display_url": "flagpole.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1648,
+					"friends_count": 356,
+					"listed_count": 88,
+					"created_at": "Fri Jun 26 17:58:19 +0000 2009",
+					"favourites_count": 1046,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8358,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/852257448303919110/0KliJdrc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/852257448303919110/0KliJdrc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/51155738/1403123427",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 231,
+				"favorite_count": 482,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1786,
+			"favorite_count": 4210,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 928086439543402500,
+		"quoted_status_id_str": "928086439543402498",
+		"retweet_count": 1786,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 02:18:44 +0000 2017",
 		"id": 928084341099565000,
 		"id_str": "928084341099565057",
