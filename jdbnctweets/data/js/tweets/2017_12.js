@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 09 14:05:00 +0000 2017",
+		"id": 939496101299834900,
+		"id_str": "939496101299834881",
+		"text": "RT @JimCantore: Crazy USA Snow cover map: https://t.co/3p4eV4MpTN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JimCantore",
+					"name": "Jim Cantore",
+					"id": 21388284,
+					"id_str": "21388284",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 939479454811799600,
+					"id_str": "939479454811799552",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+					"url": "https://t.co/3p4eV4MpTN",
+					"display_url": "pic.twitter.com/3p4eV4MpTN",
+					"expanded_url": "https://twitter.com/JimCantore/status/939479462130995203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 458,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939479462130995200,
+					"source_status_id_str": "939479462130995203",
+					"source_user_id": 21388284,
+					"source_user_id_str": "21388284"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939479454811799600,
+					"id_str": "939479454811799552",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+					"url": "https://t.co/3p4eV4MpTN",
+					"display_url": "pic.twitter.com/3p4eV4MpTN",
+					"expanded_url": "https://twitter.com/JimCantore/status/939479462130995203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 458,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939479462130995200,
+					"source_status_id_str": "939479462130995203",
+					"source_user_id": 21388284,
+					"source_user_id_str": "21388284"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 762,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1768,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 12:58:53 +0000 2017",
+			"id": 939479462130995200,
+			"id_str": "939479462130995203",
+			"text": "Crazy USA Snow cover map: https://t.co/3p4eV4MpTN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 939479454811799600,
+						"id_str": "939479454811799552",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+						"url": "https://t.co/3p4eV4MpTN",
+						"display_url": "pic.twitter.com/3p4eV4MpTN",
+						"expanded_url": "https://twitter.com/JimCantore/status/939479462130995203/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 801,
+								"h": 458,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 458,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939479454811799600,
+						"id_str": "939479454811799552",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQmzlinVwAA09GI.jpg",
+						"url": "https://t.co/3p4eV4MpTN",
+						"display_url": "pic.twitter.com/3p4eV4MpTN",
+						"expanded_url": "https://twitter.com/JimCantore/status/939479462130995203/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 801,
+								"h": 458,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 458,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21388284,
+				"id_str": "21388284",
+				"name": "Jim Cantore",
+				"screen_name": "JimCantore",
+				"location": "Location: Up to mother nature",
+				"description": "Certified Broadcast Meteorologist and AMS Fellow. WX GEEK at TWC for 31+ years. Always awaiting mother natures latest temper tantrum. The journey is the reward.",
+				"url": "https://t.co/i1omYD1SV4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i1omYD1SV4",
+								"expanded_url": "https://Twitter.com/jimcantore",
+								"display_url": "Twitter.com/jimcantore",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1103057,
+				"friends_count": 2236,
+				"listed_count": 7598,
+				"created_at": "Fri Feb 20 10:43:41 +0000 2009",
+				"favourites_count": 2764,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 88001,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/338087264/CantoreTwitter_20110921.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/338087264/CantoreTwitter_20110921.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/619271293402267648/bcAxWQCr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/619271293402267648/bcAxWQCr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21388284/1425422911",
+				"profile_link_color": "2351A1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "002B82",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 729,
+			"favorite_count": 1511,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 729,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 08 19:28:10 +0000 2017",
 		"id": 939215040376393700,
 		"id_str": "939215040376393728",
