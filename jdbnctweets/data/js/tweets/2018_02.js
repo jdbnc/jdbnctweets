@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 22:08:19 +0000 2018",
+		"id": 963897721819205600,
+		"id_str": "963897721819205632",
+		"text": "RT @ATLStudies: With the \"Rap Map,\" @adnanrasool uses ATLMaps to visualize how three Atlanta rappers, @Outkast, @Ludacris, and @DonladGlove…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATLStudies",
+					"name": "Atlanta Studies",
+					"id": 2394933618,
+					"id_str": "2394933618",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "adnanrasool",
+					"name": "Adnan Rasool",
+					"id": 25166752,
+					"id_str": "25166752",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "Outkast",
+					"name": "Outkast",
+					"id": 2275275865,
+					"id_str": "2275275865",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"screen_name": "Ludacris",
+					"name": "Ludacris",
+					"id": 17696167,
+					"id_str": "17696167",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 637,
+			"friends_count": 767,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1808,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3293,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 13 18:30:53 +0000 2018",
+			"id": 963480614660952000,
+			"id_str": "963480614660952064",
+			"text": "With the \"Rap Map,\" @adnanrasool uses ATLMaps to visualize how three Atlanta rappers, @Outkast, @Ludacris, and… https://t.co/rE39THiube",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "adnanrasool",
+						"name": "Adnan Rasool",
+						"id": 25166752,
+						"id_str": "25166752",
+						"indices": [
+							20,
+							32
+						]
+					},
+					{
+						"screen_name": "Outkast",
+						"name": "Outkast",
+						"id": 2275275865,
+						"id_str": "2275275865",
+						"indices": [
+							86,
+							94
+						]
+					},
+					{
+						"screen_name": "Ludacris",
+						"name": "Ludacris",
+						"id": 17696167,
+						"id_str": "17696167",
+						"indices": [
+							96,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rE39THiube",
+						"expanded_url": "https://twitter.com/i/web/status/963480614660952064",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2394933618,
+				"id_str": "2394933618",
+				"name": "Atlanta Studies",
+				"screen_name": "ATLStudies",
+				"location": "ATL ",
+				"description": "A scholarly magazine/blog/gathering place for scholars, students, organizers, you. All Atlanta, all the time. Tweets by @adampnewman89 #ATLstudies",
+				"url": "http://t.co/cJUhlkDdi9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cJUhlkDdi9",
+								"expanded_url": "http://atlantastudies.org",
+								"display_url": "atlantastudies.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1444,
+				"friends_count": 325,
+				"listed_count": 55,
+				"created_at": "Mon Mar 17 19:02:14 +0000 2014",
+				"favourites_count": 2118,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4308,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/567321707388481536/zED4ZeS0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/567321707388481536/zED4ZeS0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2394933618/1491188458",
+				"profile_link_color": "00B3AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 08 01:26:57 +0000 2018",
 		"id": 961410992164016100,
 		"id_str": "961410992164016128",
