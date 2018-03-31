@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 30 16:28:19 +0000 2018",
+		"id": 979757220371009500,
+		"id_str": "979757220371009536",
+		"text": "RT @letamericavote: Major voting rights success: After pushing back &amp; making calls to GA legislators, SB 363 and SB 309 have been DEFEATED!…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "letamericavote",
+					"name": "Let America Vote",
+					"id": 828706394073395200,
+					"id_str": "828706394073395201",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 773,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1911,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 30 15:45:04 +0000 2018",
+			"id": 979746337011855400,
+			"id_str": "979746337011855361",
+			"text": "Major voting rights success: After pushing back &amp; making calls to GA legislators, SB 363 and SB 309 have been DEFEA… https://t.co/gyujsSIG4R",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gyujsSIG4R",
+						"expanded_url": "https://twitter.com/i/web/status/979746337011855361",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 828706394073395200,
+				"id_str": "828706394073395201",
+				"name": "Let America Vote",
+				"screen_name": "letamericavote",
+				"location": "United States",
+				"description": "We're a boots on the ground team that's dedicated to protecting voting rights. A @JasonKander project.",
+				"url": "https://t.co/qObBf2KeKL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qObBf2KeKL",
+								"expanded_url": "http://www.letamericavote.org/2018",
+								"display_url": "letamericavote.org/2018",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68681,
+				"friends_count": 539,
+				"listed_count": 563,
+				"created_at": "Mon Feb 06 20:46:15 +0000 2017",
+				"favourites_count": 3269,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975045623010418688/-glyroRL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975045623010418688/-glyroRL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/828706394073395201/1521561238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 974744838066159600,
+			"quoted_status_id_str": "974744838066159616",
+			"quoted_status": {
+				"created_at": "Fri Mar 16 20:30:53 +0000 2018",
+				"id": 974744838066159600,
+				"id_str": "974744838066159616",
+				"text": "Voter suppression bills introduced by Georgia Republicans in the state legislature would: \n1️⃣ Eliminate Sunday vot… https://t.co/by9FiJ7oew",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/by9FiJ7oew",
+							"expanded_url": "https://twitter.com/i/web/status/974744838066159616",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 828706394073395200,
+					"id_str": "828706394073395201",
+					"name": "Let America Vote",
+					"screen_name": "letamericavote",
+					"location": "United States",
+					"description": "We're a boots on the ground team that's dedicated to protecting voting rights. A @JasonKander project.",
+					"url": "https://t.co/qObBf2KeKL",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/qObBf2KeKL",
+									"expanded_url": "http://www.letamericavote.org/2018",
+									"display_url": "letamericavote.org/2018",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 68681,
+					"friends_count": 539,
+					"listed_count": 563,
+					"created_at": "Mon Feb 06 20:46:15 +0000 2017",
+					"favourites_count": 3269,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 3567,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/975045623010418688/-glyroRL_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/975045623010418688/-glyroRL_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/828706394073395201/1521561238",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 775,
+				"favorite_count": 510,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 536,
+			"favorite_count": 1530,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 974744838066159600,
+		"quoted_status_id_str": "974744838066159616",
+		"retweet_count": 536,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 28 13:56:53 +0000 2018",
 		"id": 978994338410659800,
 		"id_str": "978994338410659841",
