@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 20 16:44:16 +0000 2018",
+		"id": 987371383402455000,
+		"id_str": "987371383402455040",
+		"text": "RT @LibraryRadio: We are on the air, talking about The Atlanta Black Archives Alliance ( @ATLBlackArchive ). Tune in to @WREK 91.1FM in Atl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryRadio",
+					"name": "Lost in the Stacks",
+					"id": 292556476,
+					"id_str": "292556476",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "ATLBlackArchive",
+					"name": "ABAA",
+					"id": 898685901471182800,
+					"id_str": "898685901471182848",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"screen_name": "WREK",
+					"name": "WREK 91.1 FM",
+					"id": 13442652,
+					"id_str": "13442652",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 773,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 1947,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485808644819144707/CpVFwJcp.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 20 16:04:00 +0000 2018",
+			"id": 987361248067989500,
+			"id_str": "987361248067989504",
+			"text": "We are on the air, talking about The Atlanta Black Archives Alliance ( @ATLBlackArchive ). Tune in to @WREK 91.1FM… https://t.co/iwcjHEQjpu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ATLBlackArchive",
+						"name": "ABAA",
+						"id": 898685901471182800,
+						"id_str": "898685901471182848",
+						"indices": [
+							71,
+							87
+						]
+					},
+					{
+						"screen_name": "WREK",
+						"name": "WREK 91.1 FM",
+						"id": 13442652,
+						"id_str": "13442652",
+						"indices": [
+							102,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iwcjHEQjpu",
+						"expanded_url": "https://twitter.com/i/web/status/987361248067989504",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 292556476,
+				"id_str": "292556476",
+				"name": "Lost in the Stacks",
+				"screen_name": "LibraryRadio",
+				"location": "WREK 91.1 FM, Georgia Tech",
+				"description": "Lost in the Stacks is the research library rock n' roll radio show!  Hear, here: http://t.co/v94oaEVzPg or here http://t.co/52bamb3rHJ",
+				"url": "http://t.co/52bamb3rHJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/52bamb3rHJ",
+								"expanded_url": "http://lostinthestacks.libsyn.com",
+								"display_url": "lostinthestacks.libsyn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/v94oaEVzPg",
+								"expanded_url": "http://wrek.org/lostinthestacks",
+								"display_url": "wrek.org/lostinthestacks",
+								"indices": [
+									81,
+									103
+								]
+							},
+							{
+								"url": "http://t.co/52bamb3rHJ",
+								"expanded_url": "http://lostinthestacks.libsyn.com",
+								"display_url": "lostinthestacks.libsyn.com",
+								"indices": [
+									112,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1150,
+				"friends_count": 169,
+				"listed_count": 74,
+				"created_at": "Tue May 03 21:02:33 +0000 2011",
+				"favourites_count": 509,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3126,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245359354/pilot_1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245359354/pilot_1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337675093/LITS_logo_color_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337675093/LITS_logo_color_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/292556476/1431462510",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 20 01:28:57 +0000 2018",
 		"id": 987141035498311700,
 		"id_str": "987141035498311686",
