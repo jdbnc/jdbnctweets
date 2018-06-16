@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 15 17:21:17 +0000 2018",
+		"id": 1007674417793683500,
+		"id_str": "1007674417793683456",
+		"text": "RT @archivesgig: Atlanta, GA: Paid Fall Intern, CNN Library https://t.co/y3xbupmFQE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "archivesgig",
+					"name": "Archives Gig",
+					"id": 142336259,
+					"id_str": "142336259",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y3xbupmFQE",
+					"expanded_url": "https://archivesgig.wordpress.com/2018/06/15/atlanta-ga-paid-fall-intern-cnn-library/",
+					"display_url": "archivesgig.wordpress.com/2018/06/15/atl…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 643,
+			"friends_count": 777,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 15 17:14:26 +0000 2018",
+			"id": 1007672695679586300,
+			"id_str": "1007672695679586304",
+			"text": "Atlanta, GA: Paid Fall Intern, CNN Library https://t.co/y3xbupmFQE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y3xbupmFQE",
+						"expanded_url": "https://archivesgig.wordpress.com/2018/06/15/atlanta-ga-paid-fall-intern-cnn-library/",
+						"display_url": "archivesgig.wordpress.com/2018/06/15/atl…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142336259,
+				"id_str": "142336259",
+				"name": "Archives Gig",
+				"screen_name": "archivesgig",
+				"location": "Madison, Wisconsin",
+				"description": "This is the Twitter feed for Archives Gig, administered by Meredith Lowe.  Personal Twitter account is @meredithclowe.",
+				"url": "http://t.co/Vh1AO33cNt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Vh1AO33cNt",
+								"expanded_url": "http://archivesgig.wordpress.com",
+								"display_url": "archivesgig.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3969,
+				"friends_count": 2596,
+				"listed_count": 163,
+				"created_at": "Mon May 10 16:19:53 +0000 2010",
+				"favourites_count": 138,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142336259/1480959578",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 15 14:16:58 +0000 2018",
+		"id": 1007628031811293200,
+		"id_str": "1007628031811293185",
+		"text": "@RoxanneShirazi I found the whole thing lame, but particularly insulting were the tropes delivered via mixed metaph… https://t.co/cni1Oixwbc",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoxanneShirazi",
+					"name": "Roxanne Shirazi",
+					"id": 296875809,
+					"id_str": "296875809",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cni1Oixwbc",
+					"expanded_url": "https://twitter.com/i/web/status/1007628031811293185",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1007442415576387600,
+		"in_reply_to_status_id_str": "1007442415576387586",
+		"in_reply_to_user_id": 296875809,
+		"in_reply_to_user_id_str": "296875809",
+		"in_reply_to_screen_name": "RoxanneShirazi",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 643,
+			"friends_count": 777,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 14 22:48:48 +0000 2018",
 		"id": 1007394453198442500,
 		"id_str": "1007394453198442496",
