@@ -1,6 +1,789 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 20 19:35:14 +0000 2018",
+		"id": 1009520066411597800,
+		"id_str": "1009520066411597826",
+		"text": "@icatalogthings @jacobsberg My bartender a few days ago got SO EXCITED when I told her the librarians were coming.… https://t.co/LlLNVZFoYR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "icatalogthings",
+					"name": "Whitney Buccicone",
+					"id": 25072740,
+					"id_str": "25072740",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "jacobsberg",
+					"name": "Kakistocracy Man",
+					"id": 117450420,
+					"id_str": "117450420",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LlLNVZFoYR",
+					"expanded_url": "https://twitter.com/i/web/status/1009520066411597826",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1008861213898494000,
+		"in_reply_to_status_id_str": "1008861213898493953",
+		"in_reply_to_user_id": 25072740,
+		"in_reply_to_user_id_str": "25072740",
+		"in_reply_to_screen_name": "icatalogthings",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 645,
+			"friends_count": 778,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 17:18:33 +0000 2018",
+		"id": 1009485667758493700,
+		"id_str": "1009485667758493696",
+		"text": "The 1, 2 punch of @PetrinaJackso saying “don’t let management decide your career” and @mariaestorino saying “don’t… https://t.co/s91AcAbpGK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PetrinaJackso",
+					"name": "Petrina Jackson",
+					"id": 897658519666610200,
+					"id_str": "897658519666610176",
+					"indices": [
+						18,
+						32
+					]
+				},
+				{
+					"screen_name": "mariaestorino",
+					"name": "María R. Estorino",
+					"id": 1687113422,
+					"id_str": "1687113422",
+					"indices": [
+						86,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s91AcAbpGK",
+					"expanded_url": "https://twitter.com/i/web/status/1009485667758493696",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 645,
+			"friends_count": 778,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 16:48:29 +0000 2018",
+		"id": 1009478102756544500,
+		"id_str": "1009478102756544513",
+		"text": "Yes! So often ATL is the filming location, not the setting of what’s being filmed. Keep ‘me here! https://t.co/s9Nq8GohxM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s9Nq8GohxM",
+					"expanded_url": "https://twitter.com/wussymag/status/1009475985312534528",
+					"display_url": "twitter.com/wussymag/statu…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 645,
+			"friends_count": 778,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1009475985312534500,
+		"quoted_status_id_str": "1009475985312534528",
+		"quoted_status": {
+			"created_at": "Wed Jun 20 16:40:04 +0000 2018",
+			"id": 1009475985312534500,
+			"id_str": "1009475985312534528",
+			"text": "Rude. Don't leave us, boys. https://t.co/9TQpKynTFa",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9TQpKynTFa",
+						"expanded_url": "https://www.theringer.com/tv/2018/6/16/17466606/season-3-queer-eye-locations",
+						"display_url": "theringer.com/tv/2018/6/16/1…",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3240199267,
+				"id_str": "3240199267",
+				"name": "Wussy Mag",
+				"screen_name": "wussymag",
+				"location": "Atlanta, GA",
+				"description": "QUEER culture, art, and nightlife in Atlanta and the greater southeast.  info@wussymag.com",
+				"url": "https://t.co/HwaPUgSWoj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HwaPUgSWoj",
+								"expanded_url": "http://www.wussymag.com",
+								"display_url": "wussymag.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1194,
+				"friends_count": 365,
+				"listed_count": 27,
+				"created_at": "Mon Jun 08 18:54:10 +0000 2015",
+				"favourites_count": 1032,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3395,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688024980957859840/sgqjFxKu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688024980957859840/sgqjFxKu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3240199267/1452872938",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 16:28:22 +0000 2018",
+		"id": 1009473038717538300,
+		"id_str": "1009473038717538306",
+		"text": "Re-broadcasting for those in the #rbms18 primary source literacy session - guidelines just approved today by SAA! 🎉… https://t.co/6AU014lnr1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rbms18",
+					"indices": [
+						33,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6AU014lnr1",
+					"expanded_url": "https://twitter.com/i/web/status/1009473038717538306",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1009442314333446100,
+		"in_reply_to_status_id_str": "1009442314333446144",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 645,
+			"friends_count": 778,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1009442314333446100,
+		"quoted_status_id_str": "1009442314333446144",
+		"quoted_status": {
+			"created_at": "Wed Jun 20 14:26:16 +0000 2018",
+			"id": 1009442314333446100,
+			"id_str": "1009442314333446144",
+			"text": "For #RBMS18 folks - co-chair of SAA Standards Committee here - just heard that the RBMS/SAA Guidelines for Primary… https://t.co/QcNqsgZ2gI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RBMS18",
+						"indices": [
+							4,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QcNqsgZ2gI",
+						"expanded_url": "https://twitter.com/i/web/status/1009442314333446144",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24188638,
+				"id_str": "24188638",
+				"name": "John Bence",
+				"screen_name": "jdbence",
+				"location": "Atlanta ",
+				"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 645,
+				"friends_count": 778,
+				"listed_count": 30,
+				"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+				"favourites_count": 2108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3366,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+				"profile_link_color": "125408",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "12B8A5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 14:37:15 +0000 2018",
+		"id": 1009445077926731800,
+		"id_str": "1009445077926731778",
+		"text": "@kos2 Also 4%",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kos2",
+					"name": "Bob Kosovsky",
+					"id": 16340168,
+					"id_str": "16340168",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1009444921407926300,
+		"in_reply_to_status_id_str": "1009444921407926273",
+		"in_reply_to_user_id": 16340168,
+		"in_reply_to_user_id_str": "16340168",
+		"in_reply_to_screen_name": "kos2",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 645,
+			"friends_count": 778,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jun 20 14:26:16 +0000 2018",
+		"id": 1009442314333446100,
+		"id_str": "1009442314333446144",
+		"text": "For #RBMS18 folks - co-chair of SAA Standards Committee here - just heard that the RBMS/SAA Guidelines for Primary… https://t.co/QcNqsgZ2gI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RBMS18",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QcNqsgZ2gI",
+					"expanded_url": "https://twitter.com/i/web/status/1009442314333446144",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 645,
+			"friends_count": 778,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 19 23:15:06 +0000 2018",
 		"id": 1009213011784011800,
 		"id_str": "1009213011784011776",
