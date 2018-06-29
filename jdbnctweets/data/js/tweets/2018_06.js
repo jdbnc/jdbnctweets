@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 28 13:37:41 +0000 2018",
+		"id": 1012329187519148000,
+		"id_str": "1012329187519148032",
+		"text": "It me https://t.co/eWQqmHGQNC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWQqmHGQNC",
+					"expanded_url": "https://twitter.com/studiesincrap/status/1012049834667364352",
+					"display_url": "twitter.com/studiesincrap/…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta ",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about archives, records, libraries, history, Atlanta, and some inanities",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 652,
+			"friends_count": 783,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921681538244280326/_YGHrk3x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1012049834667364400,
+		"quoted_status_id_str": "1012049834667364352",
+		"quoted_status": {
+			"created_at": "Wed Jun 27 19:07:38 +0000 2018",
+			"id": 1012049834667364400,
+			"id_str": "1012049834667364352",
+			"text": "i always vowed i'd only do one of these in truly dire circumstances https://t.co/nV3plON3KL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1012049825121079300,
+						"id_str": "1012049825121079296",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DguF9DFWkAAc1bu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DguF9DFWkAAc1bu.jpg",
+						"url": "https://t.co/nV3plON3KL",
+						"display_url": "pic.twitter.com/nV3plON3KL",
+						"expanded_url": "https://twitter.com/studiesincrap/status/1012049834667364352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 782,
+								"h": 440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 782,
+								"h": 440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1012049825121079300,
+						"id_str": "1012049825121079296",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DguF9DFWkAAc1bu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DguF9DFWkAAc1bu.jpg",
+						"url": "https://t.co/nV3plON3KL",
+						"display_url": "pic.twitter.com/nV3plON3KL",
+						"expanded_url": "https://twitter.com/studiesincrap/status/1012049834667364352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 782,
+								"h": 440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 782,
+								"h": 440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218422210,
+				"id_str": "218422210",
+				"name": "Alan Scherstuhl",
+				"screen_name": "studiesincrap",
+				"location": "New York City",
+				"description": "Your Crap Archivist since 2008. Also, film editor at Village Voice/LA Weekly/and more. More water upstairs than sugar on the candy cane.",
+				"url": "https://t.co/4xxt2yHz2D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4xxt2yHz2D",
+								"expanded_url": "http://www.villagevoice.com/author/alanscherstuhl/",
+								"display_url": "villagevoice.com/author/alansch…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7928,
+				"friends_count": 1144,
+				"listed_count": 283,
+				"created_at": "Mon Nov 22 09:11:37 +0000 2010",
+				"favourites_count": 72760,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42309,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3293093945/1e347969c6ede8bd08275166ac561d72_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3293093945/1e347969c6ede8bd08275166ac561d72_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218422210/1526870424",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2428,
+			"favorite_count": 9094,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 27 16:43:58 +0000 2018",
 		"id": 1012013682417721300,
 		"id_str": "1012013682417721344",
