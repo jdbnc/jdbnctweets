@@ -1,10 +1,267 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 24 18:15:41 +0000 2018",
+		"id": 1033055260259090400,
+		"id_str": "1033055260259090432",
+		"text": "MFW I fall down a climate change truther+hurricane lane+govt conspiracy rabbit hole https://t.co/bjYC9PwSWU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033055161034395600,
+					"id_str": "1033055161034395649",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DlYmMhLW0AEQaUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DlYmMhLW0AEQaUj.jpg",
+					"url": "https://t.co/bjYC9PwSWU",
+					"display_url": "pic.twitter.com/bjYC9PwSWU",
+					"expanded_url": "https://twitter.com/jdbence/status/1033055260259090432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 270,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 270,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 270,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033055161034395600,
+					"id_str": "1033055161034395649",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DlYmMhLW0AEQaUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DlYmMhLW0AEQaUj.jpg",
+					"url": "https://t.co/bjYC9PwSWU",
+					"display_url": "pic.twitter.com/bjYC9PwSWU",
+					"expanded_url": "https://twitter.com/jdbence/status/1033055260259090432/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 270,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 270,
+							"h": 336,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 270,
+							"h": 336,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							45,
+							56
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DlYmMhLW0AEQaUj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what. s/o to bee girl.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 796,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017868834332725249/MTKWVFqs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017868834332725249/MTKWVFqs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 24 13:16:46 +0000 2018",
+		"id": 1032980034171162600,
+		"id_str": "1032980034171162629",
+		"text": "@RileyEGriffin Yep yep",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RileyEGriffin",
+					"name": "Joan of Archives @ SAA18",
+					"id": 804880603833319400,
+					"id_str": "804880603833319424",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1032978536204853200,
+		"in_reply_to_status_id_str": "1032978536204853248",
+		"in_reply_to_user_id": 804880603833319400,
+		"in_reply_to_user_id_str": "804880603833319424",
+		"in_reply_to_screen_name": "RileyEGriffin",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what. s/o to bee girl.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 796,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3412,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017868834332725249/MTKWVFqs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017868834332725249/MTKWVFqs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1508601718",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 23 14:18:24 +0000 2018",
 		"id": 1032633156615241700,
 		"id_str": "1032633156615241728",
-		"text": "@amycsc No, but I’ve been to Centralia. So weird. Smoke still rises out of the ground ⚒🔥👷🏻‍♂️🏚👻",
+		"text": "@amycsc No, but I’ve been to Centralia. So weird. Smoke still rises out of the ground ⚒🔥👷🏻♂️🏚👻",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
