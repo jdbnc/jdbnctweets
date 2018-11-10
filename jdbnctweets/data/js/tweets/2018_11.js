@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 19:35:03 +0000 2018",
+		"id": 1060979098590347300,
+		"id_str": "1060979098590347265",
+		"full_text": "So delicious that was Newt country. WAS. https://t.co/KQod9zlRni",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQod9zlRni",
+					"expanded_url": "https://twitter.com/politicalinsidr/status/1060960092433063936",
+					"display_url": "twitter.com/politicalinsid…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 665,
+			"friends_count": 804,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017868834332725249/MTKWVFqs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017868834332725249/MTKWVFqs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1540341710",
+			"profile_link_color": "125408",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060960092433064000,
+		"quoted_status_id_str": "1060960092433063936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KQod9zlRni",
+			"expanded": "https://twitter.com/politicalinsidr/status/1060960092433063936",
+			"display": "twitter.com/politicalinsid…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 09 18:19:32 +0000 2018",
+			"id": 1060960092433064000,
+			"id_str": "1060960092433063936",
+			"full_text": "Atlanta’s northern ‘burbs have put Georgia in play for 2020: https://t.co/RIZFGivbjx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RIZFGivbjx",
+						"expanded_url": "https://politics.myajc.com/blog/politics/atlanta-northern-burbs-have-put-georgia-play-for-2020/N4foCnQZMRJNEgXzBba3sK/",
+						"display_url": "politics.myajc.com/blog/politics/…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16438494,
+				"id_str": "16438494",
+				"name": "Jim Galloway",
+				"screen_name": "politicalinsidr",
+				"location": "Georgia",
+				"description": "An @AJC journalist with 35 years' experience covering politics and other shenanigans in Atlanta",
+				"url": "https://t.co/ntgRbOzQnM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ntgRbOzQnM",
+								"expanded_url": "https://politics.myajc.com/voices/politics-blog/",
+								"display_url": "politics.myajc.com/voices/politic…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19060,
+				"friends_count": 458,
+				"listed_count": 877,
+				"created_at": "Wed Sep 24 18:48:11 +0000 2008",
+				"favourites_count": 61,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33711,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/498916848507703296/iAdX-SfW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/498916848507703296/iAdX-SfW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16438494/1407785916",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So delicious that was Newt country. WAS. https://t.co/KQod9zlRni"
+	},
+	{
 		"created_at": "Wed Nov 07 17:11:23 +0000 2018",
 		"id": 1060218167929331700,
 		"id_str": "1060218167929331713",
