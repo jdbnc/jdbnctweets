@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 19:41:38 +0000 2019",
+		"id": 1101205809122418700,
+		"id_str": "1101205809122418694",
+		"full_text": "\"Slavery and the University Conference - YouTube\" https://t.co/73WSEISISD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/73WSEISISD",
+					"expanded_url": "https://www.youtube.com/watch?v=99ksnIUqUJM",
+					"display_url": "youtube.com/watch?v=99ksnI…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101205290672885800,
+		"in_reply_to_status_id_str": "1101205290672885760",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 668,
+			"friends_count": 805,
+			"listed_count": 34,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Slavery and the University Conference - YouTube\" https://t.co/73WSEISISD"
+	},
+	{
+		"created_at": "Thu Feb 28 19:39:35 +0000 2019",
+		"id": 1101205290672885800,
+		"id_str": "1101205290672885760",
+		"full_text": "\"Exhibit Explores Contributions of African Americans To Oxford and Emory\" https://t.co/Bu5O3wJH0u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bu5O3wJH0u",
+					"expanded_url": "http://www.emory.edu/WELCOME/journcontents/releases/deferred.html",
+					"display_url": "emory.edu/WELCOME/journc…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101205224335835100,
+		"in_reply_to_status_id_str": "1101205224335835137",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 668,
+			"friends_count": 805,
+			"listed_count": 34,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Exhibit Explores Contributions of African Americans To Oxford and Emory\" https://t.co/Bu5O3wJH0u"
+	},
+	{
+		"created_at": "Thu Feb 28 19:39:19 +0000 2019",
+		"id": 1101205224335835100,
+		"id_str": "1101205224335835137",
+		"full_text": "\"The Emory Project - Dawoud Bey\" https://t.co/RD0Di2XsoJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RD0Di2XsoJ",
+					"expanded_url": "https://web.archive.org/web/20130101013555/http://transform.emory.edu/dawoudbey/",
+					"display_url": "web.archive.org/web/2013010101…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101205155431809000,
+		"in_reply_to_status_id_str": "1101205155431809028",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 668,
+			"friends_count": 805,
+			"listed_count": 34,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The Emory Project - Dawoud Bey\" https://t.co/RD0Di2XsoJ"
+	},
+	{
+		"created_at": "Thu Feb 28 19:39:03 +0000 2019",
+		"id": 1101205155431809000,
+		"id_str": "1101205155431809028",
+		"full_text": "\"Slavery and the University: Histories and Legacies, February 3-6, 2011\" https://t.co/pXdCRAVnqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pXdCRAVnqG",
+					"expanded_url": "https://web.archive.org/web/20140121035257/http://transform.emory.edu/conference/",
+					"display_url": "web.archive.org/web/2014012103…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1101205091573469200,
+		"in_reply_to_status_id_str": "1101205091573469186",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 668,
+			"friends_count": 805,
+			"listed_count": 34,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Slavery and the University: Histories and Legacies, February 3-6, 2011\" https://t.co/pXdCRAVnqG"
+	},
+	{
 		"created_at": "Tue Feb 26 22:25:11 +0000 2019",
 		"id": 1100522189001015300,
 		"id_str": "1100522189001015296",
