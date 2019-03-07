@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 17:30:37 +0000 2019",
+		"id": 1103347164896526300,
+		"id_str": "1103347164896526341",
+		"full_text": "@_CharlesPreston 15 (not including multiple placements over 9 months when working at a temp agency)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_CharlesPreston",
+					"name": "Charles Preston",
+					"id": 269000293,
+					"id_str": "269000293",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1103313694774181900,
+		"in_reply_to_status_id_str": "1103313694774181888",
+		"in_reply_to_user_id": 269000293,
+		"in_reply_to_user_id_str": "269000293",
+		"in_reply_to_screen_name": "_CharlesPreston",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity tweeting about who knows what.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 669,
+			"friends_count": 804,
+			"listed_count": 34,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_CharlesPreston 15 (not including multiple placements over 9 months when working at a temp agency)"
+	},
+	{
 		"created_at": "Tue Mar 05 16:45:25 +0000 2019",
 		"id": 1102973398999806000,
 		"id_str": "1102973398999805952",
