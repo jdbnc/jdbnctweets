@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 30 00:06:56 +0000 2019",
+		"id": 1111781501635563500,
+		"id_str": "1111781821610635264",
+		"full_text": "ICYMI today GA passed an unconstitutional bill banning abortion. Instead of spending GA $$ on things that prevent abortion like education, birth control &amp; healthcare, they essentially voted to spend millions on big money lawsuits to defend this mess #NoAbortionBanGa #NoHB481 https://t.co/Jl5cu7gxy9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoAbortionBanGa",
+					"indices": [
+						254,
+						270
+					]
+				},
+				{
+					"text": "NoHB481",
+					"indices": [
+						271,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111781499022573600,
+					"id_str": "1111781499022573568",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D23XYgUXgAA9nwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D23XYgUXgAA9nwo.jpg",
+					"url": "https://t.co/Jl5cu7gxy9",
+					"display_url": "pic.twitter.com/Jl5cu7gxy9",
+					"expanded_url": "https://twitter.com/AtlantaMarch/status/1111781501635563522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111781499022573600,
+					"id_str": "1111781499022573568",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D23XYgUXgAA9nwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D23XYgUXgAA9nwo.jpg",
+					"url": "https://t.co/Jl5cu7gxy9",
+					"display_url": "pic.twitter.com/Jl5cu7gxy9",
+					"expanded_url": "https://twitter.com/AtlantaMarch/status/1111781501635563522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798262680184295400,
+			"id_str": "798262680184295424",
+			"name": "GAFSJ",
+			"screen_name": "AtlantaMarch",
+			"location": "Atlanta, GA",
+			"description": "We work together to empower & mobilize the people of Georgia towards justice and equity for all. 65k Strong from March to Movement.  #NotoneStepBack",
+			"url": "https://t.co/virDpuLxoP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/virDpuLxoP",
+							"expanded_url": "http://www.gafsj.org",
+							"display_url": "gafsj.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5632,
+			"friends_count": 2649,
+			"listed_count": 63,
+			"created_at": "Mon Nov 14 20:33:48 +0000 2016",
+			"favourites_count": 3822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964139312504647680/o4jQwWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964139312504647680/o4jQwWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798262680184295424/1530394838",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI today GA passed an unconstitutional bill banning abortion. Instead of spending GA $$ on things that prevent abortion like education, birth control &amp; healthcare, they essentially voted to spend millions on big money lawsuits to defend this mess #NoAbortionBanGa #NoHB481 https://t.co/Jl5cu7gxy9"
+	},
+	{
 		"created_at": "Thu Mar 14 16:50:31 +0000 2019",
 		"id": 1106236172886515700,
 		"id_str": "1106236172886515712",
