@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 21:23:19 +0000 2019",
+		"id": 1137470182262288400,
+		"id_str": "1137470182262288386",
+		"full_text": "“Definitely not Swedish”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 680,
+			"friends_count": 816,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Definitely not Swedish”"
+	},
+	{
+		"created_at": "Sat Jun 08 19:28:46 +0000 2019",
+		"id": 1137057657267871700,
+		"id_str": "1137441354949300226",
+		"full_text": "Winter: Beto seems cool\nSummer: Ugh Beto STFU\n\nWinter: Mayor Pete seems cool\nSummer: Ugh Mayor Pete STFU\n\nWinter: I like Elizabeth Warren, let's wait and see\nSummer: I WOULD DIE TO MAKE ELIZABETH WARREN PROUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 459815426,
+			"id_str": "459815426",
+			"name": "Sophie Vershbow",
+			"screen_name": "svershbow",
+			"location": "New York, NY",
+			"description": "Book publishing. Social Media Manager. Words in @huffpost @bustle @EliteDaily @Shape_Magazine. Opinions all my own.",
+			"url": "https://t.co/P39SPhPZTF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P39SPhPZTF",
+							"expanded_url": "https://www.sophievershbow.com/",
+							"display_url": "sophievershbow.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11642,
+			"friends_count": 6102,
+			"listed_count": 219,
+			"created_at": "Tue Jan 10 02:44:48 +0000 2012",
+			"favourites_count": 101480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108537347778531330/534JrTLt_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108537347778531330/534JrTLt_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/459815426/1494347404",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2359,
+		"favorite_count": 19533,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Winter: Beto seems cool\nSummer: Ugh Beto STFU\n\nWinter: Mayor Pete seems cool\nSummer: Ugh Mayor Pete STFU\n\nWinter: I like Elizabeth Warren, let's wait and see\nSummer: I WOULD DIE TO MAKE ELIZABETH WARREN PROUD"
+	},
+	{
 		"created_at": "Fri Jun 07 14:50:28 +0000 2019",
 		"id": 1137008931589505000,
 		"id_str": "1137008931589505024",
