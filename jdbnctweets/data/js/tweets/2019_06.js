@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 24 17:37:43 +0000 2019",
+		"id": 1143211616445575200,
+		"id_str": "1143211616445575169",
+		"full_text": "The pitch is dark and full of terrors https://t.co/pXB5VUi1HK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pXB5VUi1HK",
+					"expanded_url": "https://twitter.com/MenInBlazers/status/1143211065939021824",
+					"display_url": "twitter.com/MenInBlazers/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 818,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143211065939021800,
+		"quoted_status_id_str": "1143211065939021824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pXB5VUi1HK",
+			"expanded": "https://twitter.com/MenInBlazers/status/1143211065939021824",
+			"display": "twitter.com/MenInBlazers/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 24 17:35:32 +0000 2019",
+			"id": 1143211065939021800,
+			"id_str": "1143211065939021824",
+			"full_text": "THANK THE OLD GODS AND THE NEW 🇺🇸🙌",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 365603329,
+				"id_str": "365603329",
+				"name": "Men in Blazers",
+				"screen_name": "MenInBlazers",
+				"location": "Crap Part of Soho",
+				"description": "Proud Purveyors of All Things Sub-Optimal. Find @embassydavies and @rogbennett on @NBCSports. If you send us a tweet, it could be used in any media, worldwide.",
+				"url": "https://t.co/TebJXRKUre",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TebJXRKUre",
+								"expanded_url": "http://www.MenInBlazers.com",
+								"display_url": "MenInBlazers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 213510,
+				"friends_count": 1895,
+				"listed_count": 3431,
+				"created_at": "Wed Aug 31 18:23:48 +0000 2011",
+				"favourites_count": 15127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 53648,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875375621077061632/bvazRwq5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875375621077061632/bvazRwq5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365603329/1523561789",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 690,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The pitch is dark and full of terrors https://t.co/pXB5VUi1HK"
+	},
+	{
 		"created_at": "Sat Jun 22 23:09:30 +0000 2019",
 		"id": 1142570334614409200,
 		"id_str": "1142570334614409217",
