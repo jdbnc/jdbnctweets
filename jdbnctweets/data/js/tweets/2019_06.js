@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 15:26:28 +0000 2019",
+		"id": 1144265746710782000,
+		"id_str": "1144265746710781952",
+		"full_text": "Retweeting so that this gets out there! Been getting lots of questions about this lately... https://t.co/tiDzZimBqY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tiDzZimBqY",
+					"expanded_url": "https://twitter.com/AFPFactCheck/status/1143800210478358528",
+					"display_url": "twitter.com/AFPFactCheck/s…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 817,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143800210478358500,
+		"quoted_status_id_str": "1143800210478358528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tiDzZimBqY",
+			"expanded": "https://twitter.com/AFPFactCheck/status/1143800210478358528",
+			"display": "twitter.com/AFPFactCheck/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 26 08:36:35 +0000 2019",
+			"id": 1143800210478358500,
+			"id_str": "1143800210478358528",
+			"full_text": "A photo of Argentine revolutionary Che Guevara pointing a gun at two women? https://t.co/ap33sW7x2q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ap33sW7x2q",
+						"expanded_url": "http://u.afp.com/NotChe",
+						"display_url": "u.afp.com/NotChe",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1002203254065950700,
+				"id_str": "1002203254065950720",
+				"name": "AFPFactCheck 🔎",
+				"screen_name": "AFPFactCheck",
+				"location": "Worldwide",
+				"description": "Fact-checking by @AFP  Also in French @AfpFactuel In Spanish @AfpFactual  In Portuguese @AfpChecamos In Arabic @AFPfactMENA",
+				"url": "https://t.co/uFjBjFLyR1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uFjBjFLyR1",
+								"expanded_url": "https://factcheck.afp.com/",
+								"display_url": "factcheck.afp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17169,
+				"friends_count": 126,
+				"listed_count": 296,
+				"created_at": "Thu May 31 15:00:50 +0000 2018",
+				"favourites_count": 218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1252,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002455710003757056/YeRDQbcf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002455710003757056/YeRDQbcf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002203254065950720/1528973090",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Retweeting so that this gets out there! Been getting lots of questions about this lately... https://t.co/tiDzZimBqY"
+	},
+	{
 		"created_at": "Thu Jun 27 02:31:47 +0000 2019",
 		"id": 1144070792470245400,
 		"id_str": "1144070792470245377",
