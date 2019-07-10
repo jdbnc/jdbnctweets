@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 22:33:34 +0000 2019",
+		"id": 1148721884256776200,
+		"id_str": "1148721884256776193",
+		"full_text": "@SarahNQuigley @joleighsephine @Kristydixie Bence 2020: kk",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahNQuigley",
+					"name": "Dear, dear Sarah.",
+					"id": 2232174620,
+					"id_str": "2232174620",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "joleighsephine",
+					"name": "Traci JoLeigh 🍓🍓🍓",
+					"id": 157568694,
+					"id_str": "157568694",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Kristydixie",
+					"name": "Kristy Darby",
+					"id": 15872908,
+					"id_str": "15872908",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1148719783875153900,
+		"in_reply_to_status_id_str": "1148719783875153925",
+		"in_reply_to_user_id": 2232174620,
+		"in_reply_to_user_id_str": "2232174620",
+		"in_reply_to_screen_name": "SarahNQuigley",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity. Did you see my bag?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 818,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@SarahNQuigley @joleighsephine @Kristydixie Bence 2020: kk"
+	},
+	{
+		"created_at": "Tue Jul 09 15:39:09 +0000 2019",
+		"id": 1148617593953116200,
+		"id_str": "1148617593953116161",
+		"full_text": "@stephestellar Dang, this is a dreamy job. I'm sure the reality is different from my daydream about it though.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stephestellar",
+					"name": "Stephanie",
+					"id": 103920297,
+					"id_str": "103920297",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1148611765644566500,
+		"in_reply_to_status_id_str": "1148611765644566528",
+		"in_reply_to_user_id": 103920297,
+		"in_reply_to_user_id_str": "103920297",
+		"in_reply_to_screen_name": "stephestellar",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity. Did you see my bag?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 818,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stephestellar Dang, this is a dreamy job. I'm sure the reality is different from my daydream about it though."
+	},
+	{
+		"created_at": "Tue Jul 09 14:03:02 +0000 2019",
+		"id": 1148593405607460900,
+		"id_str": "1148593405607460865",
+		"full_text": "@mattysmalls So will your friend!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattysmalls",
+					"name": "Matthew Ray",
+					"id": 23345372,
+					"id_str": "23345372",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1148592975380959200,
+		"in_reply_to_status_id_str": "1148592975380959233",
+		"in_reply_to_user_id": 23345372,
+		"in_reply_to_user_id_str": "23345372",
+		"in_reply_to_screen_name": "mattysmalls",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity. Did you see my bag?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 818,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattysmalls So will your friend!"
+	},
+	{
 		"created_at": "Thu Jul 04 01:25:01 +0000 2019",
 		"id": 1146590707609669600,
 		"id_str": "1146590707609669633",
