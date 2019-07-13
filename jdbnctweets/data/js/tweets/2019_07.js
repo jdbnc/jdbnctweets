@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 22:45:12 +0000 2019",
+		"id": 1149802481364406300,
+		"id_str": "1149811978652790784",
+		"full_text": "📼📼📼📼📼📼📼📼📼📼📼📼🔥🚨⌛😱🤯🤲🙏💰💰💰💰 #AVArchives current situation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AVArchives",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28636691,
+			"id_str": "28636691",
+			"name": "Megan McShea",
+			"screen_name": "meganmcshea",
+			"location": "Baltimore, MD",
+			"description": "writer, archivist, Baltimorean, queer, white, person",
+			"url": "https://t.co/GYJABidRz6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GYJABidRz6",
+							"expanded_url": "https://www.publishinggenius.com/?s=Mcshea",
+							"display_url": "publishinggenius.com/?s=Mcshea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 799,
+			"friends_count": 1919,
+			"listed_count": 33,
+			"created_at": "Fri Apr 03 19:46:24 +0000 2009",
+			"favourites_count": 14051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/517041311493283840/9Iuc8Svq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/517041311493283840/9Iuc8Svq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28636691/1412107263",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "📼📼📼📼📼📼📼📼📼📼📼📼🔥🚨⌛😱🤯🤲🙏💰💰💰💰 #AVArchives current situation"
+	},
+	{
 		"created_at": "Tue Jul 09 22:33:34 +0000 2019",
 		"id": 1148721884256776200,
 		"id_str": "1148721884256776193",
