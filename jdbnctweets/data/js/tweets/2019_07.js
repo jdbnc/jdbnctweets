@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 14:21:05 +0000 2019",
+		"id": 1151134664993562600,
+		"id_str": "1151134664993562624",
+		"full_text": "Look, it's @ElizabethRRoke being awesome! https://t.co/naGA8HZzYF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElizabethRRoke",
+					"name": "Elizabeth R Roke",
+					"id": 791658171643420700,
+					"id_str": "791658171643420673",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/naGA8HZzYF",
+					"expanded_url": "https://twitter.com/SAA_ERS/status/1151130372589019137",
+					"display_url": "twitter.com/SAA_ERS/status…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 687,
+			"friends_count": 820,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1545266925",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151130372589019100,
+		"quoted_status_id_str": "1151130372589019137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/naGA8HZzYF",
+			"expanded": "https://twitter.com/SAA_ERS/status/1151130372589019137",
+			"display": "twitter.com/SAA_ERS/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 14:04:02 +0000 2019",
+			"id": 1151130372589019100,
+			"id_str": "1151130372589019137",
+			"full_text": "Collections as Data https://t.co/fzs7jbjBJW https://t.co/OPkiFxdo4M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fzs7jbjBJW",
+						"expanded_url": "https://saaers.wordpress.com/2019/07/16/collections-as-data/",
+						"display_url": "saaers.wordpress.com/2019/07/16/col…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1151130370533969900,
+						"id_str": "1151130370533969921",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mi-RnXUAEIAJc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mi-RnXUAEIAJc.jpg",
+						"url": "https://t.co/OPkiFxdo4M",
+						"display_url": "pic.twitter.com/OPkiFxdo4M",
+						"expanded_url": "https://twitter.com/SAA_ERS/status/1151130372589019137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 676,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1018,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151130370533969900,
+						"id_str": "1151130370533969921",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mi-RnXUAEIAJc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mi-RnXUAEIAJc.jpg",
+						"url": "https://t.co/OPkiFxdo4M",
+						"display_url": "pic.twitter.com/OPkiFxdo4M",
+						"expanded_url": "https://twitter.com/SAA_ERS/status/1151130372589019137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 676,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1018,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3292265716,
+				"id_str": "3292265716",
+				"name": "SAA ERS",
+				"screen_name": "SAA_ERS",
+				"location": "",
+				"description": "Society of American Archivists - Electronic Records Section",
+				"url": "http://t.co/KQa3tqbbdD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KQa3tqbbdD",
+								"expanded_url": "http://www2.archivists.org/groups/electronic-records-section",
+								"display_url": "www2.archivists.org/groups/electro…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 533,
+				"friends_count": 516,
+				"listed_count": 19,
+				"created_at": "Thu May 21 00:52:45 +0000 2015",
+				"favourites_count": 136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 424,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/648150363229417472/1yPASXoX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/648150363229417472/1yPASXoX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3292265716/1443233693",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look, it's @ElizabethRRoke being awesome! https://t.co/naGA8HZzYF"
+	},
+	{
 		"created_at": "Fri Jul 12 22:45:12 +0000 2019",
 		"id": 1149802481364406300,
 		"id_str": "1149811978652790784",
