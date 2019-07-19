@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 00:54:00 +0000 2019",
+		"id": 1152018717674311700,
+		"id_str": "1152018717674311680",
+		"full_text": "Packing for Philly this weekend, which means I’m leaving Atlanta in the high 80s for 100ish degrees. Tell me again how it’s too hot in the South? https://t.co/gciXhsGeYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152018681079181300,
+					"id_str": "1152018681079181312",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_zK4wRWsAAUuNf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_zK4wRWsAAUuNf.jpg",
+					"url": "https://t.co/gciXhsGeYb",
+					"display_url": "pic.twitter.com/gciXhsGeYb",
+					"expanded_url": "https://twitter.com/jdbence/status/1152018717674311680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152018681079181300,
+					"id_str": "1152018681079181312",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_zK4wRWsAAUuNf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_zK4wRWsAAUuNf.jpg",
+					"url": "https://t.co/gciXhsGeYb",
+					"display_url": "pic.twitter.com/gciXhsGeYb",
+					"expanded_url": "https://twitter.com/jdbence/status/1152018717674311680/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_zK4wRWsAAUuNf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 820,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Packing for Philly this weekend, which means I’m leaving Atlanta in the high 80s for 100ish degrees. Tell me again how it’s too hot in the South? https://t.co/gciXhsGeYb"
+	},
+	{
 		"created_at": "Tue Jul 16 14:21:05 +0000 2019",
 		"id": 1151134664993562600,
 		"id_str": "1151134664993562624",
