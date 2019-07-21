@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 21:19:26 +0000 2019",
+		"id": 1152689495684386800,
+		"id_str": "1152689495684386818",
+		"full_text": "It’s me getting ready for @stormsRbrewing https://t.co/MB5vq3h32G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stormsRbrewing",
+					"name": "Sara",
+					"id": 103867328,
+					"id_str": "103867328",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MB5vq3h32G",
+					"expanded_url": "https://twitter.com/Zimmerino/status/1152675044876783623",
+					"display_url": "twitter.com/Zimmerino/stat…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL at @EmoryUniversity.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 685,
+			"friends_count": 819,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1152675044876783600,
+		"quoted_status_id_str": "1152675044876783623",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MB5vq3h32G",
+			"expanded": "https://twitter.com/Zimmerino/status/1152675044876783623",
+			"display": "twitter.com/Zimmerino/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 20 20:22:01 +0000 2019",
+			"id": 1152675044876783600,
+			"id_str": "1152675044876783623",
+			"full_text": "Tryna look cute when it’s 1000 degrees out: https://t.co/GHju7PpLko",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1152675026447081500,
+						"id_str": "1152675026447081472",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_8f1FTXoAAISOe.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_8f1FTXoAAISOe.jpg",
+						"url": "https://t.co/GHju7PpLko",
+						"display_url": "pic.twitter.com/GHju7PpLko",
+						"expanded_url": "https://twitter.com/Zimmerino/status/1152675044876783623/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1152675026447081500,
+						"id_str": "1152675026447081472",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_8f1FTXoAAISOe.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_8f1FTXoAAISOe.jpg",
+						"url": "https://t.co/GHju7PpLko",
+						"display_url": "pic.twitter.com/GHju7PpLko",
+						"expanded_url": "https://twitter.com/Zimmerino/status/1152675044876783623/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D_8f1FTXoAAISOe.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28232449,
+				"id_str": "28232449",
+				"name": "Lisa Zimmer",
+				"screen_name": "Zimmerino",
+				"location": "Chicago, IL",
+				"description": "Just a girl, standing in front of Twitter, asking it to love her. @MillerCoors #emp. Tweets=My opinions only. #beer #Chicago #travel #NASAsocial #NotreDame",
+				"url": "https://t.co/KP07N8GpeH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KP07N8GpeH",
+								"expanded_url": "https://medium.com/@zimmerino",
+								"display_url": "medium.com/@zimmerino",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3835,
+				"friends_count": 1380,
+				"listed_count": 183,
+				"created_at": "Thu Apr 02 00:01:51 +0000 2009",
+				"favourites_count": 26714,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44556,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6E7BCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102312579253325824/a85tm6WO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102312579253325824/a85tm6WO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28232449/1398204104",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAEBE8",
+				"profile_text_color": "0C475E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1d9a5370a355ab0c",
+				"url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+				"place_type": "city",
+				"name": "Chicago",
+				"full_name": "Chicago, IL",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.940033,
+								41.644102
+							],
+							[
+								-87.523993,
+								41.644102
+							],
+							[
+								-87.523993,
+								42.0230669
+							],
+							[
+								-87.940033,
+								42.0230669
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s me getting ready for @stormsRbrewing https://t.co/MB5vq3h32G"
+	},
+	{
 		"created_at": "Fri Jul 19 14:25:09 +0000 2019",
 		"id": 1152222852373987300,
 		"id_str": "1152222852373987328",
