@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 12:56:15 +0000 2019",
+		"id": 1159085846102007800,
+		"id_str": "1159085846102007808",
+		"full_text": "times a bajillion https://t.co/LLRzxUhi9Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LLRzxUhi9Y",
+					"expanded_url": "https://twitter.com/archivistmemes/status/1158781168852066304",
+					"display_url": "twitter.com/archivistmemes…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL but these tweets are mine, MINE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 825,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158781168852066300,
+		"quoted_status_id_str": "1158781168852066304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LLRzxUhi9Y",
+			"expanded": "https://twitter.com/archivistmemes/status/1158781168852066304",
+			"display": "twitter.com/archivistmemes…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 06 16:45:34 +0000 2019",
+			"id": 1158781168852066300,
+			"id_str": "1158781168852066304",
+			"full_text": "We welcome our next submission:\n\n@lydianmodeIndy. Meme related to administrative priorities. 6 August 2019. https://t.co/mGCgKsZK7f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lydianmodeIndy",
+						"name": "Lydia",
+						"id": 1347084300,
+						"id_str": "1347084300",
+						"indices": [
+							33,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1158781164733313000,
+						"id_str": "1158781164733313031",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EBTRVHBXsAcbaLC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBTRVHBXsAcbaLC.jpg",
+						"url": "https://t.co/mGCgKsZK7f",
+						"display_url": "pic.twitter.com/mGCgKsZK7f",
+						"expanded_url": "https://twitter.com/archivistmemes/status/1158781168852066304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1158781164733313000,
+						"id_str": "1158781164733313031",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EBTRVHBXsAcbaLC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBTRVHBXsAcbaLC.jpg",
+						"url": "https://t.co/mGCgKsZK7f",
+						"display_url": "pic.twitter.com/mGCgKsZK7f",
+						"expanded_url": "https://twitter.com/archivistmemes/status/1158781168852066304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1118979940001697800,
+				"id_str": "1118979940001697792",
+				"name": "archivistmemes",
+				"screen_name": "archivistmemes",
+				"location": "",
+				"description": "Because this gig is a lot funnier than it gets credit for. (And hey, if the librarians are doing it...) | SUBMISSIONS ARE WELCOME - JUST DM!! ❤️🗃❤️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1061,
+				"friends_count": 0,
+				"listed_count": 14,
+				"created_at": "Thu Apr 18 20:49:42 +0000 2019",
+				"favourites_count": 233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 172,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118981739404234753/myRhK3gz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118981739404234753/myRhK3gz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1118979940001697792/1555621011",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "times a bajillion https://t.co/LLRzxUhi9Y"
+	},
+	{
 		"created_at": "Tue Aug 06 18:10:55 +0000 2019",
 		"id": 1158802462167445500,
 		"id_str": "1158802646809141251",
