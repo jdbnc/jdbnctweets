@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 02:09:04 +0000 2019",
+		"id": 1159646678305005600,
+		"id_str": "1159647754848743424",
+		"full_text": "Several J-League soccer mascots that are birds got together yesterday in Tokyo to promote BirdLife International, a bird conservation organisation. https://t.co/KmjN8yOIR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1159646667915706400,
+					"id_str": "1159646667915706373",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBfkgBoUwAU2mXF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBfkgBoUwAU2mXF.jpg",
+					"url": "https://t.co/KmjN8yOIR6",
+					"display_url": "pic.twitter.com/KmjN8yOIR6",
+					"expanded_url": "https://twitter.com/mondomascots/status/1159646678305005568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159646667915706400,
+					"id_str": "1159646667915706373",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EBfkgBoUwAU2mXF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBfkgBoUwAU2mXF.jpg",
+					"url": "https://t.co/KmjN8yOIR6",
+					"display_url": "pic.twitter.com/KmjN8yOIR6",
+					"expanded_url": "https://twitter.com/mondomascots/status/1159646678305005568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 450,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798565807059935200,
+			"id_str": "798565807059935232",
+			"name": "Mondo Mascots",
+			"screen_name": "mondomascots",
+			"location": "Setagaya-ku, Tokyo",
+			"description": "Chronicling the weird and wonderful world of Japanese mascots. ゆるキャラが大好きなイギリス人です。",
+			"url": "https://t.co/IvsbgiBTyy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IvsbgiBTyy",
+							"expanded_url": "http://mondomascots.com/index.php/sample-page/",
+							"display_url": "mondomascots.com/index.php/samp…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76095,
+			"friends_count": 3334,
+			"listed_count": 373,
+			"created_at": "Tue Nov 15 16:38:19 +0000 2016",
+			"favourites_count": 35432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121230742535540736/JhsWcXv__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121230742535540736/JhsWcXv__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798565807059935232/1524305514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Several J-League soccer mascots that are birds got together yesterday in Tokyo to promote BirdLife International, a bird conservation organisation. https://t.co/KmjN8yOIR6"
+	},
+	{
 		"created_at": "Wed Aug 07 12:56:15 +0000 2019",
 		"id": 1159085846102007800,
 		"id_str": "1159085846102007808",
