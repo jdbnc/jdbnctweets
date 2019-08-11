@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 15:59:19 +0000 2019",
+		"id": 1160219080336519200,
+		"id_str": "1160219080336519169",
+		"full_text": "https://t.co/3aUZQA56cG https://t.co/xWKoRaHIkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3aUZQA56cG",
+					"expanded_url": "https://twitter.com/saintsfcusa/status/1160217692487475206",
+					"display_url": "twitter.com/saintsfcusa/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1160219050338914300,
+					"id_str": "1160219050338914304",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EBntFEUXkAAfS5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EBntFEUXkAAfS5V.jpg",
+					"url": "https://t.co/xWKoRaHIkS",
+					"display_url": "pic.twitter.com/xWKoRaHIkS",
+					"expanded_url": "https://twitter.com/jdbence/status/1160219080336519169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160219050338914300,
+					"id_str": "1160219050338914304",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EBntFEUXkAAfS5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EBntFEUXkAAfS5V.jpg",
+					"url": "https://t.co/xWKoRaHIkS",
+					"display_url": "pic.twitter.com/xWKoRaHIkS",
+					"expanded_url": "https://twitter.com/jdbence/status/1160219080336519169/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EBntFEUXkAAfS5V.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL but these tweets are mine, MINE! #atlutd #saintsfc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 830,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1160217692487475200,
+		"quoted_status_id_str": "1160217692487475206",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3aUZQA56cG",
+			"expanded": "https://twitter.com/saintsfcusa/status/1160217692487475206",
+			"display": "twitter.com/saintsfcusa/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 10 15:53:48 +0000 2019",
+			"id": 1160217692487475200,
+			"id_str": "1160217692487475206",
+			"full_text": "Full-time. Not the start we wanted.\n\nBurnley 3-0 #SaintsFC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SaintsFC",
+						"indices": [
+							49,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1000833840452128800,
+				"id_str": "1000833840452128769",
+				"name": "United Saints of America",
+				"screen_name": "saintsfcusa",
+				"location": "United States",
+				"description": "Connecting and creating new #SaintsFC fans in America one at a time 😇",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1201,
+				"friends_count": 1007,
+				"listed_count": 8,
+				"created_at": "Sun May 27 20:19:16 +0000 2018",
+				"favourites_count": 1587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007360530703638529/iVl24910_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007360530703638529/iVl24910_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000833840452128769/1527452958",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3aUZQA56cG https://t.co/xWKoRaHIkS"
+	},
+	{
 		"created_at": "Fri Aug 09 22:45:07 +0000 2019",
 		"id": 1159958815384756200,
 		"id_str": "1159958815384756224",
