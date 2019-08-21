@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 11:57:53 +0000 2019",
+		"id": 1163782201621852200,
+		"id_str": "1163782201621852161",
+		"full_text": "If I were a bird, I’d be a handsome fruiteater https://t.co/uSojG4OGLu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uSojG4OGLu",
+					"expanded_url": "https://twitter.com/_everybird_/status/1163685287844818946",
+					"display_url": "twitter.com/_everybird_/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL but these tweets are mine, MINE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 831,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1163685287844819000,
+		"quoted_status_id_str": "1163685287844818946",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uSojG4OGLu",
+			"expanded": "https://twitter.com/_everybird_/status/1163685287844818946",
+			"display": "twitter.com/_everybird_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 20 05:32:47 +0000 2019",
+			"id": 1163685287844819000,
+			"id_str": "1163685287844818946",
+			"full_text": "BIRD #9,291\nHandsome Fruiteater\n(Pipreola formosa) https://t.co/g0qHxoGQmE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1163685286867607600,
+						"id_str": "1163685286867607552",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/ECY9mloXoAAUF-d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECY9mloXoAAUF-d.jpg",
+						"url": "https://t.co/g0qHxoGQmE",
+						"display_url": "pic.twitter.com/g0qHxoGQmE",
+						"expanded_url": "https://twitter.com/_everybird_/status/1163685287844818946/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1163685286867607600,
+						"id_str": "1163685286867607552",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/ECY9mloXoAAUF-d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECY9mloXoAAUF-d.jpg",
+						"url": "https://t.co/g0qHxoGQmE",
+						"display_url": "pic.twitter.com/g0qHxoGQmE",
+						"expanded_url": "https://twitter.com/_everybird_/status/1163685287844818946/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://lucasquinn.com\" rel=\"nofollow\">Every Bird_</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2950535441,
+				"id_str": "2950535441",
+				"name": "everybird",
+				"screen_name": "_everybird_",
+				"location": "",
+				"description": "Robot posting every bird on the planet. Mostly accurate. Random bird order, last bird posted in 2019. By @nah_solo. See below for list of birds",
+				"url": "https://t.co/havRZBAN0X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/havRZBAN0X",
+								"expanded_url": "https://raw.githubusercontent.com/lilkraftwerk/everybird/master/all_birds.json",
+								"display_url": "raw.githubusercontent.com/lilkraftwerk/e…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41543,
+				"friends_count": 15,
+				"listed_count": 439,
+				"created_at": "Tue Dec 30 03:31:39 +0000 2014",
+				"favourites_count": 2049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9303,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921907728087384064/CsVGbtoQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921907728087384064/CsVGbtoQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2950535441/1420398626",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 160,
+			"favorite_count": 640,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If I were a bird, I’d be a handsome fruiteater https://t.co/uSojG4OGLu"
+	},
+	{
 		"created_at": "Thu Aug 15 13:41:39 +0000 2019",
 		"id": 1161996374679986200,
 		"id_str": "1161996374679986176",
