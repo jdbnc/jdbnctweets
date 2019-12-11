@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 00:25:40 +0000 2019",
+		"id": 1204557828079456300,
+		"id_str": "1204557828079456258",
+		"full_text": "@stormsRbrewing I bet they’d be friends!!!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stormsRbrewing",
+					"name": "Sara",
+					"id": 103867328,
+					"id_str": "103867328",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1204556398652248000,
+		"in_reply_to_status_id_str": "1204556398652248066",
+		"in_reply_to_user_id": 103867328,
+		"in_reply_to_user_id_str": "103867328",
+		"in_reply_to_screen_name": "stormsRbrewing",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL but these tweets are mine, MINE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 843,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stormsRbrewing I bet they’d be friends!!!"
+	},
+	{
+		"created_at": "Wed Dec 11 00:23:41 +0000 2019",
+		"id": 1204557330148401200,
+		"id_str": "1204557330148401152",
+		"full_text": "NHL just suggested the keys to this Lightning/Panthers game were “control your emotions” and “watch your man” - we still talking about hockey? https://t.co/AKzjDQWYvM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204557297646809000,
+					"id_str": "1204557297646809088",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELdyeu3XsAA3E-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELdyeu3XsAA3E-g.jpg",
+					"url": "https://t.co/AKzjDQWYvM",
+					"display_url": "pic.twitter.com/AKzjDQWYvM",
+					"expanded_url": "https://twitter.com/jdbence/status/1204557330148401152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 374,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 374,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204557297646809000,
+					"id_str": "1204557297646809088",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELdyeu3XsAA3E-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELdyeu3XsAA3E-g.jpg",
+					"url": "https://t.co/AKzjDQWYvM",
+					"display_url": "pic.twitter.com/AKzjDQWYvM",
+					"expanded_url": "https://twitter.com/jdbence/status/1204557330148401152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 374,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 374,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							187,
+							115
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELdyeu3XsAA3E-g.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "University Archivist in @EmoryRoseMARBL but these tweets are mine, MINE!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 843,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NHL just suggested the keys to this Lightning/Panthers game were “control your emotions” and “watch your man” - we still talking about hockey? https://t.co/AKzjDQWYvM"
+	},
+	{
 		"created_at": "Tue Dec 03 19:51:53 +0000 2019",
 		"id": 1201952215205892000,
 		"id_str": "1201952215205892097",
