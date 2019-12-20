@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 00:54:37 +0000 2019",
+		"id": 1207826603817885700,
+		"id_str": "1207826603817885696",
+		"full_text": "@laurawasthere #letdance but also idk how to dance to Gregoria chant",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "letdance",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurawasthere",
+					"name": "Laura",
+					"id": 823188745822335000,
+					"id_str": "823188745822334976",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1207826204373528600,
+		"in_reply_to_status_id_str": "1207826204373528576",
+		"in_reply_to_user_id": 823188745822335000,
+		"in_reply_to_user_id_str": "823188745822334976",
+		"in_reply_to_screen_name": "laurawasthere",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Godzilla and Sister Act were strong influences in my formative years",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 846,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laurawasthere #letdance but also idk how to dance to Gregoria chant"
+	},
+	{
+		"created_at": "Fri Dec 20 00:52:00 +0000 2019",
+		"id": 1207825945987600400,
+		"id_str": "1207825945987600385",
+		"full_text": "@laurawasthere Can we bring that back? Only half kidding",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurawasthere",
+					"name": "Laura",
+					"id": 823188745822335000,
+					"id_str": "823188745822334976",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1207824885701062700,
+		"in_reply_to_status_id_str": "1207824885701062661",
+		"in_reply_to_user_id": 823188745822335000,
+		"in_reply_to_user_id_str": "823188745822334976",
+		"in_reply_to_screen_name": "laurawasthere",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Godzilla and Sister Act were strong influences in my formative years",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 846,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laurawasthere Can we bring that back? Only half kidding"
+	},
+	{
+		"created_at": "Fri Dec 20 00:28:45 +0000 2019",
+		"id": 1207820096032399400,
+		"id_str": "1207820096032399360",
+		"full_text": "@cowboycourtney https://t.co/ft6t8lw0jC",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cowboycourtney",
+					"name": "Creative Negativism",
+					"id": 114779832,
+					"id_str": "114779832",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207820062146490400,
+					"id_str": "1207820062146490374",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMMJ8nzU8AYgq-J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMMJ8nzU8AYgq-J.jpg",
+					"url": "https://t.co/ft6t8lw0jC",
+					"display_url": "pic.twitter.com/ft6t8lw0jC",
+					"expanded_url": "https://twitter.com/jdbence/status/1207820096032399360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 358,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 358,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 358,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207820062146490400,
+					"id_str": "1207820062146490374",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMMJ8nzU8AYgq-J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMMJ8nzU8AYgq-J.jpg",
+					"url": "https://t.co/ft6t8lw0jC",
+					"display_url": "pic.twitter.com/ft6t8lw0jC",
+					"expanded_url": "https://twitter.com/jdbence/status/1207820096032399360/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 358,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 358,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 358,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							179,
+							100
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMMJ8nzU8AYgq-J.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1207704394919227400,
+		"in_reply_to_status_id_str": "1207704394919227393",
+		"in_reply_to_user_id": 114779832,
+		"in_reply_to_user_id_str": "114779832",
+		"in_reply_to_screen_name": "cowboycourtney",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Godzilla and Sister Act were strong influences in my formative years",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 846,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@cowboycourtney https://t.co/ft6t8lw0jC"
+	},
+	{
+		"created_at": "Thu Dec 19 16:08:23 +0000 2019",
+		"id": 1207694174851666000,
+		"id_str": "1207694174851665920",
+		"full_text": "@ForeverBren_x @laurawasthere at my desk!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ForeverBren_x",
+					"name": "Brenna Edwards",
+					"id": 411789002,
+					"id_str": "411789002",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "laurawasthere",
+					"name": "Laura",
+					"id": 823188745822335000,
+					"id_str": "823188745822334976",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1207486377513889800,
+		"in_reply_to_status_id_str": "1207486377513889793",
+		"in_reply_to_user_id": 411789002,
+		"in_reply_to_user_id_str": "411789002",
+		"in_reply_to_screen_name": "ForeverBren_x",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Godzilla and Sister Act were strong influences in my formative years",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 681,
+			"friends_count": 846,
+			"listed_count": 33,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 2994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068513713962065920/1gVdC8YJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1563498606",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ForeverBren_x @laurawasthere at my desk!"
+	},
+	{
 		"created_at": "Wed Dec 18 20:13:41 +0000 2019",
 		"id": 1207393518647427000,
 		"id_str": "1207393518647427073",
