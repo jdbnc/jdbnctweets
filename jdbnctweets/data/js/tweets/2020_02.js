@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 20:05:49 +0000 2020",
+		"id": 1228047647321337900,
+		"id_str": "1228047647321337856",
+		"full_text": "Come work with me! (more detail re: LRT) https://t.co/3ph4WPDGGz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ph4WPDGGz",
+					"expanded_url": "https://twitter.com/CarrieElise/status/1228046075644252162",
+					"display_url": "twitter.com/CarrieElise/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 857,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228046075644252200,
+		"quoted_status_id_str": "1228046075644252162",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3ph4WPDGGz",
+			"expanded": "https://twitter.com/CarrieElise/status/1228046075644252162",
+			"display": "twitter.com/CarrieElise/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 13 19:59:35 +0000 2020",
+			"id": 1228046075644252200,
+			"id_str": "1228046075644252162",
+			"full_text": "Emory is hiring a Head of Digital Archives! I am really excited about this position and happy to answer any questions.  Minimum salary is 60k with a decent range above that depending on experience and what level the successful candidate gets ranked at: https://t.co/WEPW9hTEY5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WEPW9hTEY5",
+						"expanded_url": "https://faculty-emory.icims.com/jobs/49903/head-of-digital-archives/job?hub=13&mobile=false&width=714&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+						"display_url": "faculty-emory.icims.com/jobs/49903/hea…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62646203,
+				"id_str": "62646203",
+				"name": "Carrie Hintz",
+				"screen_name": "CarrieElise",
+				"location": "",
+				"description": "Archivist, feminist, fan of Victorian literature and very hoppy beer. She/her 🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 227,
+				"friends_count": 194,
+				"listed_count": 16,
+				"created_at": "Mon Aug 03 22:55:47 +0000 2009",
+				"favourites_count": 246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/516992343820341248/i8hBMkHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/516992343820341248/i8hBMkHK_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come work with me! (more detail re: LRT) https://t.co/3ph4WPDGGz"
+	},
+	{
+		"created_at": "Thu Feb 13 19:53:30 +0000 2020",
+		"id": 1228044545096593400,
+		"id_str": "1228044545096593410",
+		"full_text": "Come work with me! https://t.co/kFjQb87f11",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kFjQb87f11",
+					"expanded_url": "https://twitter.com/archivesgig/status/1227617369515839490",
+					"display_url": "twitter.com/archivesgig/st…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 857,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227617369515839500,
+		"quoted_status_id_str": "1227617369515839490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kFjQb87f11",
+			"expanded": "https://twitter.com/archivesgig/status/1227617369515839490",
+			"display": "twitter.com/archivesgig/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 15:36:03 +0000 2020",
+			"id": 1227617369515839500,
+			"id_str": "1227617369515839490",
+			"full_text": "Atlanta, GA: Head of Digital Archives, Emory University https://t.co/gx5M5oZqaS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gx5M5oZqaS",
+						"expanded_url": "http://archivesgig.com/2020/02/12/atlanta-ga-head-of-digital-archives-emory-university/",
+						"display_url": "archivesgig.com/2020/02/12/atl…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142336259,
+				"id_str": "142336259",
+				"name": "Archives Gig",
+				"screen_name": "archivesgig",
+				"location": "Madison, Wisconsin",
+				"description": "Archives, records management, and similarly-flavored jobs and internships, administered by Meredith Lowe (she/her).  Personal Twitter account @meredithclowe",
+				"url": "https://t.co/ejOK3EQ3Wk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ejOK3EQ3Wk",
+								"expanded_url": "http://archivesgig.com",
+								"display_url": "archivesgig.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4650,
+				"friends_count": 2975,
+				"listed_count": 167,
+				"created_at": "Mon May 10 16:19:53 +0000 2010",
+				"favourites_count": 186,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13703,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142336259/1480959578",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come work with me! https://t.co/kFjQb87f11"
+	},
+	{
+		"created_at": "Thu Feb 13 17:32:55 +0000 2020",
+		"id": 1228009169485213700,
+		"id_str": "1228009169485213704",
+		"full_text": "Also wonder how many of them know they are on this list",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1228009045270913000,
+		"in_reply_to_status_id_str": "1228009045270913024",
+		"in_reply_to_user_id": 24188638,
+		"in_reply_to_user_id_str": "24188638",
+		"in_reply_to_screen_name": "jdbence",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 857,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also wonder how many of them know they are on this list"
+	},
+	{
 		"created_at": "Thu Feb 06 00:13:44 +0000 2020",
 		"id": 1225210932198039600,
 		"id_str": "1225210932198039554",
