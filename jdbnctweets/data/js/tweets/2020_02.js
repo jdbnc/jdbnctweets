@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 13:58:11 +0000 2020",
+		"id": 1228317349461270500,
+		"id_str": "1228317516767866880",
+		"full_text": "Happy Douglass Day!  Join us from 12:30-1:30pm at McDonough Plaza on the Emory University campus to celebrate. @everyvoice2020 @DouglassDayorg @CCP_org #blackreconstruction https://t.co/vo3U0XHTc8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blackreconstruction",
+					"indices": [
+						152,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EveryVoice2020",
+					"name": "Lift Every Voice 2020",
+					"id": 1207027069730873300,
+					"id_str": "1207027069730873344",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"screen_name": "DouglassDayorg",
+					"name": "Douglass Day",
+					"id": 1196951705033818000,
+					"id_str": "1196951705033818113",
+					"indices": [
+						127,
+						142
+					]
+				},
+				{
+					"screen_name": "CCP_org",
+					"name": "Colored Conventions",
+					"id": 1131275857,
+					"id_str": "1131275857",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228317340418400300,
+					"id_str": "1228317340418400256",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvcHPsXYAA4J1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvcHPsXYAA4J1A.jpg",
+					"url": "https://t.co/vo3U0XHTc8",
+					"display_url": "pic.twitter.com/vo3U0XHTc8",
+					"expanded_url": "https://twitter.com/EveryVoice2020/status/1228317349461270528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 735,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228317340418400300,
+					"id_str": "1228317340418400256",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvcHPsXYAA4J1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvcHPsXYAA4J1A.jpg",
+					"url": "https://t.co/vo3U0XHTc8",
+					"display_url": "pic.twitter.com/vo3U0XHTc8",
+					"expanded_url": "https://twitter.com/EveryVoice2020/status/1228317349461270528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 735,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228317340426743800,
+					"id_str": "1228317340426743808",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvcHPuWsAAjg9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvcHPuWsAAjg9r.jpg",
+					"url": "https://t.co/vo3U0XHTc8",
+					"display_url": "pic.twitter.com/vo3U0XHTc8",
+					"expanded_url": "https://twitter.com/EveryVoice2020/status/1228317349461270528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228317340498088000,
+					"id_str": "1228317340498087936",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvcHP_XUAAWohn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvcHP_XUAAWohn.jpg",
+					"url": "https://t.co/vo3U0XHTc8",
+					"display_url": "pic.twitter.com/vo3U0XHTc8",
+					"expanded_url": "https://twitter.com/EveryVoice2020/status/1228317349461270528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 626,
+							"h": 885,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 626,
+							"h": 885,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1228317340510670800,
+					"id_str": "1228317340510670852",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvcHQCXUAQjVZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvcHQCXUAQjVZl.jpg",
+					"url": "https://t.co/vo3U0XHTc8",
+					"display_url": "pic.twitter.com/vo3U0XHTc8",
+					"expanded_url": "https://twitter.com/EveryVoice2020/status/1228317349461270528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1545,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207027069730873300,
+			"id_str": "1207027069730873344",
+			"name": "Lift Every Voice 2020",
+			"screen_name": "EveryVoice2020",
+			"location": "Emory University",
+			"description": "This year @EmoryRoseMARBL is revisiting the history of Reconstruction in the U.S. to illuminate the past and spark new conversations about the present.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Dec 17 19:58:50 +0000 2019",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220812695118716928/JBhaKlF__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220812695118716928/JBhaKlF__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207027069730873344/1579126936",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Douglass Day!  Join us from 12:30-1:30pm at McDonough Plaza on the Emory University campus to celebrate. @everyvoice2020 @DouglassDayorg @CCP_org #blackreconstruction https://t.co/vo3U0XHTc8"
+	},
+	{
 		"created_at": "Thu Feb 13 20:05:49 +0000 2020",
 		"id": 1228047647321337900,
 		"id_str": "1228047647321337856",
@@ -130,7 +438,7 @@ Grailbird.data.tweets_2020_02 =
 				"name": "Carrie Hintz",
 				"screen_name": "CarrieElise",
 				"location": "",
-				"description": "Archivist, feminist, fan of Victorian literature and very hoppy beer. She/her 🏳️‍🌈",
+				"description": "Archivist, feminist, fan of Victorian literature and very hoppy beer. She/her 🏳️🌈",
 				"url": null,
 				"entities": {
 					"description": {
