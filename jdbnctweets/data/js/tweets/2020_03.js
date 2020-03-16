@@ -1,6 +1,1107 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 19:48:34 +0000 2020",
+		"id": 1239276430522974200,
+		"id_str": "1239277328762617863",
+		"full_text": "The AJC is providing complimentary access to our ePaper. We understand how important it is to stay informed. Please invite your family, friends and neighbors to read today’s complete newspaper online at https://t.co/Dt2NTyrwJL 🗞   https://t.co/aMcdIB55qM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dt2NTyrwJL",
+					"expanded_url": "http://AJC.com/epaper",
+					"display_url": "AJC.com/epaper",
+					"indices": [
+						203,
+						226
+					]
+				},
+				{
+					"url": "https://t.co/aMcdIB55qM",
+					"expanded_url": "https://www.ajc.com/news/opinion/special-note-from-the-ajc-publisher/gTQX6GdO9DjxW3zwagSyUM/?update",
+					"display_url": "ajc.com/news/opinion/s…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4170491,
+			"id_str": "4170491",
+			"name": "AJC",
+			"screen_name": "ajc",
+			"location": "Atlanta, GA",
+			"description": "Atlanta's best source for news. You can reach our customer service team here: 404-522-4141, customercare@ajc.com",
+			"url": "https://t.co/jvkZJ5B2LG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jvkZJ5B2LG",
+							"expanded_url": "http://www.ajc.com",
+							"display_url": "ajc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1046184,
+			"friends_count": 55152,
+			"listed_count": 5153,
+			"created_at": "Wed Apr 11 12:50:15 +0000 2007",
+			"favourites_count": 1156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 271215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00539B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205233781319311361/y6T5pwyP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205233781319311361/y6T5pwyP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4170491/1537904419",
+			"profile_link_color": "00539B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F5ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The AJC is providing complimentary access to our ePaper. We understand how important it is to stay informed. Please invite your family, friends and neighbors to read today’s complete newspaper online at https://t.co/Dt2NTyrwJL 🗞   https://t.co/aMcdIB55qM"
+	},
+	{
+		"created_at": "Sun Mar 15 18:56:08 +0000 2020",
+		"id": 1239264134409212000,
+		"id_str": "1239264134409211904",
+		"full_text": "To all the bar-crowders and restaurant-packers out there: https://t.co/rxyAAU0XRi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxyAAU0XRi",
+					"expanded_url": "https://twitter.com/swear_trek/status/1239250129099599874",
+					"display_url": "twitter.com/swear_trek/sta…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Archivist @EmoryRoseMARBL • #SomosAtlanta #SaintsFC #s04 #NWSLtoATL",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 870,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239250129099600000,
+		"quoted_status_id_str": "1239250129099599874",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rxyAAU0XRi",
+			"expanded": "https://twitter.com/swear_trek/status/1239250129099599874",
+			"display": "twitter.com/swear_trek/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 18:00:29 +0000 2020",
+			"id": 1239250129099600000,
+			"id_str": "1239250129099599874",
+			"full_text": "https://t.co/h0hfKgYQKN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1239250121088524300,
+						"id_str": "1239250121088524295",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETKza1dXYAcfc0E.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETKza1dXYAcfc0E.jpg",
+						"url": "https://t.co/h0hfKgYQKN",
+						"display_url": "pic.twitter.com/h0hfKgYQKN",
+						"expanded_url": "https://twitter.com/swear_trek/status/1239250129099599874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 160,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239250121088524300,
+						"id_str": "1239250121088524295",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETKza1dXYAcfc0E.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETKza1dXYAcfc0E.jpg",
+						"url": "https://t.co/h0hfKgYQKN",
+						"display_url": "pic.twitter.com/h0hfKgYQKN",
+						"expanded_url": "https://twitter.com/swear_trek/status/1239250129099599874/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 160,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 160,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 160,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/ETKza1dXYAcfc0E.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 752499373989326800,
+				"id_str": "752499373989326849",
+				"name": "Swear Trek",
+				"screen_name": "swear_trek",
+				"location": "The Final Fuckin' Frontier",
+				"description": "GIFs by @aaronreynolds with captions by @Krissy_Myers, @NicRobes, @angrybittergay, @ninjaburger, @noemptyline, and @joesondow",
+				"url": "https://t.co/oN69R2qG9v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oN69R2qG9v",
+								"expanded_url": "https://cottonbureau.com/people/swear-trek",
+								"display_url": "cottonbureau.com/people/swear-t…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 128880,
+				"friends_count": 495,
+				"listed_count": 1226,
+				"created_at": "Mon Jul 11 13:46:46 +0000 2016",
+				"favourites_count": 68756,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16508,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083781898160136192/PjDinICI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083781898160136192/PjDinICI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/752499373989326849/1547228734",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 217,
+			"favorite_count": 1229,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To all the bar-crowders and restaurant-packers out there: https://t.co/rxyAAU0XRi"
+	},
+	{
+		"created_at": "Sun Mar 15 17:24:40 +0000 2020",
+		"id": 1238975539748180000,
+		"id_str": "1239241115548684289",
+		"full_text": "Did you know that people's health is more important than a temporary interruption in library services",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15274817,
+			"id_str": "15274817",
+			"name": "Katy Rawdon",
+			"screen_name": "lemurchild",
+			"location": "Philadelphia-ish",
+			"description": "Archivist, librarian, feminist, sportsball enthusiast, poetess, writer of smoochy stories.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 415,
+			"listed_count": 68,
+			"created_at": "Mon Jun 30 01:01:56 +0000 2008",
+			"favourites_count": 35357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092501643457937408/bFhxg3St_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092501643457937408/bFhxg3St_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15274817/1574259673",
+			"profile_link_color": "1477A1",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "080B0C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Did you know that people's health is more important than a temporary interruption in library services"
+	},
+	{
+		"created_at": "Sun Mar 15 15:47:14 +0000 2020",
+		"id": 1239216226003533800,
+		"id_str": "1239216594292785158",
+		"full_text": "Right now, the best thing that we can all do as individuals and leaders is to put the *maximum amount of pressure* on all institutions to do the right thing and eliminate face to face operations preemptively -- schools, universities, restaurants, bars, and yes libraries. 3/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239216112249770000,
+		"in_reply_to_status_id_str": "1239216112249769986",
+		"in_reply_to_user_id": 27685957,
+		"in_reply_to_user_id_str": "27685957",
+		"in_reply_to_screen_name": "rschon",
+		"user": {
+			"id": 27685957,
+			"id_str": "27685957",
+			"name": "Roger C. Schonfeld",
+			"screen_name": "rschon",
+			"location": "New York, NY",
+			"description": "Director, Libraries, Scholarly Comms, Museums @IthakaSR; organizational strategy & leadership; supporting academics & students. @ScholarlyKitchn contributor.",
+			"url": "https://t.co/x5CItCeVp4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x5CItCeVp4",
+							"expanded_url": "https://sr.ithaka.org/people/roger-c-schonfeld/",
+							"display_url": "sr.ithaka.org/people/roger-c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6098,
+			"friends_count": 1854,
+			"listed_count": 316,
+			"created_at": "Mon Mar 30 17:28:13 +0000 2009",
+			"favourites_count": 19523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1716127607/0617_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1716127607/0617_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27685957/1398394678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Right now, the best thing that we can all do as individuals and leaders is to put the *maximum amount of pressure* on all institutions to do the right thing and eliminate face to face operations preemptively -- schools, universities, restaurants, bars, and yes libraries. 3/"
+	},
+	{
+		"created_at": "Sun Mar 15 15:46:27 +0000 2020",
+		"id": 1239216134446030800,
+		"id_str": "1239216399022784515",
+		"full_text": "“Also, pay everyone anyway. And tell everyone that their job on Monday is to take care of themselves and their loved ones. This is a time for creative compassion.”\n\nCLOSE THE GD LIBRARIES. ALL OF THEM. GIVE A SHIT ABOUT YOUR STAFF’S WELL-BEING. https://t.co/qnKeXuhChH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qnKeXuhChH",
+					"expanded_url": "https://twitter.com/mchris4duke/status/1239190802338910208",
+					"display_url": "twitter.com/mchris4duke/st…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15872908,
+			"id_str": "15872908",
+			"name": "Kristy Darby",
+			"screen_name": "Kristydixie",
+			"location": "Washington, DC",
+			"description": "digital content mgmt at the Library of Congress 🥢 partner of @matdarby 🥢 friend to 😽🐶😻🐓🐇🦌🕊 🥢 eater of pickles 🥢 tweets are mine - all mine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 781,
+			"friends_count": 386,
+			"listed_count": 41,
+			"created_at": "Sat Aug 16 12:18:21 +0000 2008",
+			"favourites_count": 43280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6AC7E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203334934422839296/zQEiyg2y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203334934422839296/zQEiyg2y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15872908/1582065720",
+			"profile_link_color": "19591C",
+			"profile_sidebar_border_color": "0F4852",
+			"profile_sidebar_fill_color": "2FA839",
+			"profile_text_color": "08050A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239190802338910200,
+		"quoted_status_id_str": "1239190802338910208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qnKeXuhChH",
+			"expanded": "https://twitter.com/mchris4duke/status/1239190802338910208",
+			"display": "twitter.com/mchris4duke/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 14:04:44 +0000 2020",
+			"id": 1239190802338910200,
+			"id_str": "1239190802338910208",
+			"full_text": "OK, I wrote a thing. A rough, incomplete thing. Hope it is helpful -- Close the Library https://t.co/NEbW9y9CLl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NEbW9y9CLl",
+						"expanded_url": "https://chrisbourg.wordpress.com/2020/03/15/close-the-library",
+						"display_url": "chrisbourg.wordpress.com/2020/03/15/clo…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14093339,
+				"id_str": "14093339",
+				"name": "Chris Bourg",
+				"screen_name": "mchris4duke",
+				"location": "Cambridge MA",
+				"description": "Director of Libraries at MIT. Queer, butch, lesbian. Not wedded to the soup roach. #DailyJiffy Tweets my own, RTs are not endorsements.",
+				"url": "https://t.co/EvmSkBJ8oA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EvmSkBJ8oA",
+								"expanded_url": "http://chrisbourg.wordpress.com/",
+								"display_url": "chrisbourg.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14462,
+				"friends_count": 7688,
+				"listed_count": 568,
+				"created_at": "Fri Mar 07 04:24:10 +0000 2008",
+				"favourites_count": 42849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 69440,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832397559935148032/XuValEaG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832397559935148032/XuValEaG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14093339/1361226921",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 216,
+			"favorite_count": 512,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Also, pay everyone anyway. And tell everyone that their job on Monday is to take care of themselves and their loved ones. This is a time for creative compassion.”\n\nCLOSE THE GD LIBRARIES. ALL OF THEM. GIVE A SHIT ABOUT YOUR STAFF’S WELL-BEING. https://t.co/qnKeXuhChH"
+	},
+	{
+		"created_at": "Sun Mar 15 15:30:20 +0000 2020",
+		"id": 1239040553649651700,
+		"id_str": "1239212343336321024",
+		"full_text": "It is time to show the world that nobody stays home and sits on the couch better than the goddamn United States of America",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16963843,
+			"id_str": "16963843",
+			"name": "Pablo S. Torre",
+			"screen_name": "PabloTorre",
+			"location": "New York, NY 🇵🇭",
+			"description": "ESPN, and so forth.",
+			"url": "https://t.co/uJN14OkoXO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uJN14OkoXO",
+							"expanded_url": "http://instagram.com/pstorre",
+							"display_url": "instagram.com/pstorre",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156345,
+			"friends_count": 3062,
+			"listed_count": 2025,
+			"created_at": "Sat Oct 25 07:23:33 +0000 2008",
+			"favourites_count": 30348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156412405049626624/jgamAYsO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156412405049626624/jgamAYsO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16963843/1579758517",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8426,
+		"favorite_count": 41985,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It is time to show the world that nobody stays home and sits on the couch better than the goddamn United States of America"
+	},
+	{
+		"created_at": "Sun Mar 15 14:10:55 +0000 2020",
+		"id": 1239190448331264000,
+		"id_str": "1239192354826969088",
+		"full_text": "Close the library https://t.co/z8JYcGLCO7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8JYcGLCO7",
+					"expanded_url": "https://chrisbourg.wordpress.com/2020/03/15/close-the-library/",
+					"display_url": "chrisbourg.wordpress.com/2020/03/15/clo…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14093339,
+			"id_str": "14093339",
+			"name": "Chris Bourg",
+			"screen_name": "mchris4duke",
+			"location": "Cambridge MA",
+			"description": "Director of Libraries at MIT. Queer, butch, lesbian. Not wedded to the soup roach. #DailyJiffy Tweets my own, RTs are not endorsements.",
+			"url": "https://t.co/EvmSkBJ8oA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EvmSkBJ8oA",
+							"expanded_url": "http://chrisbourg.wordpress.com/",
+							"display_url": "chrisbourg.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14462,
+			"friends_count": 7688,
+			"listed_count": 568,
+			"created_at": "Fri Mar 07 04:24:10 +0000 2008",
+			"favourites_count": 42849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 69440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/832397559935148032/XuValEaG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/832397559935148032/XuValEaG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14093339/1361226921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Close the library https://t.co/z8JYcGLCO7"
+	},
+	{
+		"created_at": "Sun Mar 15 14:10:16 +0000 2020",
+		"id": 1238615766590566400,
+		"id_str": "1239192192360615936",
+		"full_text": "\"Why do so many colleges come to the conclusion that being on campus...is a risk, but justify keeping the library open? The burden has recklessly been displaced onto library staff...there is no road map for how...libraries handle a pandemic.\" @acrl_or \nhttps://t.co/uylGL23OQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acrl_or",
+					"name": "ACRL_Oregon",
+					"id": 3280927670,
+					"id_str": "3280927670",
+					"indices": [
+						243,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uylGL23OQj",
+					"expanded_url": "https://acrloregon.org/2020/03/12/covid-19-acrl-oregon/?fbclid=IwAR0RsqsiJtJ7isOIdd0eKvAB8sxL_9FaX2FTWLIK7jxi4jrLxoQQXZiv5CU",
+					"display_url": "acrloregon.org/2020/03/12/cov…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73315263,
+			"id_str": "73315263",
+			"name": "bibliotekah",
+			"screen_name": "tttkay",
+			"location": "Tongva LAnd | CDMX",
+			"description": "✈️ archivista sin fronteras 📻 @dublab dj #TheArchiveofFeelings 🌎@fulbrightprgrm @comexus scholar based at @cultura_mx 🇲🇽🇧🇷 polyglot",
+			"url": "https://t.co/fdyz63Nqdl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fdyz63Nqdl",
+							"expanded_url": "https://linktr.ee/tttkay",
+							"display_url": "linktr.ee/tttkay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2618,
+			"friends_count": 882,
+			"listed_count": 149,
+			"created_at": "Fri Sep 11 05:12:45 +0000 2009",
+			"favourites_count": 441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875807409066852353/ZV-jeez-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875807409066852353/ZV-jeez-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73315263/1398264316",
+			"profile_link_color": "EC73F0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Why do so many colleges come to the conclusion that being on campus...is a risk, but justify keeping the library open? The burden has recklessly been displaced onto library staff...there is no road map for how...libraries handle a pandemic.\" @acrl_or \nhttps://t.co/uylGL23OQj"
+	},
+	{
 		"created_at": "Sun Mar 15 01:44:54 +0000 2020",
 		"id": 1239004613170389000,
 		"id_str": "1239004613170388992",
