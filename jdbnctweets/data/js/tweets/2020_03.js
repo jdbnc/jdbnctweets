@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 16:07:09 +0000 2020",
+		"id": 1244657425095037000,
+		"id_str": "1244657425095036928",
+		"full_text": "@Cannonfor58 The Ponce branch of AFPL parking lot looks blocked for construction. Not sure if their WIFI is available that far away from the building.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cannonfor58",
+					"name": "Park Cannon",
+					"id": 4228837518,
+					"id_str": "4228837518",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1244656487378686000,
+		"in_reply_to_status_id_str": "1244656487378685956",
+		"in_reply_to_user_id": 4228837518,
+		"in_reply_to_user_id_str": "4228837518",
+		"in_reply_to_screen_name": "Cannonfor58",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Archivist @EmoryRoseMARBL • #SomosAtlanta #SaintsFC #s04 #NWSLtoATL",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 875,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Cannonfor58 The Ponce branch of AFPL parking lot looks blocked for construction. Not sure if their WIFI is available that far away from the building."
+	},
+	{
 		"created_at": "Thu Mar 26 18:17:23 +0000 2020",
 		"id": 1243240647261380600,
 		"id_str": "1243240647261380608",
