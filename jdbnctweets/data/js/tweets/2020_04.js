@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 21:20:57 +0000 2020",
+		"id": 1252346539264995300,
+		"id_str": "1252346539264995329",
+		"full_text": "@jacobsberg I keep wearing my Abrams for Governor tshirt whenever Kemp does something stupid - I'm going to be wearing the shirt out faster than I knew.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jacobsberg",
+					"name": "Kakistocracy Man",
+					"id": 117450420,
+					"id_str": "117450420",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1252345066087043000,
+		"in_reply_to_status_id_str": "1252345066087043077",
+		"in_reply_to_user_id": 117450420,
+		"in_reply_to_user_id_str": "117450420",
+		"in_reply_to_screen_name": "jacobsberg",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "Archivist @EmoryRoseMARBL • #SomosAtlanta #SaintsFC #s04 #NWSLtoATL",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 684,
+			"friends_count": 881,
+			"listed_count": 32,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225734038805209088/BbP6Q1KF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jacobsberg I keep wearing my Abrams for Governor tshirt whenever Kemp does something stupid - I'm going to be wearing the shirt out faster than I knew."
+	},
+	{
+		"created_at": "Mon Apr 20 17:52:45 +0000 2020",
+		"id": 1252283167169544200,
+		"id_str": "1252294144678137856",
+		"full_text": "The staff of the @EmoryRoseMARBL is at a loss of words as we remember our friend and colleague Pellom McDaniels III, Curator of African American Collections, who passed away suddenly on Sunday, April 19, 2020. https://t.co/2wLg3CLdEl https://t.co/TapzOBffK2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmoryRoseMARBL",
+					"name": "Rose Library Emory",
+					"id": 2979785051,
+					"id_str": "2979785051",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2wLg3CLdEl",
+					"expanded_url": "https://scholarblogs.emory.edu/marbl/2020/04/20/8374/",
+					"display_url": "scholarblogs.emory.edu/marbl/2020/04/…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252283006745809000,
+					"id_str": "1252283006745808907",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EWEAwn9XkAsB0RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWEAwn9XkAsB0RL.jpg",
+					"url": "https://t.co/TapzOBffK2",
+					"display_url": "pic.twitter.com/TapzOBffK2",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1252283167169544192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252283006745809000,
+					"id_str": "1252283006745808907",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EWEAwn9XkAsB0RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWEAwn9XkAsB0RL.jpg",
+					"url": "https://t.co/TapzOBffK2",
+					"display_url": "pic.twitter.com/TapzOBffK2",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1252283167169544192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2979785051,
+			"id_str": "2979785051",
+			"name": "Rose Library Emory",
+			"screen_name": "EmoryRoseMARBL",
+			"location": "Atlanta, GA",
+			"description": "Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+			"url": "http://t.co/tROo8YcJcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tROo8YcJcB",
+							"expanded_url": "http://rose.library.emory.edu/",
+							"display_url": "rose.library.emory.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 240,
+			"listed_count": 25,
+			"created_at": "Thu Jan 15 13:58:49 +0000 2015",
+			"favourites_count": 959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2979785051/1442582260",
+			"profile_link_color": "00267F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The staff of the @EmoryRoseMARBL is at a loss of words as we remember our friend and colleague Pellom McDaniels III, Curator of African American Collections, who passed away suddenly on Sunday, April 19, 2020. https://t.co/2wLg3CLdEl https://t.co/TapzOBffK2"
+	},
+	{
 		"created_at": "Tue Apr 07 22:42:37 +0000 2020",
 		"id": 1247655631470944300,
 		"id_str": "1247656052084158466",
