@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 23:17:19 +0000 2020",
+		"id": 1255253068893106200,
+		"id_str": "1255274927214690306",
+		"full_text": "THREAD: @EmoryRoseMARBL just finished digitizing @emorywheel's archives and its fascinating reading about how WWII completely disrupted Emory's academic and campus life -- you can't help but draw some parallels to today. https://t.co/ompsrxSck0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmoryRoseMARBL",
+					"name": "Rose Library Emory",
+					"id": 2979785051,
+					"id_str": "2979785051",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "emorywheel",
+					"name": "The Emory Wheel",
+					"id": 26306540,
+					"id_str": "26306540",
+					"indices": [
+						49,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255252990715363300,
+					"id_str": "1255252990715363328",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EWuN8cbWAAAA-PD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWuN8cbWAAAA-PD.jpg",
+					"url": "https://t.co/ompsrxSck0",
+					"display_url": "pic.twitter.com/ompsrxSck0",
+					"expanded_url": "https://twitter.com/IsaiahPoritz/status/1255253068893106177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 296,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 757,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 330,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255252990715363300,
+					"id_str": "1255252990715363328",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EWuN8cbWAAAA-PD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWuN8cbWAAAA-PD.jpg",
+					"url": "https://t.co/ompsrxSck0",
+					"display_url": "pic.twitter.com/ompsrxSck0",
+					"expanded_url": "https://twitter.com/IsaiahPoritz/status/1255253068893106177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 296,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 757,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 330,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255253048190021600,
+					"id_str": "1255253048190021635",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EWuN_yiXsAMpYId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWuN_yiXsAMpYId.jpg",
+					"url": "https://t.co/ompsrxSck0",
+					"display_url": "pic.twitter.com/ompsrxSck0",
+					"expanded_url": "https://twitter.com/IsaiahPoritz/status/1255253068893106177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 738,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764557708745769000,
+			"id_str": "764557708745768960",
+			"name": "Isaiah Poritz",
+			"screen_name": "IsaiahPoritz",
+			"location": "",
+			"description": "executive editor @emorywheel and incoming @cbsnews D.C. intern | @utahjazz fan",
+			"url": "https://t.co/d2Ha81inIE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d2Ha81inIE",
+							"expanded_url": "https://emorywheel.com/author/isaiah-poritz/",
+							"display_url": "emorywheel.com/author/isaiah-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125,
+			"friends_count": 236,
+			"listed_count": 0,
+			"created_at": "Sat Aug 13 20:22:17 +0000 2016",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027617654872268800/vdWUOeJU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027617654872268800/vdWUOeJU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764557708745768960/1559691234",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THREAD: @EmoryRoseMARBL just finished digitizing @emorywheel's archives and its fascinating reading about how WWII completely disrupted Emory's academic and campus life -- you can't help but draw some parallels to today. https://t.co/ompsrxSck0"
+	},
+	{
 		"created_at": "Mon Apr 20 21:20:57 +0000 2020",
 		"id": 1252346539264995300,
 		"id_str": "1252346539264995329",
