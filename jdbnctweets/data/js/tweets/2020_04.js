@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 19:05:39 +0000 2020",
+		"id": 1255516289759658000,
+		"id_str": "1255573984026021888",
+		"full_text": "Available now! Emory Libraries' digitized Robert Langmuir African American photograph collection #EmoryLibraries #digitallibrary \nhttps://t.co/lW2WElle8p https://t.co/LPrFdbgzG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EmoryLibraries",
+					"indices": [
+						97,
+						112
+					]
+				},
+				{
+					"text": "digitallibrary",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lW2WElle8p",
+					"expanded_url": "https://digital.library.emory.edu/catalog/914nk98sfv-cor",
+					"display_url": "digital.library.emory.edu/catalog/914nk9…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255516287217909800,
+					"id_str": "1255516287217909762",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx9aUVXQAIUVcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWx9aUVXQAIUVcw.jpg",
+					"url": "https://t.co/LPrFdbgzG7",
+					"display_url": "pic.twitter.com/LPrFdbgzG7",
+					"expanded_url": "https://twitter.com/JinaDuVernay/status/1255516289759657989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255516287217909800,
+					"id_str": "1255516287217909762",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EWx9aUVXQAIUVcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWx9aUVXQAIUVcw.jpg",
+					"url": "https://t.co/LPrFdbgzG7",
+					"display_url": "pic.twitter.com/LPrFdbgzG7",
+					"expanded_url": "https://twitter.com/JinaDuVernay/status/1255516289759657989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1110,
+							"h": 440,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1110,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 934835864,
+			"id_str": "934835864",
+			"name": "Jina DuVernay",
+			"screen_name": "JinaDuVernay",
+			"location": "",
+			"description": "Librarian | Visiting Archivist for African American Collections @ Emory University's Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1988,
+			"friends_count": 1024,
+			"listed_count": 19,
+			"created_at": "Thu Nov 08 16:06:58 +0000 2012",
+			"favourites_count": 7879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245115376733769728/8wuxknks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245115376733769728/8wuxknks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/934835864/1557917601",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Available now! Emory Libraries' digitized Robert Langmuir African American photograph collection #EmoryLibraries #digitallibrary \nhttps://t.co/lW2WElle8p https://t.co/LPrFdbgzG7"
+	},
+	{
 		"created_at": "Tue Apr 28 23:17:19 +0000 2020",
 		"id": 1255253068893106200,
 		"id_str": "1255274927214690306",
