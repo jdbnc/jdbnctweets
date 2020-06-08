@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 15:17:46 +0000 2020",
+		"id": 1269625845305524200,
+		"id_str": "1269649760828493826",
+		"full_text": "If you think defunding police is radical wait until you hear about how they've been defunding housing, health care, and education for decades.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21269439,
+			"id_str": "21269439",
+			"name": "daanis is done with all your bullshit",
+			"screen_name": "gindaanis",
+			"location": "Disorder of Canada recipient",
+			"description": "Boom, right in the fragility",
+			"url": "https://t.co/OHSzQZNn8O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OHSzQZNn8O",
+							"expanded_url": "http://daanis.ca",
+							"display_url": "daanis.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7978,
+			"friends_count": 1756,
+			"listed_count": 51,
+			"created_at": "Thu Feb 19 02:49:55 +0000 2009",
+			"favourites_count": 19072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1E244A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059164916056252416/WKAngoYs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059164916056252416/WKAngoYs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21269439/1578193068",
+			"profile_link_color": "21165C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10361,
+		"favorite_count": 31744,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you think defunding police is radical wait until you hear about how they've been defunding housing, health care, and education for decades."
+	},
+	{
 		"created_at": "Fri Jun 05 15:48:30 +0000 2020",
 		"id": 1268932720077541400,
 		"id_str": "1268932720077541378",
