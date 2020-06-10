@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 23:40:34 +0000 2020",
+		"id": 1270379173383733200,
+		"id_str": "1270501070461116418",
+		"full_text": "On the left is Piedmont Park, a Democratic stronghold with a 4-hour line to vote. \n\nOn the right is Chastain Park, located in Atlanta’s whitest and most conservative precinct. There is literally no line. \n\nGeorgia’s top election official is a Republican. #FultonCounty #GAPrimary https://t.co/4tdlGoboMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FultonCounty",
+					"indices": [
+						255,
+						268
+					]
+				},
+				{
+					"text": "GAPrimary",
+					"indices": [
+						269,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270379167100612600,
+					"id_str": "1270379167100612611",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFLHykWsAMv6m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFLHykWsAMv6m5.jpg",
+					"url": "https://t.co/4tdlGoboMG",
+					"display_url": "pic.twitter.com/4tdlGoboMG",
+					"expanded_url": "https://twitter.com/brent_peabody/status/1270379173383733249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270379167100612600,
+					"id_str": "1270379167100612611",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFLHykWsAMv6m5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFLHykWsAMv6m5.jpg",
+					"url": "https://t.co/4tdlGoboMG",
+					"display_url": "pic.twitter.com/4tdlGoboMG",
+					"expanded_url": "https://twitter.com/brent_peabody/status/1270379173383733249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1270379167968788500,
+					"id_str": "1270379167968788481",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EaFLH1zWAAEKi8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaFLH1zWAAEKi8P.jpg",
+					"url": "https://t.co/4tdlGoboMG",
+					"display_url": "pic.twitter.com/4tdlGoboMG",
+					"expanded_url": "https://twitter.com/brent_peabody/status/1270379173383733249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1175137342186827800,
+			"id_str": "1175137342186827776",
+			"name": "Brent Peabody",
+			"screen_name": "brent_peabody",
+			"location": "Atlanta ",
+			"description": "Random guy in Atlanta. Georgetown SFS '18, Fulbright Scholar '19, Fyre Festival '17. Fan of #ElectionTwitter and #BirdTwitter 🐦🇺🇸🌐",
+			"url": "https://t.co/ELKKm1IOfX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ELKKm1IOfX",
+							"expanded_url": "https://www.cnas.org/people/brent-peabody",
+							"display_url": "cnas.org/people/brent-p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1149,
+			"friends_count": 413,
+			"listed_count": 8,
+			"created_at": "Fri Sep 20 19:59:15 +0000 2019",
+			"favourites_count": 16293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241803324653015043/6fsiZ8iq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241803324653015043/6fsiZ8iq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1175137342186827776/1569009823",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8173485c72e78ca5",
+			"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+			"place_type": "city",
+			"name": "Atlanta",
+			"full_name": "Atlanta, GA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-84.576827,
+							33.6475029
+						],
+						[
+							-84.289385,
+							33.6475029
+						],
+						[
+							-84.289385,
+							33.8868859
+						],
+						[
+							-84.576827,
+							33.8868859
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20072,
+		"favorite_count": 27606,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On the left is Piedmont Park, a Democratic stronghold with a 4-hour line to vote. \n\nOn the right is Chastain Park, located in Atlanta’s whitest and most conservative precinct. There is literally no line. \n\nGeorgia’s top election official is a Republican. #FultonCounty #GAPrimary https://t.co/4tdlGoboMG"
+	},
+	{
+		"created_at": "Tue Jun 09 17:48:10 +0000 2020",
+		"id": 1270412386240024600,
+		"id_str": "1270412386240024580",
+		"full_text": "@AlexWanforATL Improvement from the 2.5 hours I waited first thing this morning at Inman! Poll workers were awesome in the face of difficulties 👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexWanforATL",
+					"name": "Alex Wan",
+					"id": 42790427,
+					"id_str": "42790427",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270412030873350100,
+		"in_reply_to_status_id_str": "1270412030873350146",
+		"in_reply_to_user_id": 42790427,
+		"in_reply_to_user_id_str": "42790427",
+		"in_reply_to_screen_name": "AlexWanforATL",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist  •   #ATLUTD #SaintsFC #s04  •  my inner soundtrack is just buy out",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 892,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlexWanforATL Improvement from the 2.5 hours I waited first thing this morning at Inman! Poll workers were awesome in the face of difficulties 👍"
+	},
+	{
 		"created_at": "Sun Jun 07 15:17:46 +0000 2020",
 		"id": 1269625845305524200,
 		"id_str": "1269649760828493826",
