@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 16:52:42 +0000 2020",
+		"id": 1271120250050957300,
+		"id_str": "1271123203549732866",
+		"full_text": "ACTION: In GA’s primaries, voters faced up to 8-hour lines and thousands of absentee ballots that were never received. Now, the GA House is set to take up another anti-voter bill. SB 463 lets @GaSecofState off the hook for administering elections, passing the buck to counties 1/2 https://t.co/O4nqQP19nc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GaSecofState",
+					"name": "GA Secretary of State Brad Raffensperger",
+					"id": 79205875,
+					"id_str": "79205875",
+					"indices": [
+						192,
+						205
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271120244455682000,
+					"id_str": "1271120244455682051",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EaPtIK2WsAMICcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaPtIK2WsAMICcq.jpg",
+					"url": "https://t.co/O4nqQP19nc",
+					"display_url": "pic.twitter.com/O4nqQP19nc",
+					"expanded_url": "https://twitter.com/fairfightaction/status/1271120250050957317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271120244455682000,
+					"id_str": "1271120244455682051",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EaPtIK2WsAMICcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaPtIK2WsAMICcq.jpg",
+					"url": "https://t.co/O4nqQP19nc",
+					"display_url": "pic.twitter.com/O4nqQP19nc",
+					"expanded_url": "https://twitter.com/fairfightaction/status/1271120250050957317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 879771304316072000,
+			"id_str": "879771304316071938",
+			"name": "Fair Fight",
+			"screen_name": "fairfightaction",
+			"location": "Georgia, USA",
+			"description": "Fighting for free and fair elections — in Georgia and around the nation. A joint account of Fair Fight and Fair Fight Action.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀",
+			"url": "https://t.co/mbvt4lPcpt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mbvt4lPcpt",
+							"expanded_url": "http://fairfight.com",
+							"display_url": "fairfight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53488,
+			"friends_count": 207,
+			"listed_count": 382,
+			"created_at": "Tue Jun 27 18:39:59 +0000 2017",
+			"favourites_count": 6025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090260207245058048/VaE9x-60_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090260207245058048/VaE9x-60_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879771304316071938/1586280340",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ACTION: In GA’s primaries, voters faced up to 8-hour lines and thousands of absentee ballots that were never received. Now, the GA House is set to take up another anti-voter bill. SB 463 lets @GaSecofState off the hook for administering elections, passing the buck to counties 1/2 https://t.co/O4nqQP19nc"
+	},
+	{
 		"created_at": "Wed Jun 10 21:11:06 +0000 2020",
 		"id": 1270825842344636400,
 		"id_str": "1270825842344636416",
