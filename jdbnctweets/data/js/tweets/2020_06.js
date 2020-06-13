@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 15:29:28 +0000 2020",
+		"id": 1271464643240829000,
+		"id_str": "1271464643240828928",
+		"full_text": "👇🏻👇🏻👇🏻🙌🏻🙌🏻🙌🏻 https://t.co/fs9nLuK3HB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fs9nLuK3HB",
+					"expanded_url": "https://twitter.com/staceyabrams/status/1271188964985253891",
+					"display_url": "twitter.com/staceyabrams/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist  •   #ATLUTD #SaintsFC #s04  •  my inner soundtrack is just buy out",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 893,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271188964985254000,
+		"quoted_status_id_str": "1271188964985253891",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fs9nLuK3HB",
+			"expanded": "https://twitter.com/staceyabrams/status/1271188964985253891",
+			"display": "twitter.com/staceyabrams/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 11 21:14:01 +0000 2020",
+			"id": 1271188964985254000,
+			"id_str": "1271188964985253891",
+			"full_text": "The unmitigated disaster in GA this week has rightfully drawn a lot of attention.\n\nAlso deserving attention: The number of Georgians who overcame the obstacles.\n\n2016 primary Democratic turnout: 761,000\n2020 primary Dem turnout: 948,000 and still climbing.\n\n#gapol #battleground",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gapol",
+						"indices": [
+							258,
+							264
+						]
+					},
+					{
+						"text": "battleground",
+						"indices": [
+							265,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216065430,
+				"id_str": "216065430",
+				"name": "Stacey Abrams",
+				"screen_name": "staceyabrams",
+				"location": "Georgia",
+				"description": "Founder of @fairfightaction & @faircount & @The_SEAP. Co-founder & former SVP @NowAccount. Writes as Selena Montgomery. she/her. Available: #OurTimeIsNow👇🏾",
+				"url": "https://t.co/JRsXXXIppa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JRsXXXIppa",
+								"expanded_url": "https://static.macmillan.com/static/holt/our-time-is-now",
+								"display_url": "static.macmillan.com/static/holt/ou…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 735899,
+				"friends_count": 1704,
+				"listed_count": 2954,
+				"created_at": "Mon Nov 15 18:12:10 +0000 2010",
+				"favourites_count": 6131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11694,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047553831238868992/PW262iym_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047553831238868992/PW262iym_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216065430/1549898895",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8173485c72e78ca5",
+				"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+				"place_type": "city",
+				"name": "Atlanta",
+				"full_name": "Atlanta, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.576827,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.8868859
+							],
+							[
+								-84.576827,
+								33.8868859
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10890,
+			"favorite_count": 49303,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👇🏻👇🏻👇🏻🙌🏻🙌🏻🙌🏻 https://t.co/fs9nLuK3HB"
+	},
+	{
 		"created_at": "Thu Jun 11 16:52:42 +0000 2020",
 		"id": 1271120250050957300,
 		"id_str": "1271123203549732866",
