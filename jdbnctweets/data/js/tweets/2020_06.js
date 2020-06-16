@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 15:02:26 +0000 2020",
+		"id": 1272544022398197800,
+		"id_str": "1272545004012154885",
+		"full_text": "Day 2 (Four Days in May @EmoryUniversity): On Monday, May 26, there was a rally called by @Emory_BSA on the steps of Candler Library. At the rally, a list of demands was presented (for the second time – the first time was March). https://t.co/wOHqTsLX8k #fourdaysinmay #protest \" https://t.co/8GgyyTS4pD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fourdaysinmay",
+					"indices": [
+						254,
+						268
+					]
+				},
+				{
+					"text": "protest",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmoryUniversity",
+					"name": "Emory University",
+					"id": 16438655,
+					"id_str": "16438655",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"screen_name": "Emory_BSA",
+					"name": "Emory Black Student Alliance",
+					"id": 788283858,
+					"id_str": "788283858",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wOHqTsLX8k",
+					"expanded_url": "https://bit.ly/2BYhrO3",
+					"display_url": "bit.ly/2BYhrO3",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272543271471001600,
+					"id_str": "1272543271471001600",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaj7XPlXsAAsQRK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaj7XPlXsAAsQRK.jpg",
+					"url": "https://t.co/8GgyyTS4pD",
+					"display_url": "pic.twitter.com/8GgyyTS4pD",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1272544022398197762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 979,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272543271471001600,
+					"id_str": "1272543271471001600",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Eaj7XPlXsAAsQRK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eaj7XPlXsAAsQRK.jpg",
+					"url": "https://t.co/8GgyyTS4pD",
+					"display_url": "pic.twitter.com/8GgyyTS4pD",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1272544022398197762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 979,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2979785051,
+			"id_str": "2979785051",
+			"name": "Rose Library Emory",
+			"screen_name": "EmoryRoseMARBL",
+			"location": "Atlanta, GA",
+			"description": "Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+			"url": "http://t.co/tROo8YcJcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tROo8YcJcB",
+							"expanded_url": "http://rose.library.emory.edu/",
+							"display_url": "rose.library.emory.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 251,
+			"listed_count": 24,
+			"created_at": "Thu Jan 15 13:58:49 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2979785051/1442582260",
+			"profile_link_color": "00267F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 2 (Four Days in May @EmoryUniversity): On Monday, May 26, there was a rally called by @Emory_BSA on the steps of Candler Library. At the rally, a list of demands was presented (for the second time – the first time was March). https://t.co/wOHqTsLX8k #fourdaysinmay #protest \" https://t.co/8GgyyTS4pD"
+	},
+	{
 		"created_at": "Sun Jun 14 20:47:25 +0000 2020",
 		"id": 1272263004910956500,
 		"id_str": "1272269435521425408",
