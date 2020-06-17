@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 19:40:44 +0000 2020",
+		"id": 1272899807225491500,
+		"id_str": "1272977429104123906",
+		"full_text": "Day 3 (#fourdaysinmay @EmoryUniversity): On Tuesday, May 27, a special edition of the @emorywheel was printed about the demonstrations. That same day, #Emory sought &amp; was granted a temporary restraining order against the demonstrators from the Sunday protest. https://t.co/5GPa12Jf3i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fourdaysinmay",
+					"indices": [
+						7,
+						21
+					]
+				},
+				{
+					"text": "Emory",
+					"indices": [
+						151,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmoryUniversity",
+					"name": "Emory University",
+					"id": 16438655,
+					"id_str": "16438655",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "emorywheel",
+					"name": "The Emory Wheel",
+					"id": 26306540,
+					"id_str": "26306540",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272898399256416300,
+					"id_str": "1272898399256416256",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/Eao-WZrXkAAdksB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eao-WZrXkAAdksB.jpg",
+					"url": "https://t.co/5GPa12Jf3i",
+					"display_url": "pic.twitter.com/5GPa12Jf3i",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1272899807225491458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272898399256416300,
+					"id_str": "1272898399256416256",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/Eao-WZrXkAAdksB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eao-WZrXkAAdksB.jpg",
+					"url": "https://t.co/5GPa12Jf3i",
+					"display_url": "pic.twitter.com/5GPa12Jf3i",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1272899807225491458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2979785051,
+			"id_str": "2979785051",
+			"name": "Rose Library Emory",
+			"screen_name": "EmoryRoseMARBL",
+			"location": "Atlanta, GA",
+			"description": "Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+			"url": "http://t.co/tROo8YcJcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tROo8YcJcB",
+							"expanded_url": "http://rose.library.emory.edu/",
+							"display_url": "rose.library.emory.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 251,
+			"listed_count": 24,
+			"created_at": "Thu Jan 15 13:58:49 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2979785051/1442582260",
+			"profile_link_color": "00267F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 3 (#fourdaysinmay @EmoryUniversity): On Tuesday, May 27, a special edition of the @emorywheel was printed about the demonstrations. That same day, #Emory sought &amp; was granted a temporary restraining order against the demonstrators from the Sunday protest. https://t.co/5GPa12Jf3i"
+	},
+	{
 		"created_at": "Mon Jun 15 15:02:26 +0000 2020",
 		"id": 1272544022398197800,
 		"id_str": "1272545004012154885",
