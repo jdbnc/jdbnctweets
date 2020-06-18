@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 15:08:34 +0000 2020",
+		"id": 1273271166933835800,
+		"id_str": "1273271323255545858",
+		"full_text": "Day 4 (#Fourdaysinmay @EmoryUniversity ): On Wednesday, May 28, @Emory_BSA students &amp; Emory administrators met to discuss the proposals &amp; ways forward. This produced an official admission from the administration that racism exists #Emory &amp; that they commit to eradicating it. https://t.co/FuT1rOIgw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fourdaysinmay",
+					"indices": [
+						7,
+						21
+					]
+				},
+				{
+					"text": "Emory",
+					"indices": [
+						239,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmoryUniversity",
+					"name": "Emory University",
+					"id": 16438655,
+					"id_str": "16438655",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "Emory_BSA",
+					"name": "Emory Black Student Alliance",
+					"id": 788283858,
+					"id_str": "788283858",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273264530357989400,
+					"id_str": "1273264530357989380",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/EauLWCUXsAQoDjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EauLWCUXsAQoDjx.jpg",
+					"url": "https://t.co/FuT1rOIgw8",
+					"display_url": "pic.twitter.com/FuT1rOIgw8",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1273271166933835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1652,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273264530357989400,
+					"id_str": "1273264530357989380",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/EauLWCUXsAQoDjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EauLWCUXsAQoDjx.jpg",
+					"url": "https://t.co/FuT1rOIgw8",
+					"display_url": "pic.twitter.com/FuT1rOIgw8",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1273271166933835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1652,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2979785051,
+			"id_str": "2979785051",
+			"name": "Rose Library Emory",
+			"screen_name": "EmoryRoseMARBL",
+			"location": "Atlanta, GA",
+			"description": "Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+			"url": "http://t.co/tROo8YcJcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tROo8YcJcB",
+							"expanded_url": "http://rose.library.emory.edu/",
+							"display_url": "rose.library.emory.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 251,
+			"listed_count": 24,
+			"created_at": "Thu Jan 15 13:58:49 +0000 2015",
+			"favourites_count": 1044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2979785051/1442582260",
+			"profile_link_color": "00267F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 4 (#Fourdaysinmay @EmoryUniversity ): On Wednesday, May 28, @Emory_BSA students &amp; Emory administrators met to discuss the proposals &amp; ways forward. This produced an official admission from the administration that racism exists #Emory &amp; that they commit to eradicating it. https://t.co/FuT1rOIgw8"
+	},
+	{
 		"created_at": "Tue Jun 16 19:40:44 +0000 2020",
 		"id": 1272899807225491500,
 		"id_str": "1272977429104123906",
