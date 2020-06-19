@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 17:46:22 +0000 2020",
+		"id": 1273673421906415600,
+		"id_str": "1273673421906415617",
+		"full_text": "@japatrick200 https://t.co/inInhZTlvA",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "japatrick200",
+					"name": "Joe Patrick",
+					"id": 57352922,
+					"id_str": "57352922",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/inInhZTlvA",
+					"expanded_url": "https://twitter.com/jdbence/status/1246088987141439490",
+					"display_url": "twitter.com/jdbence/status…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1273670435893379000,
+		"in_reply_to_status_id_str": "1273670435893379075",
+		"in_reply_to_user_id": 57352922,
+		"in_reply_to_user_id_str": "57352922",
+		"in_reply_to_screen_name": "japatrick200",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 894,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246088987141439500,
+		"quoted_status_id_str": "1246088987141439490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/inInhZTlvA",
+			"expanded": "https://twitter.com/jdbence/status/1246088987141439490",
+			"display": "twitter.com/jdbence/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 03 14:55:40 +0000 2020",
+			"id": 1246088987141439500,
+			"id_str": "1246088987141439490",
+			"full_text": "I forget what it's like going outside with your friends but I think and hope it's something like this https://t.co/E6L0GFhQCa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246088951686992000,
+						"id_str": "1246088951686991874",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUr_TKvXkAII_qZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUr_TKvXkAII_qZ.jpg",
+						"url": "https://t.co/E6L0GFhQCa",
+						"display_url": "pic.twitter.com/E6L0GFhQCa",
+						"expanded_url": "https://twitter.com/jdbence/status/1246088987141439490/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246088951686992000,
+						"id_str": "1246088951686991874",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUr_TKvXkAII_qZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUr_TKvXkAII_qZ.jpg",
+						"url": "https://t.co/E6L0GFhQCa",
+						"display_url": "pic.twitter.com/E6L0GFhQCa",
+						"expanded_url": "https://twitter.com/jdbence/status/1246088987141439490/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EUr_TKvXkAII_qZ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24188638,
+				"id_str": "24188638",
+				"name": "John Bence",
+				"screen_name": "jdbence",
+				"location": "Atlanta",
+				"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 689,
+				"friends_count": 894,
+				"listed_count": 31,
+				"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+				"favourites_count": 3546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3616,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "12B8A5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@japatrick200 https://t.co/inInhZTlvA"
+	},
+	{
 		"created_at": "Wed Jun 17 15:08:34 +0000 2020",
 		"id": 1273271166933835800,
 		"id_str": "1273271323255545858",
