@@ -1,6 +1,832 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 22:11:25 +0000 2020",
+		"id": 1274093567879897000,
+		"id_str": "1274102512124145666",
+		"full_text": "Milton County, GA is defunct, but today, it would pretty much be the white part of Atlanta's Fulton County. In the last few major state primaries, it's seen some huge shifts. Rs outvoted Dems 72%-28% in 2016 there, and by 11% in 2018. Dems cast 58% of its votes this month. #gapol https://t.co/IaolDMvTAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gapol",
+					"indices": [
+						274,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274090942488817700,
+					"id_str": "1274090942488817664",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea569jaWsAA_ori.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ea569jaWsAA_ori.png",
+					"url": "https://t.co/IaolDMvTAS",
+					"display_url": "pic.twitter.com/IaolDMvTAS",
+					"expanded_url": "https://twitter.com/JMilesColeman/status/1274093567879897088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1253,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 734,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274090942488817700,
+					"id_str": "1274090942488817664",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea569jaWsAA_ori.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ea569jaWsAA_ori.png",
+					"url": "https://t.co/IaolDMvTAS",
+					"display_url": "pic.twitter.com/IaolDMvTAS",
+					"expanded_url": "https://twitter.com/JMilesColeman/status/1274093567879897088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1253,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 734,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92985745,
+			"id_str": "92985745",
+			"name": "J. Miles Coleman",
+			"screen_name": "JMilesColeman",
+			"location": "Charlottesville, VA",
+			"description": "Associate Editor, Sabato's Crystal Ball. 'A political Dora the Explorer.' Cardio addict. @LSU alumn.",
+			"url": "https://t.co/Cjd8KK0OUt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cjd8KK0OUt",
+							"expanded_url": "http://crystalball.centerforpolitics.org/crystalball/",
+							"display_url": "crystalball.centerforpolitics.org/crystalball/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25351,
+			"friends_count": 2548,
+			"listed_count": 793,
+			"created_at": "Fri Nov 27 15:09:30 +0000 2009",
+			"favourites_count": 96285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 82647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190396287629307904/qUnDrU_6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190396287629307904/qUnDrU_6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92985745/1573492836",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000DFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Milton County, GA is defunct, but today, it would pretty much be the white part of Atlanta's Fulton County. In the last few major state primaries, it's seen some huge shifts. Rs outvoted Dems 72%-28% in 2016 there, and by 11% in 2018. Dems cast 58% of its votes this month. #gapol https://t.co/IaolDMvTAS"
+	},
+	{
+		"created_at": "Fri Jun 19 18:52:14 +0000 2020",
+		"id": 1274052386357682200,
+		"id_str": "1274052386357682177",
+		"full_text": "Redmond 🙌🏻 https://t.co/9cbA5ZGIxV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9cbA5ZGIxV",
+					"expanded_url": "https://twitter.com/SouthamptonFC/status/1274051209343766530",
+					"display_url": "twitter.com/SouthamptonFC/…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 896,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274051209343766500,
+		"quoted_status_id_str": "1274051209343766530",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9cbA5ZGIxV",
+			"expanded": "https://twitter.com/SouthamptonFC/status/1274051209343766530",
+			"display": "twitter.com/SouthamptonFC/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 18:47:33 +0000 2020",
+			"id": 1274051209343766500,
+			"id_str": "1274051209343766530",
+			"full_text": "Powerful. https://t.co/jG1o204bin",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1274050688428003300,
+						"id_str": "1274050688428003328",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea5WWdWX0AASOIF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea5WWdWX0AASOIF.jpg",
+						"url": "https://t.co/jG1o204bin",
+						"display_url": "pic.twitter.com/jG1o204bin",
+						"expanded_url": "https://twitter.com/SouthamptonFC/status/1274051209343766530/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274050688428003300,
+						"id_str": "1274050688428003328",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea5WWdWX0AASOIF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea5WWdWX0AASOIF.jpg",
+						"url": "https://t.co/jG1o204bin",
+						"display_url": "pic.twitter.com/jG1o204bin",
+						"expanded_url": "https://twitter.com/SouthamptonFC/status/1274051209343766530/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1274049729161310200,
+			"in_reply_to_status_id_str": "1274049729161310213",
+			"in_reply_to_user_id": 46143892,
+			"in_reply_to_user_id_str": "46143892",
+			"in_reply_to_screen_name": "SouthamptonFC",
+			"user": {
+				"id": 46143892,
+				"id_str": "46143892",
+				"name": "Southampton FC",
+				"screen_name": "SouthamptonFC",
+				"location": "St Mary's Stadium, Southampton",
+				"description": "Southampton Football Club's official Twitter account. Follow us for breaking news, in-game coverage and behind-the-scenes updates. Official hashtag: #SaintsFC",
+				"url": "https://t.co/Q04oATe2PV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q04oATe2PV",
+								"expanded_url": "http://www.southamptonfc.com",
+								"display_url": "southamptonfc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1204098,
+				"friends_count": 260,
+				"listed_count": 4859,
+				"created_at": "Wed Jun 10 15:52:04 +0000 2009",
+				"favourites_count": 11469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91006,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204069716874219520/505f04uG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204069716874219520/505f04uG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46143892/1589876612",
+				"profile_link_color": "B50B0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 275,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Redmond 🙌🏻 https://t.co/9cbA5ZGIxV"
+	},
+	{
+		"created_at": "Fri Jun 19 15:16:59 +0000 2020",
+		"id": 1273998217177374700,
+		"id_str": "1273998217177374731",
+		"full_text": "Good info about @EmoryUniversity history in here 👇🏻 #Juneteenth https://t.co/rdOQCOvowg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Juneteenth",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmoryUniversity",
+					"name": "Emory University",
+					"id": 16438655,
+					"id_str": "16438655",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rdOQCOvowg",
+					"expanded_url": "https://twitter.com/EmoryRoseMARBL/status/1273996666249543681",
+					"display_url": "twitter.com/EmoryRoseMARBL…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 896,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1273996666249543700,
+		"quoted_status_id_str": "1273996666249543681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rdOQCOvowg",
+			"expanded": "https://twitter.com/EmoryRoseMARBL/status/1273996666249543681",
+			"display": "twitter.com/EmoryRoseMARBL…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 15:10:49 +0000 2020",
+			"id": 1273996666249543700,
+			"id_str": "1273996666249543681",
+			"full_text": "What is Juneteenth and Why Didn’t I know About it Sooner?! https://t.co/uqfwnzh4po via @EmoryNews",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmoryNews",
+						"name": "Emory University News",
+						"id": 17963144,
+						"id_str": "17963144",
+						"indices": [
+							87,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uqfwnzh4po",
+						"expanded_url": "https://scholarblogs.emory.edu/lits/2020/06/19/what-is-juneteenth-and-why-didnt-i-know-about-it-sooner/",
+						"display_url": "scholarblogs.emory.edu/lits/2020/06/1…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2979785051,
+				"id_str": "2979785051",
+				"name": "Rose Library Emory",
+				"screen_name": "EmoryRoseMARBL",
+				"location": "Atlanta, GA",
+				"description": "Stuart A. Rose Manuscript, Archives, and Rare Book Library",
+				"url": "http://t.co/tROo8YcJcB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tROo8YcJcB",
+								"expanded_url": "http://rose.library.emory.edu/",
+								"display_url": "rose.library.emory.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1030,
+				"friends_count": 251,
+				"listed_count": 24,
+				"created_at": "Thu Jan 15 13:58:49 +0000 2015",
+				"favourites_count": 1055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1501,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555766102718832640/86Gr1wSI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2979785051/1442582260",
+				"profile_link_color": "00267F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7142eb97ae21e839",
+				"url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+				"place_type": "admin",
+				"name": "Georgia",
+				"full_name": "Georgia, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-85.605166,
+								30.355644
+							],
+							[
+								-80.742567,
+								30.355644
+							],
+							[
+								-80.742567,
+								35.000771
+							],
+							[
+								-85.605166,
+								35.000771
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good info about @EmoryUniversity history in here 👇🏻 #Juneteenth https://t.co/rdOQCOvowg"
+	},
+	{
+		"created_at": "Fri Jun 19 12:57:35 +0000 2020",
+		"id": 1273963134940852200,
+		"id_str": "1273963134940852230",
+		"full_text": "@SouthamptonFC @eToro Atlanta, GA! 🔴🇺🇸⚪",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SouthamptonFC",
+					"name": "Southampton FC",
+					"id": 46143892,
+					"id_str": "46143892",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "eToro",
+					"name": "eToro",
+					"id": 23420231,
+					"id_str": "23420231",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1273888497883967500,
+		"in_reply_to_status_id_str": "1273888497883967489",
+		"in_reply_to_user_id": 46143892,
+		"in_reply_to_user_id_str": "46143892",
+		"in_reply_to_screen_name": "SouthamptonFC",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 689,
+			"friends_count": 896,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "lt",
+		"text": "@SouthamptonFC @eToro Atlanta, GA! 🔴🇺🇸⚪"
+	},
+	{
 		"created_at": "Thu Jun 18 17:46:22 +0000 2020",
 		"id": 1273673421906415600,
 		"id_str": "1273673421906415617",
