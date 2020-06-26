@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 00:03:34 +0000 2020",
+		"id": 1276305064831918000,
+		"id_str": "1276305064831918081",
+		"full_text": "LOUD FOR THE FOLKS IN THE BACK https://t.co/hSVicI1xvF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSVicI1xvF",
+					"expanded_url": "https://twitter.com/ASlavitt/status/1276303870214369281",
+					"display_url": "twitter.com/ASlavitt/statu…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 895,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276303870214369300,
+		"quoted_status_id_str": "1276303870214369281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hSVicI1xvF",
+			"expanded": "https://twitter.com/ASlavitt/status/1276303870214369281",
+			"display": "twitter.com/ASlavitt/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 23:58:49 +0000 2020",
+			"id": 1276303870214369300,
+			"id_str": "1276303870214369281",
+			"full_text": "HEY GEORGIA: You’re a COVID hot spot with 55% case growth in the last 2 weeks.\n\nDonald Trump filed papers to take coverage from 552,000 Georgians today by repealing the ACA. https://t.co/OrB8EYWeru",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1276303864350687200,
+						"id_str": "1276303864350687232",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbZXmjwUwAAT73-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbZXmjwUwAAT73-.jpg",
+						"url": "https://t.co/OrB8EYWeru",
+						"display_url": "pic.twitter.com/OrB8EYWeru",
+						"expanded_url": "https://twitter.com/ASlavitt/status/1276303870214369281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1276303864350687200,
+						"id_str": "1276303864350687232",
+						"indices": [
+							174,
+							197
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbZXmjwUwAAT73-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbZXmjwUwAAT73-.jpg",
+						"url": "https://t.co/OrB8EYWeru",
+						"display_url": "pic.twitter.com/OrB8EYWeru",
+						"expanded_url": "https://twitter.com/ASlavitt/status/1276303870214369281/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EbZXmjwUwAAT73-.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1383272101,
+				"id_str": "1383272101",
+				"name": "Andy Slavitt @ 🏡",
+				"screen_name": "ASlavitt",
+				"location": "Edina, MN",
+				"description": "Ex-Obama health care head. Helper. Host podcast #IntheBubble. Listen: https://t.co/y5mdw9QCHw. Founded @usofcare & @townhallvntrs. Insta: @andyslavitt.",
+				"url": "https://t.co/iPF82cS0sr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iPF82cS0sr",
+								"expanded_url": "http://www.unitedstatesofcare.org",
+								"display_url": "unitedstatesofcare.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/y5mdw9QCHw",
+								"expanded_url": "http://smarturl.it/inthebubble",
+								"display_url": "smarturl.it/inthebubble",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 483813,
+				"friends_count": 901,
+				"listed_count": 5545,
+				"created_at": "Sat Apr 27 01:21:12 +0000 2013",
+				"favourites_count": 31852,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 33838,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241520502931406850/7bUZ7eRP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241520502931406850/7bUZ7eRP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1383272101/1584321722",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 542,
+			"favorite_count": 931,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOUD FOR THE FOLKS IN THE BACK https://t.co/hSVicI1xvF"
+	},
+	{
+		"created_at": "Thu Jun 25 21:45:21 +0000 2020",
+		"id": 1276269893105660000,
+		"id_str": "1276270278771904514",
+		"full_text": "Congrats to Liverpool on winning the Supporters Shield",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25841210,
+			"id_str": "25841210",
+			"name": "Adam Whittaker Snavely",
+			"screen_name": "Snaves",
+			"location": "Virginia, USA",
+			"description": "Soccer Weirdo. Byline: @TheAthleticSCCR, @DotEsports, @StarsStripesFC. 1/2 of @DeadBallPod. Mercuutio in video game land.",
+			"url": "https://t.co/dYxSaw3Awq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dYxSaw3Awq",
+							"expanded_url": "https://snavely.substack.com/",
+							"display_url": "snavely.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2652,
+			"friends_count": 520,
+			"listed_count": 129,
+			"created_at": "Sun Mar 22 16:47:53 +0000 2009",
+			"favourites_count": 19116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079929442674327552/S1IFoxTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079929442674327552/S1IFoxTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25841210/1571981382",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 103,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Congrats to Liverpool on winning the Supporters Shield"
+	},
+	{
+		"created_at": "Thu Jun 25 21:19:04 +0000 2020",
+		"id": 1276262622325813200,
+		"id_str": "1276263665478533120",
+		"full_text": "Congratulations to Sadio Mane.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19070594,
+			"id_str": "19070594",
+			"name": "Ben Stanfield",
+			"screen_name": "BenStanners",
+			"location": "Livingston, Scotland",
+			"description": "Southampton lad. #SaintsFC opinionator. Owner/Host of dedicated @totalsaintspod. @LiviFCOfficial ROAR contributor. Proud Husband and Daddy. All views my own.",
+			"url": "https://t.co/PCnLb086ct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PCnLb086ct",
+							"expanded_url": "https://m.soundcloud.com/user-624988137",
+							"display_url": "m.soundcloud.com/user-624988137",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4100,
+			"friends_count": 1318,
+			"listed_count": 64,
+			"created_at": "Fri Jan 16 15:22:31 +0000 2009",
+			"favourites_count": 21699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A0A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126945097881403395/aVEjg1Fs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126945097881403395/aVEjg1Fs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19070594/1563378256",
+			"profile_link_color": "1111D6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8ABEEB",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Congratulations to Sadio Mane."
+	},
+	{
+		"created_at": "Thu Jun 25 16:52:42 +0000 2020",
+		"id": 1276196633294897200,
+		"id_str": "1276196633294897152",
+		"full_text": "@NBCSportsSoccer @peacockTV @NBCSN #BURWAT over #SOUARS? I'm used to having to watch #SaintsFC on Gold but not when we play teams like Arsenal 🤬",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BURWAT",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "SOUARS",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "SaintsFC",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NBCSportsSoccer",
+					"name": "#MyPLSummer",
+					"id": 518715968,
+					"id_str": "518715968",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "peacockTV",
+					"name": "Peacock",
+					"id": 1171155332917321700,
+					"id_str": "1171155332917321730",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "NBCSN",
+					"name": "NBCSN",
+					"id": 17866834,
+					"id_str": "17866834",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1276193617330286600,
+		"in_reply_to_status_id_str": "1276193617330286596",
+		"in_reply_to_user_id": 518715968,
+		"in_reply_to_user_id_str": "518715968",
+		"in_reply_to_screen_name": "NBCSportsSoccer",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 895,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NBCSportsSoccer @peacockTV @NBCSN #BURWAT over #SOUARS? I'm used to having to watch #SaintsFC on Gold but not when we play teams like Arsenal 🤬"
+	},
+	{
+		"created_at": "Thu Jun 25 16:25:25 +0000 2020",
+		"id": 1276189767298924500,
+		"id_str": "1276189767298924544",
+		"full_text": "@EllyDeutchMoody Me me me me! 🙋🏻‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EllyDeutchMoody",
+					"name": "Elly Deutch Moody",
+					"id": 15922940,
+					"id_str": "15922940",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1276184381531578400,
+		"in_reply_to_status_id_str": "1276184381531578370",
+		"in_reply_to_user_id": 15922940,
+		"in_reply_to_user_id_str": "15922940",
+		"in_reply_to_screen_name": "EllyDeutchMoody",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out   •   golden puffs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 895,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EllyDeutchMoody Me me me me! 🙋🏻‍♂️"
+	},
+	{
 		"created_at": "Sat Jun 20 12:52:49 +0000 2020",
 		"id": 1274324322774065200,
 		"id_str": "1274324322774065153",
