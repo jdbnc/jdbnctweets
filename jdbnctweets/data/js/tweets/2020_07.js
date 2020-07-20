@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 13:12:29 +0000 2020",
+		"id": 1284838521665093600,
+		"id_str": "1284838521665093633",
+		"full_text": "We already knew this, but Kemp is trash. https://t.co/69gs0ikMgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/69gs0ikMgT",
+					"expanded_url": "https://twitter.com/KeishaBottoms/status/1284836124821729281",
+					"display_url": "twitter.com/KeishaBottoms/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •  my inner soundtrack is just buy out",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 904,
+			"listed_count": 31,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1581071742",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284836124821729300,
+		"quoted_status_id_str": "1284836124821729281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/69gs0ikMgT",
+			"expanded": "https://twitter.com/KeishaBottoms/status/1284836124821729281",
+			"display": "twitter.com/KeishaBottoms/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 19 13:02:57 +0000 2020",
+			"id": 1284836124821729300,
+			"id_str": "1284836124821729281",
+			"full_text": "In addition to being sued over a mask mandate and voluntary advisory guidelines on COVID-19, @GovKemp has asked for an emergency injunction to “restrain” me from issuing press statements and speaking to the press. Far more have sacrificed too much more for me to be silent. https://t.co/gWlnZlCtoR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GovKemp",
+						"name": "Governor Brian P. Kemp",
+						"id": 1064659902071808000,
+						"id_str": "1064659902071808000",
+						"indices": [
+							93,
+							101
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1284836114969362400,
+						"id_str": "1284836114969362432",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EdSno6NXgAAuSwm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdSno6NXgAAuSwm.jpg",
+						"url": "https://t.co/gWlnZlCtoR",
+						"display_url": "pic.twitter.com/gWlnZlCtoR",
+						"expanded_url": "https://twitter.com/KeishaBottoms/status/1284836124821729281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1836,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1284836114969362400,
+						"id_str": "1284836114969362432",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EdSno6NXgAAuSwm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdSno6NXgAAuSwm.jpg",
+						"url": "https://t.co/gWlnZlCtoR",
+						"display_url": "pic.twitter.com/gWlnZlCtoR",
+						"expanded_url": "https://twitter.com/KeishaBottoms/status/1284836124821729281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 610,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1836,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 305818748,
+				"id_str": "305818748",
+				"name": "Keisha Lance Bottoms",
+				"screen_name": "KeishaBottoms",
+				"location": "Atlanta, GA",
+				"description": "60th Mayor of Atlanta | Wife & Mommie",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 269747,
+				"friends_count": 854,
+				"listed_count": 828,
+				"created_at": "Thu May 26 20:57:38 +0000 2011",
+				"favourites_count": 5216,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3792,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1136269284869582848/8p5NFuQh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136269284869582848/8p5NFuQh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/305818748/1559742608",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35280,
+			"favorite_count": 105804,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We already knew this, but Kemp is trash. https://t.co/69gs0ikMgT"
+	},
+	{
 		"created_at": "Sun Jul 19 01:33:25 +0000 2020",
 		"id": 1284662597187506200,
 		"id_str": "1284662597187506176",
