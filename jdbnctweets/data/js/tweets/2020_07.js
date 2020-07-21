@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 18:20:55 +0000 2020",
+		"id": 1285278438014812200,
+		"id_str": "1285278531010867200",
+		"full_text": "@NikemaWilliams Nikema Williams is about to be formally tapped as the Democratic nominee to replace Rep. John Lewis on Georgia's November ballot. #gapol",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gapol",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NikemaWilliams",
+					"name": "Senator Nikema Williams",
+					"id": 36424664,
+					"id_str": "36424664",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1285277300989321200,
+		"in_reply_to_status_id_str": "1285277300989321219",
+		"in_reply_to_user_id": 16563015,
+		"in_reply_to_user_id_str": "16563015",
+		"in_reply_to_screen_name": "bluestein",
+		"user": {
+			"id": 16563015,
+			"id_str": "16563015",
+			"name": "Greg Bluestein",
+			"screen_name": "bluestein",
+			"location": "ATL",
+			"description": "@AJC political reporter. Husband, father, aspiring mensch. Atlanta native trying to tell my city's story. 🎧 @politicallyga & @politicsgpb 📧 gbluestein@ajc.com",
+			"url": "https://t.co/GpctsyppXF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GpctsyppXF",
+							"expanded_url": "http://bit.ly/2i3Dsyn",
+							"display_url": "bit.ly/2i3Dsyn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31977,
+			"friends_count": 949,
+			"listed_count": 863,
+			"created_at": "Thu Oct 02 17:50:51 +0000 2008",
+			"favourites_count": 15390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856710433100754949/u6qeh8sO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856710433100754949/u6qeh8sO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16563015/1586997521",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@NikemaWilliams Nikema Williams is about to be formally tapped as the Democratic nominee to replace Rep. John Lewis on Georgia's November ballot. #gapol"
+	},
+	{
 		"created_at": "Sun Jul 19 13:12:29 +0000 2020",
 		"id": 1284838521665093600,
 		"id_str": "1284838521665093633",
