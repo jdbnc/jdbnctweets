@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 21:57:09 +0000 2020",
+		"id": 1288082190035804200,
+		"id_str": "1288232049292320770",
+		"full_text": "what’s happening to the USPS is a voter suppression tactic \nwhat’s happening to the USPS is a voter suppression tactic\nwhat’s happening to the USPS is a voter suppression tactic\nwhat’s happening to the USPS is a voter suppression tactic\nwhat’s happening to the USPS is a voter sup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157821986,
+			"id_str": "157821986",
+			"name": "a.d. stevens",
+			"screen_name": "k_bubbs",
+			"location": "ATL / unceded Muscogee land",
+			"description": "archivist-chaos librarian | writer | author https://t.co/kmmOd4F1Q1 | #ArchivesAreNotNeutral | southern eccentric | chaotic good | she/her/hers",
+			"url": "https://t.co/iH7WNTZmE0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iH7WNTZmE0",
+							"expanded_url": "http://ashleydstevens.com",
+							"display_url": "ashleydstevens.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kmmOd4F1Q1",
+							"expanded_url": "http://amzn.to/2lFCOfx",
+							"display_url": "amzn.to/2lFCOfx",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3339,
+			"friends_count": 1658,
+			"listed_count": 89,
+			"created_at": "Mon Jun 21 00:37:17 +0000 2010",
+			"favourites_count": 28784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264388110043013122/ncSIZUaV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264388110043013122/ncSIZUaV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157821986/1587743969",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 300,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "what’s happening to the USPS is a voter suppression tactic \nwhat’s happening to the USPS is a voter suppression tactic\nwhat’s happening to the USPS is a voter suppression tactic\nwhat’s happening to the USPS is a voter suppression tactic\nwhat’s happening to the USPS is a voter sup"
+	},
+	{
 		"created_at": "Mon Jul 27 17:44:46 +0000 2020",
 		"id": 1287806149572677600,
 		"id_str": "1287806149572677632",
