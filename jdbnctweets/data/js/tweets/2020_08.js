@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 22:06:40 +0000 2020",
+		"id": 1293307874949636000,
+		"id_str": "1293307874949636101",
+		"full_text": "#abrams2022 https://t.co/CaoWCcgTAe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "abrams2022",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CaoWCcgTAe",
+					"expanded_url": "https://twitter.com/bluestein/status/1293295981954502662",
+					"display_url": "twitter.com/bluestein/stat…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04  •  my inner soundtrack is just buy out",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 692,
+			"friends_count": 911,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 3959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293295981954502700,
+		"quoted_status_id_str": "1293295981954502662",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CaoWCcgTAe",
+			"expanded": "https://twitter.com/bluestein/status/1293295981954502662",
+			"display": "twitter.com/bluestein/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 21:19:25 +0000 2020",
+			"id": 1293295981954502700,
+			"id_str": "1293295981954502662",
+			"full_text": "The 2022 race for Georgia governor got off to an unofficial start Tuesday with the news that Stacey Abrams would not be Joe Biden’s pick to be his running-mate. #gapol  https://t.co/IKHap43eWH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gapol",
+						"indices": [
+							161,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IKHap43eWH",
+						"expanded_url": "https://ajc.com/politics/politics-blog/bypassed-by-biden-abrams-likely-to-focus-on-2022-rematch-against-kemp/TZHSGYEY7ZCZZPSJSYUK2ME67A/",
+						"display_url": "ajc.com/politics/polit…",
+						"indices": [
+							169,
+							192
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16563015,
+				"id_str": "16563015",
+				"name": "Greg Bluestein",
+				"screen_name": "bluestein",
+				"location": "ATL",
+				"description": "@AJC political reporter. Husband, father, aspiring mensch. Atlanta native trying to tell my city's story. 🎧 @politicallyga & @politicsgpb 📧 gbluestein@ajc.com",
+				"url": "https://t.co/GpctsyppXF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GpctsyppXF",
+								"expanded_url": "http://bit.ly/2i3Dsyn",
+								"display_url": "bit.ly/2i3Dsyn",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32594,
+				"friends_count": 950,
+				"listed_count": 863,
+				"created_at": "Thu Oct 02 17:50:51 +0000 2008",
+				"favourites_count": 15581,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40892,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856710433100754949/u6qeh8sO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856710433100754949/u6qeh8sO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16563015/1586997521",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 239,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#abrams2022 https://t.co/CaoWCcgTAe"
+	},
+	{
 		"created_at": "Mon Aug 10 18:41:01 +0000 2020",
 		"id": 1292893733025980400,
 		"id_str": "1292893733025980419",
