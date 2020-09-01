@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 31 23:05:10 +0000 2020",
+		"id": 1300570354549694500,
+		"id_str": "1300570354549694472",
+		"full_text": "@NBCSportsPR @NBCSports @premierleague @FulhamFC @LUFC @WBA @MenInBlazers @LFC @warriors @SteveKerr @NBCSportsSoccer @peacockTV @rogbennett @embassydavies @robbiemustoe @NBCUniversal @USA_Network When is @NBC going to get it’s act together so I can watch Peacock on my @Roku?",
+		"truncated": false,
+		"display_text_range": [
+			196,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NBCSportsPR",
+					"name": "NBC Sports PR",
+					"id": 112477030,
+					"id_str": "112477030",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NBCSports",
+					"name": "NBC Sports",
+					"id": 11856342,
+					"id_str": "11856342",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "premierleague",
+					"name": "Premier League",
+					"id": 343627165,
+					"id_str": "343627165",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "FulhamFC",
+					"name": "Fulham Football Club",
+					"id": 22903812,
+					"id_str": "22903812",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"screen_name": "LUFC",
+					"name": "Leeds United",
+					"id": 1024095475,
+					"id_str": "1024095475",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"screen_name": "WBA",
+					"name": "West Bromwich Albion",
+					"id": 280412626,
+					"id_str": "280412626",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"screen_name": "MenInBlazers",
+					"name": "Men in Blazers",
+					"id": 365603329,
+					"id_str": "365603329",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"screen_name": "LFC",
+					"name": "Liverpool FC",
+					"id": 19583545,
+					"id_str": "19583545",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"screen_name": "warriors",
+					"name": "Golden State Warriors",
+					"id": 26270913,
+					"id_str": "26270913",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"screen_name": "SteveKerr",
+					"name": "Steve Kerr",
+					"id": 27529312,
+					"id_str": "27529312",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"screen_name": "NBCSportsSoccer",
+					"name": "NBC Sports Soccer",
+					"id": 518715968,
+					"id_str": "518715968",
+					"indices": [
+						100,
+						116
+					]
+				},
+				{
+					"screen_name": "peacockTV",
+					"name": "Peacock",
+					"id": 1171155332917321700,
+					"id_str": "1171155332917321730",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "rogbennett",
+					"name": "roger bennett",
+					"id": 116947296,
+					"id_str": "116947296",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "embassydavies",
+					"name": "Michael Davies",
+					"id": 109634799,
+					"id_str": "109634799",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"screen_name": "robbiemustoe",
+					"name": "Robbie Mustoe",
+					"id": 17747287,
+					"id_str": "17747287",
+					"indices": [
+						155,
+						168
+					]
+				},
+				{
+					"screen_name": "NBCUniversal",
+					"name": "NBCUniversal",
+					"id": 93673287,
+					"id_str": "93673287",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "USA_Network",
+					"name": "USA Network",
+					"id": 19777078,
+					"id_str": "19777078",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"screen_name": "nbc",
+					"name": "NBC Entertainment",
+					"id": 26585095,
+					"id_str": "26585095",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"screen_name": "Roku",
+					"name": "Roku",
+					"id": 20282100,
+					"id_str": "20282100",
+					"indices": [
+						269,
+						274
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1300542451216720000,
+		"in_reply_to_status_id_str": "1300542451216719886",
+		"in_reply_to_user_id": 112477030,
+		"in_reply_to_user_id_str": "112477030",
+		"in_reply_to_screen_name": "NBCSportsPR",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04  •  my inner soundtrack is just buy out",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 917,
+			"listed_count": 30,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NBCSportsPR @NBCSports @premierleague @FulhamFC @LUFC @WBA @MenInBlazers @LFC @warriors @SteveKerr @NBCSportsSoccer @peacockTV @rogbennett @embassydavies @robbiemustoe @NBCUniversal @USA_Network When is @NBC going to get it’s act together so I can watch Peacock on my @Roku?"
+	},
+	{
 		"created_at": "Wed Aug 26 14:56:29 +0000 2020",
 		"id": 1298635432046006300,
 		"id_str": "1298635432046006273",
