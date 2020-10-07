@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 13:01:09 +0000 2020",
+		"id": 1313228140811083800,
+		"id_str": "1313464312078499840",
+		"full_text": "What a cruel thing to tweet for all the families who lost loved ones. Whew, Georgia. What an evil lady in your midst. https://t.co/xiwc54pale",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiwc54pale",
+					"expanded_url": "https://twitter.com/kloeffler/status/1313201217309417478",
+					"display_url": "twitter.com/kloeffler/stat…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26548315,
+			"id_str": "26548315",
+			"name": "Soledad O'Brien",
+			"screen_name": "soledadobrien",
+			"location": " New York",
+			"description": "working mom",
+			"url": "https://t.co/bpjy55iFNE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bpjy55iFNE",
+							"expanded_url": "http://www.soledadobrienproductions.com",
+							"display_url": "soledadobrienproductions.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1314325,
+			"friends_count": 441682,
+			"listed_count": 10686,
+			"created_at": "Wed Mar 25 17:50:59 +0000 2009",
+			"favourites_count": 16547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 98842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080E1C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309097471122046976/4nGIGqeC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309097471122046976/4nGIGqeC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26548315/1600948134",
+			"profile_link_color": "092B9C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D0DBDB",
+			"profile_text_color": "0A010A",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313201217309417500,
+		"quoted_status_id_str": "1313201217309417478",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xiwc54pale",
+			"expanded": "https://twitter.com/kloeffler/status/1313201217309417478",
+			"display": "twitter.com/kloeffler/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 19:35:42 +0000 2020",
+			"id": 1313201217309417500,
+			"id_str": "1313201217309417478",
+			"full_text": "COVID stood NO chance against @realDonaldTrump! https://t.co/GtNPOHkDqF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							30,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313200959384965000,
+						"id_str": "1313200959384965122",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1313200959384965122/img/aAOUGElT_493rqyH.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1313200959384965122/img/aAOUGElT_493rqyH.jpg",
+						"url": "https://t.co/GtNPOHkDqF",
+						"display_url": "pic.twitter.com/GtNPOHkDqF",
+						"expanded_url": "https://twitter.com/KLoeffler/status/1313201217309417478/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 978,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 978,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 501,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313200959384965000,
+						"id_str": "1313200959384965122",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1313200959384965122/img/aAOUGElT_493rqyH.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1313200959384965122/img/aAOUGElT_493rqyH.jpg",
+						"url": "https://t.co/GtNPOHkDqF",
+						"display_url": "pic.twitter.com/GtNPOHkDqF",
+						"expanded_url": "https://twitter.com/KLoeffler/status/1313201217309417478/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 978,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 978,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 501,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								163,
+								120
+							],
+							"duration_millis": 9977,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1313200959384965122/vid/488x360/4TTUKcayOLSRzWpb.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1313200959384965122/vid/978x720/Q1TsbJQRxVHZ6mLR.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1313200959384965122/vid/366x270/j-6SvCXPI9FXR9MD.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1313200959384965122/pl/ERztmO1DrkkNVKRE.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29495695,
+				"id_str": "29495695",
+				"name": "Kelly Loeffler",
+				"screen_name": "KLoeffler",
+				"location": "Atlanta, GA",
+				"description": "Conservative businesswoman, political outsider, and U.S. Senator (R-GA)",
+				"url": "https://t.co/A6sdL6rrUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A6sdL6rrUb",
+								"expanded_url": "http://www.KellyforSenate.com",
+								"display_url": "KellyforSenate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31567,
+				"friends_count": 537,
+				"listed_count": 428,
+				"created_at": "Tue Apr 07 17:28:52 +0000 2009",
+				"favourites_count": 213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1850,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1299712076798218241/LyyQmR7J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299712076798218241/LyyQmR7J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29495695/1575477146",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23007,
+			"favorite_count": 73955,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7793,
+		"favorite_count": 53417,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a cruel thing to tweet for all the families who lost loved ones. Whew, Georgia. What an evil lady in your midst. https://t.co/xiwc54pale"
+	},
+	{
 		"created_at": "Mon Oct 05 20:44:34 +0000 2020",
 		"id": 1313218546088980500,
 		"id_str": "1313218546088980484",
