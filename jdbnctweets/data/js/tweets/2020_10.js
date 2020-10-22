@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 02:42:47 +0000 2020",
+		"id": 1319024892956856300,
+		"id_str": "1319106899481141249",
+		"full_text": "Atlanta, GA: Digital Preservation Archivist, Georgia State University https://t.co/0BNeGHh56D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0BNeGHh56D",
+					"expanded_url": "http://archivesgig.com/2020/10/21/atlanta-ga-digital-preservation-archivist-georgia-state-university/",
+					"display_url": "archivesgig.com/2020/10/21/atl…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142336259,
+			"id_str": "142336259",
+			"name": "Archives Gig",
+			"screen_name": "archivesgig",
+			"location": "Madison, Wisconsin",
+			"description": "Archives, records management, and similarly-flavored jobs and internships, administered by Meredith Lowe (she/her).  Personal Twitter account @meredithclowe",
+			"url": "https://t.co/ejOK3EQ3Wk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ejOK3EQ3Wk",
+							"expanded_url": "http://archivesgig.com",
+							"display_url": "archivesgig.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4942,
+			"friends_count": 3142,
+			"listed_count": 164,
+			"created_at": "Mon May 10 16:19:53 +0000 2010",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530788285505757184/IRMIcUFV_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142336259/1480959578",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "Atlanta, GA: Digital Preservation Archivist, Georgia State University https://t.co/0BNeGHh56D"
+	},
+	{
 		"created_at": "Mon Oct 12 21:29:01 +0000 2020",
 		"id": 1315766446396498000,
 		"id_str": "1315766446396497920",
