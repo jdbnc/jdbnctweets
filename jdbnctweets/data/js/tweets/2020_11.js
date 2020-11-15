@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 23:13:11 +0000 2020",
+		"id": 1327352307202347000,
+		"id_str": "1327389072910934018",
+		"full_text": "It's been two years since I was arrested at the State Capitol demanding every vote be counted. #GoodTrouble \n\nHow it started:          How it's going: https://t.co/bEcNoAyyCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodTrouble",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327352302714413000,
+					"id_str": "1327352302714413056",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Emuz4v8W4AAsoRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emuz4v8W4AAsoRL.jpg",
+					"url": "https://t.co/bEcNoAyyCQ",
+					"display_url": "pic.twitter.com/bEcNoAyyCQ",
+					"expanded_url": "https://twitter.com/NikemaWilliams/status/1327352307202347008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327352302714413000,
+					"id_str": "1327352302714413056",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Emuz4v8W4AAsoRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emuz4v8W4AAsoRL.jpg",
+					"url": "https://t.co/bEcNoAyyCQ",
+					"display_url": "pic.twitter.com/bEcNoAyyCQ",
+					"expanded_url": "https://twitter.com/NikemaWilliams/status/1327352307202347008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36424664,
+			"id_str": "36424664",
+			"name": "Senator Nikema Williams",
+			"screen_name": "NikemaWilliams",
+			"location": "Atlanta, GA",
+			"description": "Congresswoman Elect– #GA05. Mommy to Carter. Wifey to @Smalls58. GA State Senator. Chairwoman @GeorgiaDemocrat. #HBCUmade @talladegacollege. She/Her/Hers",
+			"url": "https://t.co/5KYfANqkaI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5KYfANqkaI",
+							"expanded_url": "https://secure.actblue.com/donate/nikemaforcongress",
+							"display_url": "secure.actblue.com/donate/nikemaf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26608,
+			"friends_count": 588,
+			"listed_count": 256,
+			"created_at": "Wed Apr 29 17:56:53 +0000 2009",
+			"favourites_count": 4204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294047048547930112/HUG0mESR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294047048547930112/HUG0mESR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36424664/1596720748",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2024,
+		"favorite_count": 21714,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been two years since I was arrested at the State Capitol demanding every vote be counted. #GoodTrouble \n\nHow it started:          How it's going: https://t.co/bEcNoAyyCQ"
+	},
+	{
 		"created_at": "Thu Nov 12 00:56:25 +0000 2020",
 		"id": 1326667783929798700,
 		"id_str": "1326690275822014467",
