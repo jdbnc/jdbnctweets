@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 18:07:31 +0000 2020",
+		"id": 1337459012099580000,
+		"id_str": "1337459012099579906",
+		"full_text": "You got me @staceyabrams and @levarburton. Hook, line, and sinker. https://t.co/1xbqsHqSlX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "staceyabrams",
+					"name": "Stacey Abrams",
+					"id": 216065430,
+					"id_str": "216065430",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "levarburton",
+					"name": "LeVar Burton",
+					"id": 18396070,
+					"id_str": "18396070",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337459005464195000,
+					"id_str": "1337459005464195075",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-b4RpXMAMnoZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-b4RpXMAMnoZR.jpg",
+					"url": "https://t.co/1xbqsHqSlX",
+					"display_url": "pic.twitter.com/1xbqsHqSlX",
+					"expanded_url": "https://twitter.com/jdbence/status/1337459012099579906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 743,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337459005464195000,
+					"id_str": "1337459005464195075",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-b4RpXMAMnoZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-b4RpXMAMnoZR.jpg",
+					"url": "https://t.co/1xbqsHqSlX",
+					"display_url": "pic.twitter.com/1xbqsHqSlX",
+					"expanded_url": "https://twitter.com/jdbence/status/1337459012099579906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 743,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 743,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337459005199888400,
+					"id_str": "1337459005199888393",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-b4QqWMAkcms3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-b4QqWMAkcms3.jpg",
+					"url": "https://t.co/1xbqsHqSlX",
+					"display_url": "pic.twitter.com/1xbqsHqSlX",
+					"expanded_url": "https://twitter.com/jdbence/status/1337459012099579906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 717,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04  •   my inner soundtrack is just buyout on repeat",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 706,
+			"friends_count": 940,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You got me @staceyabrams and @levarburton. Hook, line, and sinker. https://t.co/1xbqsHqSlX"
+	},
+	{
 		"created_at": "Wed Dec 02 17:57:34 +0000 2020",
 		"id": 1334195015015424000,
 		"id_str": "1334195015015424002",
