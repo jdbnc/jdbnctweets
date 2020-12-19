@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 01:26:40 +0000 2020",
+		"id": 1340106241419464700,
+		"id_str": "1340106241419464705",
+		"full_text": "@MarylandMav @JRizS0M @cbenjaminrucker @kathrynchiasson @NearlySoExalted I think it was my 23rd birthday and @JRizS0M and @NearlySoExalted carried me home. Pretty sure I sang feliz cumpleanos to myself on the Metro 🥳🥴",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarylandMav",
+					"name": "Mav is 35 Today",
+					"id": 145768216,
+					"id_str": "145768216",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "JRizS0M",
+					"name": "Petty C. Powell",
+					"id": 415080807,
+					"id_str": "415080807",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "cbenjaminrucker",
+					"name": "cbr™️",
+					"id": 119787940,
+					"id_str": "119787940",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "kathrynchiasson",
+					"name": "Kathryn Chiasson",
+					"id": 281175644,
+					"id_str": "281175644",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"screen_name": "NearlySoExalted",
+					"name": "Alex",
+					"id": 496406962,
+					"id_str": "496406962",
+					"indices": [
+						56,
+						72
+					]
+				},
+				{
+					"screen_name": "JRizS0M",
+					"name": "Petty C. Powell",
+					"id": 415080807,
+					"id_str": "415080807",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"screen_name": "NearlySoExalted",
+					"name": "Alex",
+					"id": 496406962,
+					"id_str": "496406962",
+					"indices": [
+						122,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1340103846937374700,
+		"in_reply_to_status_id_str": "1340103846937374722",
+		"in_reply_to_user_id": 145768216,
+		"in_reply_to_user_id_str": "145768216",
+		"in_reply_to_screen_name": "MarylandMav",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04  •   my inner soundtrack is just buyout on repeat",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 705,
+			"friends_count": 946,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarylandMav @JRizS0M @cbenjaminrucker @kathrynchiasson @NearlySoExalted I think it was my 23rd birthday and @JRizS0M and @NearlySoExalted carried me home. Pretty sure I sang feliz cumpleanos to myself on the Metro 🥳🥴"
+	},
+	{
 		"created_at": "Thu Dec 17 23:47:23 +0000 2020",
 		"id": 1339718866855968800,
 		"id_str": "1339718866855968768",
