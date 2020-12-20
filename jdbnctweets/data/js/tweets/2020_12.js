@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 17:13:44 +0000 2020",
+		"id": 1340344577203581000,
+		"id_str": "1340344577203580928",
+		"full_text": "@mwmiller3471 @theuglyinside @SouthamptonFC @ManCity Got it so when it his leg first, any touch of the arm after that doesn’t matter",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mwmiller3471",
+					"name": "Mike Miller 🐝",
+					"id": 22720665,
+					"id_str": "22720665",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "theuglyinside",
+					"name": "The Ugly Inside",
+					"id": 190555024,
+					"id_str": "190555024",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "SouthamptonFC",
+					"name": "Southampton FC",
+					"id": 46143892,
+					"id_str": "46143892",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "ManCity",
+					"name": "Manchester City",
+					"id": 14573900,
+					"id_str": "14573900",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1340341959475540000,
+		"in_reply_to_status_id_str": "1340341959475539968",
+		"in_reply_to_user_id": 22720665,
+		"in_reply_to_user_id_str": "22720665",
+		"in_reply_to_screen_name": "mwmiller3471",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04  •   my inner soundtrack is just buyout on repeat",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 705,
+			"friends_count": 946,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mwmiller3471 @theuglyinside @SouthamptonFC @ManCity Got it so when it his leg first, any touch of the arm after that doesn’t matter"
+	},
+	{
+		"created_at": "Sat Dec 19 17:01:38 +0000 2020",
+		"id": 1340341532537352200,
+		"id_str": "1340341532537352194",
+		"full_text": "Not sure why I’m not hearing more about this bungled call? What happened here? Woulda made the difference #saintsfc https://t.co/W7XuRomWKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "saintsfc",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340341515990798300,
+					"id_str": "1340341515990798336",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EpnZgeJXEAA1FwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpnZgeJXEAA1FwE.jpg",
+					"url": "https://t.co/W7XuRomWKJ",
+					"display_url": "pic.twitter.com/W7XuRomWKJ",
+					"expanded_url": "https://twitter.com/jdbence/status/1340341532537352194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340341515990798300,
+					"id_str": "1340341515990798336",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EpnZgeJXEAA1FwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpnZgeJXEAA1FwE.jpg",
+					"url": "https://t.co/W7XuRomWKJ",
+					"display_url": "pic.twitter.com/W7XuRomWKJ",
+					"expanded_url": "https://twitter.com/jdbence/status/1340341532537352194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04  •   my inner soundtrack is just buyout on repeat",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 705,
+			"friends_count": 946,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not sure why I’m not hearing more about this bungled call? What happened here? Woulda made the difference #saintsfc https://t.co/W7XuRomWKJ"
+	},
+	{
 		"created_at": "Sat Dec 19 01:26:40 +0000 2020",
 		"id": 1340106241419464700,
 		"id_str": "1340106241419464705",
