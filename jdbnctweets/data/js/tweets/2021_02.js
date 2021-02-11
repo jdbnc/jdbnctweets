@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 19:25:48 +0000 2021",
+		"id": 1359584371674603500,
+		"id_str": "1359584371674603520",
+		"full_text": "So glad to see what expanded access to a digitized Emory publication can lead to! https://t.co/fsTZ4JscEB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fsTZ4JscEB",
+					"expanded_url": "https://twitter.com/emorywheel/status/1359311866766512131",
+					"display_url": "twitter.com/emorywheel/sta…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 709,
+			"friends_count": 982,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359311866766512000,
+		"quoted_status_id_str": "1359311866766512131",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fsTZ4JscEB",
+			"expanded": "https://twitter.com/emorywheel/status/1359311866766512131",
+			"display": "twitter.com/emorywheel/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 01:22:58 +0000 2021",
+			"id": 1359311866766512000,
+			"id_str": "1359311866766512131",
+			"full_text": "Emory College admitted its first Black student 58 years ago, but its integration is ongoing. Tomorrow, in print and online, read “1963,” an investigative project led by the Wheel’s Opinion section. https://t.co/WEZ2Bf5Fz2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1359298423879516200,
+						"id_str": "1359298423879516160",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359298423879516160/pu/img/TilCaQIpsdwGmKDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359298423879516160/pu/img/TilCaQIpsdwGmKDT.jpg",
+						"url": "https://t.co/WEZ2Bf5Fz2",
+						"display_url": "pic.twitter.com/WEZ2Bf5Fz2",
+						"expanded_url": "https://twitter.com/emorywheel/status/1359311866766512131/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1359298423879516200,
+						"id_str": "1359298423879516160",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359298423879516160/pu/img/TilCaQIpsdwGmKDT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359298423879516160/pu/img/TilCaQIpsdwGmKDT.jpg",
+						"url": "https://t.co/WEZ2Bf5Fz2",
+						"display_url": "pic.twitter.com/WEZ2Bf5Fz2",
+						"expanded_url": "https://twitter.com/emorywheel/status/1359311866766512131/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 5000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1359298423879516160/pu/vid/480x480/jG7YWt1z2HAqtQlz.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1359298423879516160/pu/pl/oGl3rCcCqEUdnh1V.m3u8?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1359298423879516160/pu/vid/320x320/pRrbTv0-zZlE8bVu.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1359298423879516160/pu/vid/720x720/bvw6sjHSxkQN4x9R.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26306540,
+				"id_str": "26306540",
+				"name": "The Emory Wheel",
+				"screen_name": "emorywheel",
+				"location": "Emory University, Atlanta, Ga",
+				"description": "Emory University’s only independent news source, student run & written since 1919.",
+				"url": "https://t.co/VSh4EeQoOk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VSh4EeQoOk",
+								"expanded_url": "http://www.emorywheel.com",
+								"display_url": "emorywheel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5859,
+				"friends_count": 132,
+				"listed_count": 178,
+				"created_at": "Tue Mar 24 19:44:08 +0000 2009",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7076,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "275996",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818558078195011584/e3GcMudv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818558078195011584/e3GcMudv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26306540/1599539818",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So glad to see what expanded access to a digitized Emory publication can lead to! https://t.co/fsTZ4JscEB"
+	},
+	{
 		"created_at": "Tue Feb 09 18:59:55 +0000 2021",
 		"id": 1359215468284887000,
 		"id_str": "1359215468284887040",
