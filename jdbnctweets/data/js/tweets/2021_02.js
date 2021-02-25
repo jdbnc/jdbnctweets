@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 24 22:48:47 +0000 2021",
+		"id": 1364708885278376000,
+		"id_str": "1364708885278375938",
+		"full_text": "@ElizabethRRoke No complaints ✌🏻",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElizabethRRoke",
+					"name": "Elizabeth R Roke",
+					"id": 791658171643420700,
+					"id_str": "791658171643420673",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1364708425175818200,
+		"in_reply_to_status_id_str": "1364708425175818243",
+		"in_reply_to_user_id": 791658171643420700,
+		"in_reply_to_user_id_str": "791658171643420673",
+		"in_reply_to_screen_name": "ElizabethRRoke",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 710,
+			"friends_count": 992,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 4818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269236846837587968/FuxvI9Nc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ElizabethRRoke No complaints ✌🏻"
+	},
+	{
 		"created_at": "Thu Feb 11 14:44:37 +0000 2021",
 		"id": 1359875997135470600,
 		"id_str": "1359875997135470595",
