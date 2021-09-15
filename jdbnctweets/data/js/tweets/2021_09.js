@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 03:34:07 +0000 2021",
+		"id": 1437620652161343500,
+		"id_str": "1437620652161343489",
+		"full_text": "A good subtweet https://t.co/kaNPncmLgE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kaNPncmLgE",
+					"expanded_url": "https://twitter.com/mondomascots/status/1437619499558047750",
+					"display_url": "twitter.com/mondomascots/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I'm an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 734,
+			"friends_count": 1042,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 5562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437619499558047700,
+		"quoted_status_id_str": "1437619499558047750",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kaNPncmLgE",
+			"expanded": "https://twitter.com/mondomascots/status/1437619499558047750",
+			"display": "twitter.com/mondomascots/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 14 03:29:33 +0000 2021",
+			"id": 1437619499558047700,
+			"id_str": "1437619499558047750",
+			"full_text": "Takumi Ponzan, the mascot of\nShigaraki town in Shiga Prefecture, Japan, is a ceramics craftsman tanuki (raccoon dog), complete with oversized testicles. https://t.co/oMYU4jnQCg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1437619494331895800,
+						"id_str": "1437619494331895812",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NzUDHUUAQCIit.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NzUDHUUAQCIit.jpg",
+						"url": "https://t.co/oMYU4jnQCg",
+						"display_url": "pic.twitter.com/oMYU4jnQCg",
+						"expanded_url": "https://twitter.com/mondomascots/status/1437619499558047750/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 981,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 981,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437619494331895800,
+						"id_str": "1437619494331895812",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NzUDHUUAQCIit.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NzUDHUUAQCIit.jpg",
+						"url": "https://t.co/oMYU4jnQCg",
+						"display_url": "pic.twitter.com/oMYU4jnQCg",
+						"expanded_url": "https://twitter.com/mondomascots/status/1437619499558047750/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 981,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 981,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1437619494327767000,
+						"id_str": "1437619494327767045",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/E_NzUDGVUAU9NlA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_NzUDGVUAU9NlA.jpg",
+						"url": "https://t.co/oMYU4jnQCg",
+						"display_url": "pic.twitter.com/oMYU4jnQCg",
+						"expanded_url": "https://twitter.com/mondomascots/status/1437619499558047750/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 180,
+								"h": 210,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 180,
+								"h": 210,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 180,
+								"h": 210,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798565807059935200,
+				"id_str": "798565807059935232",
+				"name": "Mondo Mascots",
+				"screen_name": "mondomascots",
+				"location": "Setagaya-ku, Tokyo",
+				"description": "Celebrating the weird, wonderful mascots of Japan. My Instagram: https://t.co/lzuob9XErO . ゆるキャラが大好きなイギリス人です。",
+				"url": "https://t.co/6qXKs6YKOf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6qXKs6YKOf",
+								"expanded_url": "http://mondomascots.com/index.php/sample-page/",
+								"display_url": "mondomascots.com/index.php/samp…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lzuob9XErO",
+								"expanded_url": "https://www.instagram.com/mondomascots/?hl=en",
+								"display_url": "instagram.com/mondomascots/?…",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 164506,
+				"friends_count": 4273,
+				"listed_count": 708,
+				"created_at": "Tue Nov 15 16:38:19 +0000 2016",
+				"favourites_count": 65024,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19752,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121230742535540736/JhsWcXv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121230742535540736/JhsWcXv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798565807059935232/1524305514",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 297,
+			"favorite_count": 1333,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A good subtweet https://t.co/kaNPncmLgE"
+	},
+	{
 		"created_at": "Sun Sep 12 17:57:07 +0000 2021",
 		"id": 1437113057143099400,
 		"id_str": "1437113057143099400",
