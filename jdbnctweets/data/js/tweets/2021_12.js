@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 19:02:59 +0000 2021",
+		"id": 1470083750797230000,
+		"id_str": "1470106925920628737",
+		"full_text": "Accurate https://t.co/SCObu7eHZC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470083747945103400,
+					"id_str": "1470083747945103360",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FGbJYUJXwAAF-0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGbJYUJXwAAF-0k.jpg",
+					"url": "https://t.co/SCObu7eHZC",
+					"display_url": "pic.twitter.com/SCObu7eHZC",
+					"expanded_url": "https://twitter.com/terrinh73/status/1470083750797230081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 473,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470083747945103400,
+					"id_str": "1470083747945103360",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FGbJYUJXwAAF-0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGbJYUJXwAAF-0k.jpg",
+					"url": "https://t.co/SCObu7eHZC",
+					"display_url": "pic.twitter.com/SCObu7eHZC",
+					"expanded_url": "https://twitter.com/terrinh73/status/1470083750797230081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 473,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16515454,
+			"id_str": "16515454",
+			"name": "Terridactyl ⭐️🖤♥️🖤🤍🦡",
+			"screen_name": "terrinh73",
+			"location": "Georgia, USA",
+			"description": "Atlanta United. Footie Mob. Fulham in the South. Gen X. “Smug Girl.” Progressive. Proud member of Angel Action Atlanta since 2013 #killphyll #fila",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 983,
+			"friends_count": 2447,
+			"listed_count": 13,
+			"created_at": "Mon Sep 29 18:25:34 +0000 2008",
+			"favourites_count": 94810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1463366770501296130/weLdD7MM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1463366770501296130/weLdD7MM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16515454/1619927682",
+			"profile_link_color": "483D8B",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 86,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Accurate https://t.co/SCObu7eHZC"
+	},
+	{
 		"created_at": "Sat Dec 11 14:37:37 +0000 2021",
 		"id": 1469677759404421000,
 		"id_str": "1469677759404421130",
