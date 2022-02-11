@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 13:55:12 +0000 2022",
+		"id": 1491772744047988700,
+		"id_str": "1491772744047988738",
+		"full_text": "Just me starting my day by scrolling #saintsfc for replays ☕😆 https://t.co/JfND1LmkbU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "saintsfc",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfND1LmkbU",
+					"expanded_url": "https://twitter.com/SouthamptonFC/status/1491737199980781585",
+					"display_url": "twitter.com/SouthamptonFC/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744,
+			"friends_count": 1074,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 6199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1491737199980781600,
+		"quoted_status_id_str": "1491737199980781585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JfND1LmkbU",
+			"expanded": "https://twitter.com/SouthamptonFC/status/1491737199980781585",
+			"display": "twitter.com/SouthamptonFC/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 10 11:33:58 +0000 2022",
+			"id": 1491737199980781600,
+			"id_str": "1491737199980781585",
+			"full_text": "Rinse and repeat 😏\n\n@Prowsey16 ✨ https://t.co/9OY9A7qVEz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Prowsey16",
+						"name": "James Ward-Prowse",
+						"id": 2690206454,
+						"id_str": "2690206454",
+						"indices": [
+							20,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1491737168561246200,
+						"id_str": "1491737168561246208",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/FLO3D8EXEAIKG3P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLO3D8EXEAIKG3P.jpg",
+						"url": "https://t.co/9OY9A7qVEz",
+						"display_url": "pic.twitter.com/9OY9A7qVEz",
+						"expanded_url": "https://twitter.com/SouthamptonFC/status/1491737199980781585/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1491737168561246200,
+						"id_str": "1491737168561246208",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/FLO3D8EXEAIKG3P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLO3D8EXEAIKG3P.jpg",
+						"url": "https://t.co/9OY9A7qVEz",
+						"display_url": "pic.twitter.com/9OY9A7qVEz",
+						"expanded_url": "https://twitter.com/SouthamptonFC/status/1491737199980781585/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 5680,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1491737168561246208/pl/Eq4orkIKjh3mKsHa.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1491737168561246208/vid/320x320/vFo2jfyvfo8Dn5AP.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1491737168561246208/vid/540x540/-rsCT0Lw4Kq7fLq-.mp4?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1491737168561246208/vid/720x720/1vPcynb24Oz_DQiJ.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Ward-Prowse has a wand of a right foot",
+							"description": "Check out James Ward-Prowse's two assists as Southampton staged a monumental comeback victory against Spurs.",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46143892,
+				"id_str": "46143892",
+				"name": "Southampton FC",
+				"screen_name": "SouthamptonFC",
+				"location": "St Mary's Stadium, Southampton",
+				"description": "The home of #SaintsFC on Twitter, with news from our Men’s, Women’s and Academy teams | @SaintsFCWomen for matchday updates from our Women's team.",
+				"url": "https://t.co/AfTGyDtZoh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AfTGyDtZoh",
+								"expanded_url": "http://www.southamptonfc.com",
+								"display_url": "southamptonfc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1470505,
+				"friends_count": 281,
+				"listed_count": 5608,
+				"created_at": "Wed Jun 10 15:52:04 +0000 2009",
+				"favourites_count": 11963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 102245,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467816005485436929/vwVfGEfn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467816005485436929/vwVfGEfn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46143892/1643100228",
+				"profile_link_color": "B50B0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 145,
+			"favorite_count": 1494,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just me starting my day by scrolling #saintsfc for replays ☕😆 https://t.co/JfND1LmkbU"
+	},
+	{
 		"created_at": "Mon Feb 07 18:39:20 +0000 2022",
 		"id": 1490757084371161000,
 		"id_str": "1490757084371161098",
