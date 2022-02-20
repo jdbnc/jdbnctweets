@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 18:15:37 +0000 2022",
+		"id": 1495099770746060800,
+		"id_str": "1495099770746060800",
+		"full_text": "@KWPeters @SouthamptonFC @premierleague You tore it up 😤",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWPeters",
+					"name": "Kyle Walker-Peters",
+					"id": 426525245,
+					"id_str": "426525245",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SouthamptonFC",
+					"name": "Southampton FC",
+					"id": 46143892,
+					"id_str": "46143892",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "premierleague",
+					"name": "Premier League",
+					"id": 343627165,
+					"id_str": "343627165",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1495099342138617900,
+		"in_reply_to_status_id_str": "1495099342138617864",
+		"in_reply_to_user_id": 426525245,
+		"in_reply_to_user_id_str": "426525245",
+		"in_reply_to_screen_name": "KWPeters",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 742,
+			"friends_count": 1076,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 6250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KWPeters @SouthamptonFC @premierleague You tore it up 😤"
+	},
+	{
 		"created_at": "Thu Feb 17 23:28:21 +0000 2022",
 		"id": 1494453695228133400,
 		"id_str": "1494453695228133379",
