@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 22:40:14 +0000 2022",
+		"id": 1540443165274013700,
+		"id_str": "1540464845119709184",
+		"full_text": "Here is your friendly reminder that we built Signal for private, secure communication. It’s built so you can communicate individually and in groups, through text and calls, without fear of interference or data collection. Free to use and not for profit.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142415193,
+			"id_str": "142415193",
+			"name": "Signal",
+			"screen_name": "signalapp",
+			"location": "",
+			"description": "Signal is an end-to-end encrypted messaging app. Privacy isn’t an optional mode, it’s just the way that Signal works. Every message, every call, every time.",
+			"url": "https://t.co/jxWOJvzt1T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jxWOJvzt1T",
+							"expanded_url": "http://signal.org",
+							"display_url": "signal.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 541626,
+			"friends_count": 30,
+			"listed_count": 3381,
+			"created_at": "Mon May 10 20:47:35 +0000 2010",
+			"favourites_count": 1340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412497225377271813/-XTYE5pw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412497225377271813/-XTYE5pw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142415193/1422133327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2871,
+		"favorite_count": 9225,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Here is your friendly reminder that we built Signal for private, secure communication. It’s built so you can communicate individually and in groups, through text and calls, without fear of interference or data collection. Free to use and not for profit."
+	},
+	{
 		"created_at": "Tue Jun 21 04:14:18 +0000 2022",
 		"id": 1539099365549215700,
 		"id_str": "1539099365549215745",
