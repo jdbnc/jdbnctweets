@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 14:53:28 +0000 2022",
+		"id": 1541796931881640000,
+		"id_str": "1541796931881639936",
+		"full_text": "Ok last one, but this got me 😞 https://t.co/Brhm14vOw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Brhm14vOw8",
+					"expanded_url": "https://twitter.com/murielvega/status/1541418854961893376",
+					"display_url": "twitter.com/murielvega/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 1085,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 6607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541418854961893400,
+		"quoted_status_id_str": "1541418854961893376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Brhm14vOw8",
+			"expanded": "https://twitter.com/murielvega/status/1541418854961893376",
+			"display": "twitter.com/murielvega/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 27 13:51:07 +0000 2022",
+			"id": 1541418854961893400,
+			"id_str": "1541418854961893376",
+			"full_text": "Words cannot describe how much The Local means to me and how much I will miss it. The rumors are true + I’m fucking gutted. Here’s my love letter to my favorite bar. Nothing gold can stay 💔 https://t.co/teRJ2QgmNj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/teRJ2QgmNj",
+						"expanded_url": "https://www.atlantamagazine.com/dining-news/the-local-is-4ever/",
+						"display_url": "atlantamagazine.com/dining-news/th…",
+						"indices": [
+							190,
+							213
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17035592,
+				"id_str": "17035592",
+				"name": "Muriel Vega",
+				"screen_name": "murielvega",
+				"location": "Atlanta, GA",
+				"description": "tech & culture writer • also product manager things @newstorycharity • murielvega@gmail.com",
+				"url": "https://t.co/TModMqqsz2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TModMqqsz2",
+								"expanded_url": "http://www.murielvega.net",
+								"display_url": "murielvega.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2788,
+				"friends_count": 937,
+				"listed_count": 147,
+				"created_at": "Wed Oct 29 04:07:49 +0000 2008",
+				"favourites_count": 47789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383605256517345285/6DH4Y1f6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383605256517345285/6DH4Y1f6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17035592/1648946324",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCC8CC",
+				"profile_text_color": "5C575C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok last one, but this got me 😞 https://t.co/Brhm14vOw8"
+	},
+	{
 		"created_at": "Tue Jun 28 02:32:29 +0000 2022",
 		"id": 1541592513051611100,
 		"id_str": "1541610459681415169",
