@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 15:18:35 +0000 2022",
+		"id": 1547601457607676000,
+		"id_str": "1547601457607675906",
+		"full_text": "My ticket-winning tweet confirmed by last night's performance #ATLUTD https://t.co/qCK1PNjUgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATLUTD",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCK1PNjUgs",
+					"expanded_url": "https://twitter.com/jdbence/status/1545446135866728456",
+					"display_url": "twitter.com/jdbence/status…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 1089,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 6705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545446135866728400,
+		"quoted_status_id_str": "1545446135866728456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qCK1PNjUgs",
+			"expanded": "https://twitter.com/jdbence/status/1545446135866728456",
+			"display": "twitter.com/jdbence/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 08 16:34:06 +0000 2022",
+			"id": 1545446135866728400,
+			"id_str": "1545446135866728456",
+			"full_text": "@ATLUTD @MBStadium Caleb Wiley is the 🐐",
+			"truncated": false,
+			"display_text_range": [
+				19,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ATLUTD",
+						"name": "Atlanta United FC",
+						"id": 2413176055,
+						"id_str": "2413176055",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "MBStadium",
+						"name": "Mercedes-Benz Stadium",
+						"id": 1465030333,
+						"id_str": "1465030333",
+						"indices": [
+							8,
+							18
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": 1545445799794024400,
+			"in_reply_to_status_id_str": "1545445799794024448",
+			"in_reply_to_user_id": 2413176055,
+			"in_reply_to_user_id_str": "2413176055",
+			"in_reply_to_screen_name": "ATLUTD",
+			"user": {
+				"id": 24188638,
+				"id_str": "24188638",
+				"name": "John Bence",
+				"screen_name": "jdbence",
+				"location": "Atlanta",
+				"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 733,
+				"friends_count": 1089,
+				"listed_count": 29,
+				"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+				"favourites_count": 6705,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3845,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "12B8A5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My ticket-winning tweet confirmed by last night's performance #ATLUTD https://t.co/qCK1PNjUgs"
+	},
+	{
 		"created_at": "Wed Jul 13 18:20:10 +0000 2022",
 		"id": 1547284765971202000,
 		"id_str": "1547284765971202048",
