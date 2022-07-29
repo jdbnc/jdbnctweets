@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 18:02:46 +0000 2022",
+		"id": 1552716208478224400,
+		"id_str": "1552716208478224389",
+		"full_text": "Confused by this story. Threat of loss seems low since there's a finding aid online for the material in question 🧐 https://t.co/xjRaPwhGWn https://t.co/LpBJslSELa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xjRaPwhGWn",
+					"expanded_url": "http://pid.emory.edu/ark:/25593/d6p6q",
+					"display_url": "pid.emory.edu/ark:/25593/d6p…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/LpBJslSELa",
+					"expanded_url": "https://twitter.com/CarrieNBaker/status/1552068822051557377",
+					"display_url": "twitter.com/CarrieNBaker/s…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 1097,
+			"listed_count": 29,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 6714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552068822051557400,
+		"quoted_status_id_str": "1552068822051557377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LpBJslSELa",
+			"expanded": "https://twitter.com/CarrieNBaker/status/1552068822051557377",
+			"display": "twitter.com/CarrieNBaker/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 26 23:10:17 +0000 2022",
+			"id": 1552068822051557400,
+			"id_str": "1552068822051557377",
+			"full_text": "We need to preserve feminist legal history NOW before it's too late! @MsMagazine @smithcollege @MarthaLAFineman @salliebingham @RadInstitute @PembrokeCenter @archivalagents @archivedB @DukeLibraries @binghamctr @lisabaskin  \nhttps://t.co/F5KQidwcQ5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MsMagazine",
+						"name": "Ms. Magazine",
+						"id": 14177942,
+						"id_str": "14177942",
+						"indices": [
+							69,
+							80
+						]
+					},
+					{
+						"screen_name": "smithcollege",
+						"name": "Smith College",
+						"id": 17025399,
+						"id_str": "17025399",
+						"indices": [
+							81,
+							94
+						]
+					},
+					{
+						"screen_name": "MarthaLAFineman",
+						"name": "Martha LA Fineman",
+						"id": 552096214,
+						"id_str": "552096214",
+						"indices": [
+							95,
+							111
+						]
+					},
+					{
+						"screen_name": "salliebingham",
+						"name": "Sallie Bingham",
+						"id": 55917167,
+						"id_str": "55917167",
+						"indices": [
+							112,
+							126
+						]
+					},
+					{
+						"screen_name": "RadInstitute",
+						"name": "Harvard Radcliffe Institute",
+						"id": 216478332,
+						"id_str": "216478332",
+						"indices": [
+							127,
+							140
+						]
+					},
+					{
+						"screen_name": "PembrokeCenter",
+						"name": "Pembroke Center",
+						"id": 481396927,
+						"id_str": "481396927",
+						"indices": [
+							141,
+							156
+						]
+					},
+					{
+						"screen_name": "archivalagents",
+						"name": "Smith College Special Collections",
+						"id": 740882575816831000,
+						"id_str": "740882575816830976",
+						"indices": [
+							157,
+							172
+						]
+					},
+					{
+						"screen_name": "archivedB",
+						"name": "Beth Myers",
+						"id": 1534038668,
+						"id_str": "1534038668",
+						"indices": [
+							173,
+							183
+						]
+					},
+					{
+						"screen_name": "DukeLibraries",
+						"name": "Duke Libraries",
+						"id": 84614552,
+						"id_str": "84614552",
+						"indices": [
+							184,
+							198
+						]
+					},
+					{
+						"screen_name": "binghamctr",
+						"name": "Sallie Bingham Ctr",
+						"id": 826499741223678000,
+						"id_str": "826499741223677952",
+						"indices": [
+							199,
+							210
+						]
+					},
+					{
+						"screen_name": "lisabaskin",
+						"name": "Lisa Baskin",
+						"id": 223047740,
+						"id_str": "223047740",
+						"indices": [
+							211,
+							222
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/F5KQidwcQ5",
+						"expanded_url": "https://msmagazine.com/2022/07/26/feminist-womens-history-feminism-legal-theory-project-martha-albertson-fineman/",
+						"display_url": "msmagazine.com/2022/07/26/fem…",
+						"indices": [
+							225,
+							248
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2730013317,
+				"id_str": "2730013317",
+				"name": "Carrie N. Baker",
+				"screen_name": "CarrieNBaker",
+				"location": "Northampton, MA",
+				"description": "Professor @SmithCollege| Contributing Editor @MsMagazine| Columnist @DailyHampGaz\nhttps://t.co/Vc6D01onDo…",
+				"url": "https://t.co/NYsWPAFDn6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NYsWPAFDn6",
+								"expanded_url": "https://www.carriebakerphd.com/",
+								"display_url": "carriebakerphd.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Vc6D01onDo",
+								"expanded_url": "http://msmagazine.com/author/carrieb",
+								"display_url": "msmagazine.com/author/carrieb",
+								"indices": [
+									82,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1281,
+				"friends_count": 860,
+				"listed_count": 17,
+				"created_at": "Thu Jul 31 17:05:32 +0000 2014",
+				"favourites_count": 3221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1947,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1358215159655890945/nfmzgyuQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358215159655890945/nfmzgyuQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2730013317/1627516223",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Confused by this story. Threat of loss seems low since there's a finding aid online for the material in question 🧐 https://t.co/xjRaPwhGWn https://t.co/LpBJslSELa"
+	},
+	{
 		"created_at": "Tue Jul 26 16:41:48 +0000 2022",
 		"id": 1551971056432316400,
 		"id_str": "1551971056432316416",
