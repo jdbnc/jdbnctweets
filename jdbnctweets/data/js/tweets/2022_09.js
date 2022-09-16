@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 18:12:50 +0000 2022",
+		"id": 1570475745977454600,
+		"id_str": "1570475745977454592",
+		"full_text": "@ATLUTD @_andrewgutman_ @ThiagoAlmada08 Elle Woods quote ftw 👌🏻",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATLUTD",
+					"name": "Atlanta United FC",
+					"id": 2413176055,
+					"id_str": "2413176055",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "_andrewgutman_",
+					"name": "Andrew Gutman",
+					"id": 761349079108579300,
+					"id_str": "761349079108579328",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "ThiagoAlmada08",
+					"name": "Thiago ezequiel Almada",
+					"id": 1430984557835260000,
+					"id_str": "1430984557835259912",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1570473691225497600,
+		"in_reply_to_status_id_str": "1570473691225497601",
+		"in_reply_to_user_id": 2413176055,
+		"in_reply_to_user_id_str": "2413176055",
+		"in_reply_to_screen_name": "ATLUTD",
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, I’m an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 735,
+			"friends_count": 1099,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 6942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ATLUTD @_andrewgutman_ @ThiagoAlmada08 Elle Woods quote ftw 👌🏻"
+	},
+	{
 		"created_at": "Sun Sep 04 00:50:48 +0000 2022",
 		"id": 1566227241020842000,
 		"id_str": "1566227241020841985",
