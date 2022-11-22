@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 21:52:14 +0000 2022",
+		"id": 1594810945972441000,
+		"id_str": "1594810945972441088",
+		"full_text": "Ok but I understand this distinction https://t.co/AL78dXBrZo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AL78dXBrZo",
+					"expanded_url": "https://twitter.com/themultiplemom/status/1594692337023827969",
+					"display_url": "twitter.com/themultiplemom…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, they let me be an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 710,
+			"friends_count": 1080,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 7092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1594692337023828000,
+		"quoted_status_id_str": "1594692337023827969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AL78dXBrZo",
+			"expanded": "https://twitter.com/themultiplemom/status/1594692337023827969",
+			"display": "twitter.com/themultiplemom…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 21 14:00:55 +0000 2022",
+			"id": 1594692337023828000,
+			"id_str": "1594692337023827969",
+			"full_text": "My 5yo had a meltdown because his chicken had meat but he didn’t want meat but he asked for chicken.\n\nAnd upon further investigation, he wanted bbq chicken not rotisserie. He calls rotisserie “meat chicken”. \n\nI be positive parenting but children don’t be positively childrening.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1352814508759261200,
+				"id_str": "1352814508759261184",
+				"name": "Princess | Sleep & Wellness",
+				"screen_name": "themultiplemom",
+				"location": "North Jersey ",
+				"description": "Certified wellness educator. seen: huffpost,Kidspotsocial,refinery29 & harpersbazaarus founder of @BeWellZara https://t.co/bTrxXUpnk8 She/Her",
+				"url": "https://t.co/2zwaNIlnis",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2zwaNIlnis",
+								"expanded_url": "https://ko-fi.com/themultiplemom",
+								"display_url": "ko-fi.com/themultiplemom",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bTrxXUpnk8",
+								"expanded_url": "https://linkr.bio/themultiplemom",
+								"display_url": "linkr.bio/themultiplemom",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12958,
+				"friends_count": 935,
+				"listed_count": 68,
+				"created_at": "Sat Jan 23 03:05:15 +0000 2021",
+				"favourites_count": 6677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24074,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1589199134652776449/bw_0FqdC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589199134652776449/bw_0FqdC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1352814508759261184/1651717190",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6810,
+			"favorite_count": 78327,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok but I understand this distinction https://t.co/AL78dXBrZo"
+	},
+	{
 		"created_at": "Fri Nov 18 19:55:37 +0000 2022",
 		"id": 1593454846744707000,
 		"id_str": "1593694434515984386",
