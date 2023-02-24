@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 16:23:54 +0000 2023",
+		"id": 1628792778607009800,
+		"id_str": "1628792778607009793",
+		"full_text": "Photog is killing me with this pic 🥹 https://t.co/7Kz48wktmQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Kz48wktmQ",
+					"expanded_url": "https://twitter.com/SouthamptonFC/status/1628778457563009025",
+					"display_url": "twitter.com/SouthamptonFC/…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24188638,
+			"id_str": "24188638",
+			"name": "John Bence",
+			"screen_name": "jdbence",
+			"location": "Atlanta",
+			"description": "On good days, they let me be an archivist   •   #ATLUTD #SaintsFC #s04   •",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 711,
+			"friends_count": 1082,
+			"listed_count": 28,
+			"created_at": "Fri Mar 13 15:25:29 +0000 2009",
+			"favourites_count": 7283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432855711520862215/zkApzUC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24188638/1596533389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "12B8A5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1628778457563009000,
+		"quoted_status_id_str": "1628778457563009025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7Kz48wktmQ",
+			"expanded": "https://twitter.com/SouthamptonFC/status/1628778457563009025",
+			"display": "twitter.com/SouthamptonFC/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 23 15:27:00 +0000 2023",
+			"id": 1628778457563009000,
+			"id_str": "1628778457563009025",
+			"full_text": "🇭🇷 x 🏴󠁧󠁢󠁳󠁣󠁴󠁿 https://t.co/8hW1RMDzmr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				12
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1628750948012114000,
+						"id_str": "1628750948012113920",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/Fpp8W5PXwAAtN7L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fpp8W5PXwAAtN7L.jpg",
+						"url": "https://t.co/8hW1RMDzmr",
+						"display_url": "pic.twitter.com/8hW1RMDzmr",
+						"expanded_url": "https://twitter.com/SouthamptonFC/status/1628778457563009025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1628750948012114000,
+						"id_str": "1628750948012113920",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/Fpp8W5PXwAAtN7L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fpp8W5PXwAAtN7L.jpg",
+						"url": "https://t.co/8hW1RMDzmr",
+						"display_url": "pic.twitter.com/8hW1RMDzmr",
+						"expanded_url": "https://twitter.com/SouthamptonFC/status/1628778457563009025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46143892,
+				"id_str": "46143892",
+				"name": "Southampton FC",
+				"screen_name": "SouthamptonFC",
+				"location": "St Mary's Stadium, Southampton",
+				"description": "The home of #SaintsFC on Twitter, with news from our Men’s, Women’s and Academy teams | @SaintsFCWomen for matchday updates from our Women's team.",
+				"url": "https://t.co/AfTGyDtZoh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AfTGyDtZoh",
+								"expanded_url": "http://www.southamptonfc.com",
+								"display_url": "southamptonfc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1601063,
+				"friends_count": 257,
+				"listed_count": 6048,
+				"created_at": "Wed Jun 10 15:52:04 +0000 2009",
+				"favourites_count": 12120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108585,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF0000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1592566248981893121/bo9DJC6L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1592566248981893121/bo9DJC6L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46143892/1676744391",
+				"profile_link_color": "B50B0B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 1001,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Photog is killing me with this pic 🥹 https://t.co/7Kz48wktmQ"
+	},
+	{
 		"created_at": "Thu Feb 23 00:05:49 +0000 2023",
 		"id": 1628546635839021000,
 		"id_str": "1628546635839021060",
